@@ -1,0 +1,139 @@
+[
+  {
+    "id": "poster-ceremony",
+    "sceneType": "poster",
+    "label": "礼序海报",
+    "carrierType": "poster",
+    "previewImage": "/assets/mockups/poster/poster-ceremony.png",
+    "overlayRegions": [
+      {
+        "id": "hero",
+        "x": 14,
+        "y": 18,
+        "width": 72,
+        "height": 48,
+        "shape": "rect",
+        "zIndex": 2,
+        "opacity": 0.94,
+        "recommendedCategories": ["mainMotifs", "secondaryMotifs", "borders"],
+        "maxAssetCount": 3
+      }
+    ],
+    "textSlots": {
+      "title": { "x": 14, "y": 10, "width": 72, "align": "left", "fontSize": "lg", "lineClamp": 2, "maxWidth": 72, "zIndex": 4, "emphasis": "high" },
+      "subtitle": { "x": 14, "y": 68, "width": 56, "align": "left", "fontSize": "md", "lineClamp": 2, "maxWidth": 56, "zIndex": 4, "emphasis": "medium" },
+      "caption": { "x": 14, "y": 76, "width": 70, "align": "left", "fontSize": "sm", "lineClamp": 3, "maxWidth": 70, "zIndex": 4, "emphasis": "low" },
+      "brand": { "x": 14, "y": 90, "width": 30, "align": "left", "fontSize": "sm", "lineClamp": 1, "maxWidth": 30, "zIndex": 5, "emphasis": "medium" }
+    },
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["traditional", "fusion"]
+  },
+  {
+    "id": "poster-minimal",
+    "sceneType": "poster",
+    "label": "清简海报",
+    "carrierType": "poster",
+    "previewImage": "/assets/mockups/poster/poster-minimal.png",
+    "overlayRegions": [
+      {
+        "id": "hero",
+        "x": 22,
+        "y": 22,
+        "width": 56,
+        "height": 42,
+        "shape": "rect",
+        "zIndex": 2,
+        "opacity": 0.88,
+        "recommendedCategories": ["mainMotifs", "backgroundTextures", "decorations"],
+        "maxAssetCount": 2
+      }
+    ],
+    "textSlots": {
+      "title": { "x": 18, "y": 12, "width": 64, "align": "center", "fontSize": "lg", "lineClamp": 2, "maxWidth": 64, "zIndex": 4, "emphasis": "high" },
+      "subtitle": { "x": 18, "y": 68, "width": 64, "align": "center", "fontSize": "md", "lineClamp": 2, "maxWidth": 64, "zIndex": 4, "emphasis": "medium" },
+      "caption": { "x": 18, "y": 78, "width": 64, "align": "center", "fontSize": "sm", "lineClamp": 3, "maxWidth": 64, "zIndex": 4, "emphasis": "low" },
+      "brand": { "x": 35, "y": 91, "width": 30, "align": "center", "fontSize": "sm", "lineClamp": 1, "maxWidth": 30, "zIndex": 5, "emphasis": "medium" }
+    },
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["fusion", "modern"]
+  },
+  {
+    "id": "fashion-tshirt",
+    "sceneType": "fashion",
+    "label": "T 恤样机",
+    "carrierType": "tshirt",
+    "previewImage": "/assets/mockups/fashion/fashion-tshirt.png",
+    "overlayRegions": [
+      {
+        "id": "print-front",
+        "x": 31,
+        "y": 28,
+        "width": 38,
+        "height": 36,
+        "shape": "rect",
+        "zIndex": 2,
+        "opacity": 0.96,
+        "recommendedCategories": ["mainMotifs", "secondaryMotifs", "decorations"],
+        "maxAssetCount": 3
+      }
+    ],
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["fusion", "modern"]
+  },
+  {
+    "id": "fashion-hoodie",
+    "sceneType": "fashion",
+    "label": "卫衣样机",
+    "carrierType": "hoodie",
+    "previewImage": "/assets/mockups/fashion/fashion-hoodie.png",
+    "overlayRegions": [
+      {
+        "id": "print-front",
+        "x": 28,
+        "y": 32,
+        "width": 44,
+        "height": 34,
+        "shape": "rect",
+        "zIndex": 2,
+        "opacity": 0.96,
+        "recommendedCategories": ["mainMotifs", "secondaryMotifs", "decorations"],
+        "maxAssetCount": 3
+      }
+    ],
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["traditional", "fusion", "modern"]
+  },
+  {
+    "id": "package-giftbox",
+    "sceneType": "package",
+    "label": "礼盒包装",
+    "carrierType": "giftbox",
+    "previewImage": "/assets/mockups/package/package-giftbox.png",
+    "overlayRegions": [
+      { "id": "lid", "x": 22, "y": 18, "width": 56, "height": 24, "shape": "rect", "zIndex": 2, "opacity": 0.9, "recommendedCategories": ["borders", "mainMotifs"], "maxAssetCount": 2 },
+      { "id": "body", "x": 18, "y": 46, "width": 64, "height": 28, "shape": "rect", "zIndex": 3, "opacity": 0.86, "recommendedCategories": ["mainMotifs", "backgroundTextures", "secondaryMotifs"], "maxAssetCount": 3 }
+    ],
+    "textSlots": {
+      "title": { "x": 26, "y": 27, "width": 48, "align": "center", "fontSize": "md", "lineClamp": 2, "maxWidth": 48, "zIndex": 5, "emphasis": "high" },
+      "caption": { "x": 22, "y": 79, "width": 56, "align": "center", "fontSize": "sm", "lineClamp": 2, "maxWidth": 56, "zIndex": 5, "emphasis": "low" }
+    },
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["traditional", "fusion"]
+  },
+  {
+    "id": "package-teacan",
+    "sceneType": "package",
+    "label": "茶罐包装",
+    "carrierType": "teacan",
+    "previewImage": "/assets/mockups/package/package-teacan.png",
+    "overlayRegions": [
+      { "id": "front", "x": 36, "y": 20, "width": 28, "height": 48, "shape": "rect", "zIndex": 3, "opacity": 0.88, "recommendedCategories": ["mainMotifs", "backgroundTextures", "decorations"], "maxAssetCount": 2 }
+    ],
+    "textSlots": {
+      "title": { "x": 36, "y": 27, "width": 28, "align": "center", "fontSize": "md", "lineClamp": 2, "maxWidth": 28, "zIndex": 5, "emphasis": "high" },
+      "caption": { "x": 24, "y": 80, "width": 52, "align": "center", "fontSize": "sm", "lineClamp": 2, "maxWidth": 52, "zIndex": 5, "emphasis": "low" }
+    },
+    "compatiblePatterns": ["dunhuang", "qinghua", "miaoxiu"],
+    "recommendedStyles": ["fusion", "modern"]
+  }
+]

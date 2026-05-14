@@ -1,0 +1,403 @@
+[
+  {
+    "system": "dunhuang",
+    "styleKeywords": ["ornate", "flow", "ritual", "radiance"],
+    "colorBase": ["#C65D34", "#E8C27B", "#6F3B2B"],
+    "assets": [
+      {
+        "id": "dh-main-01",
+        "label": "敦煌莲华主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/dunhuang/main/dh-main-01.png",
+        "format": "png",
+        "tags": ["祥云", "花放", "华彩"],
+        "recommendedFor": ["福", "喜", "瑞光"],
+        "weight": 10
+      },
+      {
+        "id": "dh-main-02",
+        "label": "敦煌流云主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/dunhuang/main/dh-main-02.png",
+        "format": "png",
+        "tags": ["回旋", "流带", "祥云"],
+        "recommendedFor": ["运", "如意", "青云"],
+        "weight": 9
+      },
+      {
+        "id": "dh-main-03",
+        "label": "敦煌华盖主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/dunhuang/main/dh-main-03.png",
+        "format": "png",
+        "tags": ["光晕", "华章", "祥瑞"],
+        "recommendedFor": ["华章", "瑞光", "吉祥"],
+        "weight": 9
+      },
+      {
+        "id": "dh-secondary-01",
+        "label": "敦煌旋羽副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/dunhuang/secondary/dh-secondary-01.png",
+        "format": "png",
+        "tags": ["轻羽", "回波", "升腾"],
+        "recommendedFor": ["欢喜", "青云", "升平"],
+        "weight": 7
+      },
+      {
+        "id": "dh-secondary-02",
+        "label": "敦煌卷草副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/dunhuang/secondary/dh-secondary-02.png",
+        "format": "png",
+        "tags": ["卷草", "延展", "层叠"],
+        "recommendedFor": ["如意", "云锦", "福满"],
+        "weight": 7
+      },
+      {
+        "id": "dh-secondary-03",
+        "label": "敦煌回旋副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/dunhuang/secondary/dh-secondary-03.png",
+        "format": "png",
+        "tags": ["回旋", "云气", "护持"],
+        "recommendedFor": ["长宁", "祥和", "瑞光"],
+        "weight": 6
+      },
+      {
+        "id": "dh-border-01",
+        "label": "敦煌锦带边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/dunhuang/border/dh-border-01.png",
+        "format": "png",
+        "tags": ["锦带", "礼仪", "章纹"],
+        "recommendedFor": ["禄", "华章", "吉祥"],
+        "weight": 6
+      },
+      {
+        "id": "dh-border-02",
+        "label": "敦煌宝相边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/dunhuang/border/dh-border-02.png",
+        "format": "png",
+        "tags": ["宝相", "规整", "仪轨"],
+        "recommendedFor": ["福满", "吉祥", "华章"],
+        "weight": 6
+      },
+      {
+        "id": "dh-border-03",
+        "label": "敦煌连珠边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/dunhuang/border/dh-border-03.png",
+        "format": "png",
+        "tags": ["连珠", "围合", "节奏"],
+        "recommendedFor": ["如意", "喜", "福"],
+        "weight": 5
+      },
+      {
+        "id": "dh-texture-01",
+        "label": "敦煌砂金肌理",
+        "category": "backgroundTextures",
+        "filePath": "/assets/patterns/dunhuang/texture/dh-texture-01.png",
+        "format": "png",
+        "tags": ["光晕", "砂感", "层霞"],
+        "recommendedFor": ["瑞光", "福满", "云锦"],
+        "weight": 5
+      },
+      {
+        "id": "dh-texture-02",
+        "label": "敦煌岩彩肌理",
+        "category": "backgroundTextures",
+        "filePath": "/assets/patterns/dunhuang/texture/dh-texture-02.png",
+        "format": "png",
+        "tags": ["岩彩", "层染", "温润"],
+        "recommendedFor": ["华章", "吉祥", "福"],
+        "weight": 5
+      },
+      {
+        "id": "dh-deco-01",
+        "label": "敦煌珠链点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/dunhuang/deco/dh-deco-01.png",
+        "format": "png",
+        "tags": ["珠饰", "礼赠", "围合"],
+        "recommendedFor": ["如意", "吉祥", "福"],
+        "weight": 4
+      },
+      {
+        "id": "dh-deco-02",
+        "label": "敦煌花珠点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/dunhuang/deco/dh-deco-02.png",
+        "format": "png",
+        "tags": ["花珠", "节庆", "闪耀"],
+        "recommendedFor": ["喜", "福满", "锦绣"],
+        "weight": 4
+      },
+      {
+        "id": "dh-deco-03",
+        "label": "敦煌流苏点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/dunhuang/deco/dh-deco-03.png",
+        "format": "png",
+        "tags": ["流苏", "灵动", "飞扬"],
+        "recommendedFor": ["欢喜", "华章", "如意"],
+        "weight": 4
+      },
+      {
+        "id": "dh-deco-04",
+        "label": "敦煌彩带点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/dunhuang/deco/dh-deco-04.png",
+        "format": "png",
+        "tags": ["彩带", "舞动", "庆典"],
+        "recommendedFor": ["喜", "吉祥", "华章"],
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "system": "qinghua",
+    "styleKeywords": ["clean", "balance", "porcelain", "rhythm"],
+    "colorBase": ["#2E5A84", "#F7F7F5", "#93A7BE"],
+    "assets": [
+      {
+        "id": "qh-main-01",
+        "label": "青花折枝主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/qinghua/main/qh-main-01.png",
+        "format": "png",
+        "tags": ["疏枝", "清雅", "平衡"],
+        "recommendedFor": ["宁", "清宁", "青云"],
+        "weight": 10
+      },
+      {
+        "id": "qh-main-02",
+        "label": "青花水波主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/qinghua/main/qh-main-02.png",
+        "format": "png",
+        "tags": ["水纹", "净水", "平波"],
+        "recommendedFor": ["和", "安和", "清宁"],
+        "weight": 9
+      },
+      {
+        "id": "qh-main-03",
+        "label": "青花花叶主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/qinghua/main/qh-main-03.png",
+        "format": "png",
+        "tags": ["花叶", "轻盈", "清雅"],
+        "recommendedFor": ["青云", "和鸣", "宁"],
+        "weight": 8
+      },
+      {
+        "id": "qh-secondary-01",
+        "label": "青花回环副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/qinghua/secondary/qh-secondary-01.png",
+        "format": "png",
+        "tags": ["回环", "协同", "双生纹"],
+        "recommendedFor": ["和鸣", "云和", "禄"],
+        "weight": 7
+      },
+      {
+        "id": "qh-secondary-02",
+        "label": "青花连枝副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/qinghua/secondary/qh-secondary-02.png",
+        "format": "png",
+        "tags": ["连枝", "延展", "均衡"],
+        "recommendedFor": ["安和", "青云", "和"],
+        "weight": 7
+      },
+      {
+        "id": "qh-secondary-03",
+        "label": "青花波纹副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/qinghua/secondary/qh-secondary-03.png",
+        "format": "png",
+        "tags": ["轻波", "节奏", "留白"],
+        "recommendedFor": ["清宁", "宁", "和鸣"],
+        "weight": 6
+      },
+      {
+        "id": "qh-border-01",
+        "label": "青花回字边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/qinghua/border/qh-border-01.png",
+        "format": "png",
+        "tags": ["仪轨", "章法", "规整"],
+        "recommendedFor": ["禄", "和", "清宁"],
+        "weight": 6
+      },
+      {
+        "id": "qh-border-02",
+        "label": "青花连环边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/qinghua/border/qh-border-02.png",
+        "format": "png",
+        "tags": ["连环", "均衡", "秩序"],
+        "recommendedFor": ["安和", "清宁", "禄"],
+        "weight": 5
+      },
+      {
+        "id": "qh-texture-01",
+        "label": "青花宣纸底纹",
+        "category": "backgroundTextures",
+        "filePath": "/assets/patterns/qinghua/texture/qh-texture-01.png",
+        "format": "png",
+        "tags": ["留白", "素净", "轻透"],
+        "recommendedFor": ["宁", "清宁", "安和"],
+        "weight": 5
+      },
+      {
+        "id": "qh-texture-02",
+        "label": "青花瓷釉底纹",
+        "category": "backgroundTextures",
+        "filePath": "/assets/patterns/qinghua/texture/qh-texture-02.png",
+        "format": "png",
+        "tags": ["釉感", "温润", "净白"],
+        "recommendedFor": ["和", "安和", "宁"],
+        "weight": 5
+      },
+      {
+        "id": "qh-deco-01",
+        "label": "青花点染装饰",
+        "category": "decorations",
+        "filePath": "/assets/patterns/qinghua/deco/qh-deco-01.png",
+        "format": "png",
+        "tags": ["点染", "轻波", "节奏"],
+        "recommendedFor": ["青云", "云和", "和鸣"],
+        "weight": 4
+      },
+      {
+        "id": "qh-deco-02",
+        "label": "青花碎点装饰",
+        "category": "decorations",
+        "filePath": "/assets/patterns/qinghua/deco/qh-deco-02.png",
+        "format": "png",
+        "tags": ["碎点", "流韵", "轻盈"],
+        "recommendedFor": ["清宁", "青云", "和"],
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "system": "miaoxiu",
+    "styleKeywords": ["layered", "growth", "craft", "guard"],
+    "colorBase": ["#9A3448", "#E8C889", "#2F5D53"],
+    "assets": [
+      {
+        "id": "mx-main-01",
+        "label": "苗绣繁花主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/miaoxiu/main/mx-main-01.png",
+        "format": "png",
+        "tags": ["花放", "层瓣", "锦团"],
+        "recommendedFor": ["锦绣", "盛开", "福满"],
+        "weight": 10
+      },
+      {
+        "id": "mx-main-02",
+        "label": "苗绣守护主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/miaoxiu/main/mx-main-02.png",
+        "format": "png",
+        "tags": ["守纹", "守护", "长枝"],
+        "recommendedFor": ["安", "长宁", "锦安"],
+        "weight": 9
+      },
+      {
+        "id": "mx-main-03",
+        "label": "苗绣花鸟主纹",
+        "category": "mainMotifs",
+        "filePath": "/assets/patterns/miaoxiu/main/mx-main-03.png",
+        "format": "png",
+        "tags": ["灵鸟", "盛放", "庆典"],
+        "recommendedFor": ["欢喜", "锦绣", "盛开"],
+        "weight": 8
+      },
+      {
+        "id": "mx-secondary-01",
+        "label": "苗绣羽片副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/miaoxiu/secondary/mx-secondary-01.png",
+        "format": "png",
+        "tags": ["轻羽", "飞花", "灵动"],
+        "recommendedFor": ["欢喜", "盛开", "寿"],
+        "weight": 7
+      },
+      {
+        "id": "mx-secondary-02",
+        "label": "苗绣层瓣副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/miaoxiu/secondary/mx-secondary-02.png",
+        "format": "png",
+        "tags": ["层瓣", "包裹", "繁盛"],
+        "recommendedFor": ["福满", "锦绣", "长宁"],
+        "weight": 7
+      },
+      {
+        "id": "mx-secondary-03",
+        "label": "苗绣卷叶副纹",
+        "category": "secondaryMotifs",
+        "filePath": "/assets/patterns/miaoxiu/secondary/mx-secondary-03.png",
+        "format": "png",
+        "tags": ["卷叶", "生长", "延展"],
+        "recommendedFor": ["安", "锦安", "盛开"],
+        "weight": 6
+      },
+      {
+        "id": "mx-border-01",
+        "label": "苗绣针脚边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/miaoxiu/border/mx-border-01.png",
+        "format": "png",
+        "tags": ["针脚", "织理", "精工"],
+        "recommendedFor": ["锦绣", "锦安", "寿"],
+        "weight": 6
+      },
+      {
+        "id": "mx-border-02",
+        "label": "苗绣花带边饰",
+        "category": "borders",
+        "filePath": "/assets/patterns/miaoxiu/border/mx-border-02.png",
+        "format": "png",
+        "tags": ["织带", "节庆", "围合"],
+        "recommendedFor": ["喜", "锦绣", "福满"],
+        "weight": 5
+      },
+      {
+        "id": "mx-texture-01",
+        "label": "苗绣织物肌理",
+        "category": "backgroundTextures",
+        "filePath": "/assets/patterns/miaoxiu/texture/mx-texture-01.png",
+        "format": "png",
+        "tags": ["织理", "布面", "包裹"],
+        "recommendedFor": ["安", "福满", "长宁"],
+        "weight": 5
+      },
+      {
+        "id": "mx-deco-01",
+        "label": "苗绣银饰点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/miaoxiu/deco/mx-deco-01.png",
+        "format": "png",
+        "tags": ["银饰", "节庆", "响动"],
+        "recommendedFor": ["喜", "锦绣", "福满"],
+        "weight": 4
+      },
+      {
+        "id": "mx-deco-02",
+        "label": "苗绣铃片点缀",
+        "category": "decorations",
+        "filePath": "/assets/patterns/miaoxiu/deco/mx-deco-02.png",
+        "format": "png",
+        "tags": ["铃片", "流动", "节拍"],
+        "recommendedFor": ["欢喜", "长宁", "锦安"],
+        "weight": 4
+      }
+    ]
+  }
+]

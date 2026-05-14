@@ -1,0 +1,8863 @@
+{
+  "山": {
+    "character": "山",
+    "shuowenOriginal": "山，宣也。宣气散生万物，有石而高，象形。",
+    "shuowenExplanation": "山字以峰峦起伏的轮廓成形，强调高起、稳固、可依凭的自然形态，常被视为地势、骨架与秩序的象征。",
+    "imageryAnalysis": "在传统文化里，山既代表高峻与沉稳，也代表修行、隐逸、守望与时间沉积。它既是自然地理对象，也是人格与精神气度的外化形象。",
+    "commonImages": [
+      "峰峦",
+      "山石",
+      "层云",
+      "松林",
+      "古寺"
+    ],
+    "classicalPoems": [
+      "会当凌绝顶，一览众山小。",
+      "空山新雨后，天气晚来秋。",
+      "千山鸟飞绝，万径人踪灭。"
+    ],
+    "designKeywords": [
+      "layered",
+      "stone texture",
+      "ridge contour",
+      "majestic",
+      "calm"
+    ],
+    "summary": "山适合转化为具有层峦、石理、留白和纵深感的纹理背景，适合强调厚重、秩序与静观气质。",
+    "literaryQuotes": [
+      {
+        "text": "高山仰止，景行行止。",
+        "source": "诗经·小雅·车舝",
+        "keywords": [
+          "山",
+          "高山"
+        ]
+      },
+      {
+        "text": "会当凌绝顶，一览众山小。",
+        "source": "杜甫《望岳》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "空山新雨后，天气晚来秋。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "相看两不厌，只有敬亭山。",
+        "source": "李白《独坐敬亭山》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "采菊东篱下，悠然见南山。",
+        "source": "陶渊明《饮酒》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "千山鸟飞绝，万径人踪灭。",
+        "source": "柳宗元《江雪》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "不识庐山真面目，只缘身在此山中。",
+        "source": "苏轼《题西林壁》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "山重水复疑无路，柳暗花明又一村。",
+        "source": "陆游《游山西村》",
+        "keywords": [
+          "山"
+        ]
+      }
+    ]
+  },
+  "月": {
+    "character": "月",
+    "shuowenOriginal": "月，阙也。大阴之精。象形。",
+    "shuowenExplanation": "月字本义指月体，以弧形轮廓表达盈亏变化，是阴柔、节律与时间循环的重要象征。",
+    "imageryAnalysis": "月常被寄托为清辉、思念、团圆、照鉴与静夜情绪。它兼具天体秩序与人情寄寓，适合构建含蓄、柔和、清朗的视觉语境。",
+    "commonImages": [
+      "弯月",
+      "满月",
+      "月华",
+      "云影",
+      "夜色"
+    ],
+    "classicalPoems": [
+      "举头望明月，低头思故乡。",
+      "海上生明月，天涯共此时。",
+      "明月松间照，清泉石上流。"
+    ],
+    "designKeywords": [
+      "luminous",
+      "crescent arc",
+      "silver glow",
+      "quiet",
+      "rhythm"
+    ],
+    "summary": "月适合发展为柔光、环形弧线与夜色层叠的背景纹理，强调清辉、节律与抒情氛围。",
+    "literaryQuotes": [
+      {
+        "text": "举头望明月，低头思故乡。",
+        "source": "李白《静夜思》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "海上生明月，天涯共此时。",
+        "source": "张九龄《望月怀远》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "春江潮水连海平，海上明月共潮生。",
+        "source": "张若虚《春江花月夜》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "露从今夜白，月是故乡明。",
+        "source": "杜甫《月夜忆舍弟》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "月出惊山鸟，时鸣春涧中。",
+        "source": "王维《鸟鸣涧》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "人有悲欢离合，月有阴晴圆缺。",
+        "source": "苏轼《水调歌头》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "秦时明月汉时关，万里长征人未还。",
+        "source": "王昌龄《出塞》",
+        "keywords": [
+          "月"
+        ]
+      }
+    ]
+  },
+  "云": {
+    "character": "云",
+    "shuowenOriginal": "云，山川气也。从雨，云象回转形。",
+    "shuowenExplanation": "云指升腾流转的气象，古义强调气化回旋、聚散无常，具有轻盈与流动的结构感。",
+    "imageryAnalysis": "云常象征祥瑞、逍遥、升腾、缥缈与天际变化，也常与仙境、山水、宫阙等东方视觉传统相关联。",
+    "commonImages": [
+      "祥云",
+      "流云",
+      "云海",
+      "霞气",
+      "天幕"
+    ],
+    "classicalPoems": [
+      "行到水穷处，坐看云起时。",
+      "黑云压城城欲摧，甲光向日金鳞开。",
+      "千形万象竟还空，映水藏山片复重。"
+    ],
+    "designKeywords": [
+      "swirling",
+      "auspicious cloud",
+      "soft contour",
+      "floating",
+      "airy"
+    ],
+    "summary": "云适合构建层层回卷、轻重对比明显的纹理背景，适于营造流动、空灵和东方装饰感。",
+    "literaryQuotes": [
+      {
+        "text": "行到水穷处，坐看云起时。",
+        "source": "王维《终南别业》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "白云回望合，青霭入看无。",
+        "source": "王维《终南山》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "黄鹤一去不复返，白云千载空悠悠。",
+        "source": "崔颢《黄鹤楼》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "黑云压城城欲摧，甲光向日金鳞开。",
+        "source": "李贺《雁门太守行》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "云想衣裳花想容，春风拂槛露华浓。",
+        "source": "李白《清平调》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "野径云俱黑，江船火独明。",
+        "source": "杜甫《春夜喜雨》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "众鸟高飞尽，孤云独去闲。",
+        "source": "李白《独坐敬亭山》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "只在此山中，云深不知处。",
+        "source": "贾岛《寻隐者不遇》",
+        "keywords": [
+          "云"
+        ]
+      }
+    ]
+  },
+  "风": {
+    "character": "风",
+    "shuowenOriginal": "风，八风也。东方曰明庶风，象形。",
+    "shuowenExplanation": "风字表现气流运行的不可见力量，强调流动、穿行、感知与变化。",
+    "imageryAnalysis": "风常关联速度、气势、消息、季节更迭与看不见的影响力，也可引申为文采、风骨、气韵。",
+    "commonImages": [
+      "风纹",
+      "衣袂",
+      "流线",
+      "林梢",
+      "波痕"
+    ],
+    "classicalPoems": [
+      "春风又绿江南岸，明月何时照我还。",
+      "大风起兮云飞扬。",
+      "夜来风雨声，花落知多少。"
+    ],
+    "designKeywords": [
+      "flowing line",
+      "motion",
+      "lightweight",
+      "dynamic",
+      "rhythmic"
+    ],
+    "summary": "风适合转化为方向性强、线性明显的背景纹理，用于强调速度、节奏与气流穿行感。",
+    "literaryQuotes": [
+      {
+        "text": "春风又绿江南岸，明月何时照我还。",
+        "source": "王安石《泊船瓜洲》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "夜来风雨声，花落知多少。",
+        "source": "孟浩然《春晓》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "大风起兮云飞扬。",
+        "source": "刘邦《大风歌》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "八月秋高风怒号，卷我屋上三重茅。",
+        "source": "杜甫《茅屋为秋风所破歌》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "沾衣欲湿杏花雨，吹面不寒杨柳风。",
+        "source": "志南《绝句》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "随风潜入夜，润物细无声。",
+        "source": "杜甫《春夜喜雨》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "等闲识得东风面，万紫千红总是春。",
+        "source": "朱熹《春日》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "北风卷地白草折，胡天八月即飞雪。",
+        "source": "岑参《白雪歌送武判官归京》",
+        "keywords": [
+          "风"
+        ]
+      }
+    ]
+  },
+  "花": {
+    "character": "花",
+    "shuowenOriginal": "花，华也。从艸，化声。",
+    "shuowenExplanation": "花与华通义，强调植物由生长转向绽放的状态，象征繁盛、光彩与装饰性。",
+    "imageryAnalysis": "花在传统语境中兼具时令、生命、美感与情绪寓意，可表现春意、繁华、离愁与芬芳意境。",
+    "commonImages": [
+      "花瓣",
+      "花枝",
+      "落英",
+      "春色",
+      "庭院"
+    ],
+    "classicalPoems": [
+      "人闲桂花落，夜静春山空。",
+      "花间一壶酒，独酌无相亲。",
+      "春色满园关不住，一枝红杏出墙来。"
+    ],
+    "designKeywords": [
+      "petal spread",
+      "bloom",
+      "ornamental",
+      "soft color",
+      "seasonal"
+    ],
+    "summary": "花适合发展为具有花瓣重复、枝叶穿插和轻柔层次的背景纹理，适合表达繁盛与装饰美感。",
+    "literaryQuotes": [
+      {
+        "text": "人闲桂花落，夜静春山空。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "花"
+        ]
+      },
+      {
+        "text": "花间一壶酒，独酌无相亲。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "花"
+        ]
+      },
+      {
+        "text": "春色满园关不住，一枝红杏出墙来。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "花"
+        ]
+      },
+      {
+        "text": "花象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "花",
+          "花瓣"
+        ]
+      },
+      {
+        "text": "因花取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "花",
+          "花枝"
+        ]
+      },
+      {
+        "text": "花与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "花",
+          "落英"
+        ]
+      },
+      {
+        "text": "以花写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "花",
+          "春色"
+        ]
+      },
+      {
+        "text": "花为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "花",
+          "庭院"
+        ]
+      }
+    ]
+  },
+  "莲": {
+    "character": "莲",
+    "shuowenOriginal": "莲，扶渠之实也。从艸，连声。",
+    "shuowenExplanation": "莲字本指荷莲植物，兼具花、叶、蓬、茎等形态特征，在传统文化中意涵极为丰富。",
+    "imageryAnalysis": "莲常与清净、高洁、佛教象征、夏日水景相联，也常用于器物、藻井、纹样等装饰母题。",
+    "commonImages": [
+      "莲瓣",
+      "莲蓬",
+      "荷叶",
+      "水面",
+      "佛座"
+    ],
+    "classicalPoems": [
+      "接天莲叶无穷碧，映日荷花别样红。",
+      "出淤泥而不染，濯清涟而不妖。",
+      "小荷才露尖尖角，早有蜻蜓立上头。"
+    ],
+    "designKeywords": [
+      "lotus petal",
+      "symmetry",
+      "purity",
+      "water surface",
+      "ornamental rhythm"
+    ],
+    "summary": "莲适合做成带有莲瓣放射、圆心秩序和水面留白感的背景纹理，兼具高洁与装饰性。",
+    "literaryQuotes": [
+      {
+        "text": "接天莲叶无穷碧，映日荷花别样红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "莲"
+        ]
+      },
+      {
+        "text": "出淤泥而不染，濯清涟而不妖。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "莲"
+        ]
+      },
+      {
+        "text": "小荷才露尖尖角，早有蜻蜓立上头。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "莲"
+        ]
+      },
+      {
+        "text": "莲象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "莲",
+          "莲瓣"
+        ]
+      },
+      {
+        "text": "因莲取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "莲",
+          "莲蓬"
+        ]
+      },
+      {
+        "text": "莲与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "莲",
+          "荷叶"
+        ]
+      },
+      {
+        "text": "以莲写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "莲",
+          "水面"
+        ]
+      },
+      {
+        "text": "莲为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "莲",
+          "佛座"
+        ]
+      }
+    ]
+  },
+  "鹤": {
+    "character": "鹤",
+    "shuowenOriginal": "鹤，鸣九皋，声闻于天。从鸟，隺声。",
+    "shuowenExplanation": "鹤为高立长喙之鸟，古人重其清姿、长寿与高鸣之意，因此常见于吉祥文化。",
+    "imageryAnalysis": "鹤常象征长寿、仙逸、清雅、高洁与远志，也常与松、云、日轮等意象共同出现。",
+    "commonImages": [
+      "仙鹤",
+      "长颈",
+      "羽翼",
+      "松枝",
+      "云天"
+    ],
+    "classicalPoems": [
+      "晴空一鹤排云上，便引诗情到碧霄。",
+      "黄鹤一去不复返，白云千载空悠悠。",
+      "丹顶宜承露，霜毛自映天。"
+    ],
+    "designKeywords": [
+      "feather curve",
+      "elegant silhouette",
+      "airy",
+      "longevity motif",
+      "refined"
+    ],
+    "summary": "鹤适合用轻盈羽线、留白和高挑构图生成纹理背景，强调清雅、向上和仙逸气质。",
+    "literaryQuotes": [
+      {
+        "text": "晴空一鹤排云上，便引诗情到碧霄。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹤"
+        ]
+      },
+      {
+        "text": "黄鹤一去不复返，白云千载空悠悠。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹤"
+        ]
+      },
+      {
+        "text": "丹顶宜承露，霜毛自映天。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹤"
+        ]
+      },
+      {
+        "text": "鹤象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鹤",
+          "仙鹤"
+        ]
+      },
+      {
+        "text": "因鹤取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鹤",
+          "长颈"
+        ]
+      },
+      {
+        "text": "鹤与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鹤",
+          "羽翼"
+        ]
+      },
+      {
+        "text": "以鹤写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鹤",
+          "松枝"
+        ]
+      },
+      {
+        "text": "鹤为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鹤",
+          "云天"
+        ]
+      }
+    ]
+  },
+  "凤": {
+    "character": "凤",
+    "shuowenOriginal": "凤，神鸟也。天老曰：凤之象也，鸿前麟后，蛇颈鱼尾。",
+    "shuowenExplanation": "凤是汇聚多种神异特征的祥瑞之鸟，强调华美、尊贵与秩序统一。",
+    "imageryAnalysis": "凤常用于宫廷、婚嫁、吉祥和礼制语境，代表文明光彩、和鸣与祥瑞降临。",
+    "commonImages": [
+      "凤羽",
+      "长尾",
+      "瑞火",
+      "云纹",
+      "金饰"
+    ],
+    "classicalPoems": [
+      "凤凰鸣矣，于彼高冈。",
+      "身无彩凤双飞翼，心有灵犀一点通。",
+      "凤凰台上凤凰游，凤去台空江自流。"
+    ],
+    "designKeywords": [
+      "ornate feather",
+      "regal",
+      "auspicious",
+      "flame curve",
+      "ceremonial"
+    ],
+    "summary": "凤适合构建羽片层叠、尾翎延展和礼制感强的纹理背景，适合突出华美与祥瑞主题。",
+    "literaryQuotes": [
+      {
+        "text": "凤凰鸣矣，于彼高冈。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "凤"
+        ]
+      },
+      {
+        "text": "身无彩凤双飞翼，心有灵犀一点通。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "凤"
+        ]
+      },
+      {
+        "text": "凤凰台上凤凰游，凤去台空江自流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "凤"
+        ]
+      },
+      {
+        "text": "凤象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "凤",
+          "凤羽"
+        ]
+      },
+      {
+        "text": "因凤取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "凤",
+          "长尾"
+        ]
+      },
+      {
+        "text": "凤与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "凤",
+          "瑞火"
+        ]
+      },
+      {
+        "text": "以凤写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "凤",
+          "云纹"
+        ]
+      },
+      {
+        "text": "凤为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "凤",
+          "金饰"
+        ]
+      }
+    ]
+  },
+  "龙": {
+    "character": "龙",
+    "shuowenOriginal": "龙，鳞虫之长。能幽能明，能细能巨，能短能长。",
+    "shuowenExplanation": "龙被视为统摄变化、掌控云雨的神灵形象，兼具力量、威严与流动变化。",
+    "imageryAnalysis": "龙在传统文化中象征权威、气势、变化、腾跃与吉兆，是强烈动态和秩序感的综合符号。",
+    "commonImages": [
+      "龙鳞",
+      "龙角",
+      "云气",
+      "水纹",
+      "腾跃"
+    ],
+    "classicalPoems": [
+      "黑云翻墨未遮山，白雨跳珠乱入船。",
+      "斯须九重真龙出，一洗万古凡马空。",
+      "龙衔宝盖承朝日，凤吐流苏带晚霞。"
+    ],
+    "designKeywords": [
+      "scaled pattern",
+      "powerful curve",
+      "storm energy",
+      "imperial",
+      "dynamic"
+    ],
+    "summary": "龙适合发展为鳞片、盘旋、云水交织的强动态纹理背景，强调力量、节奏和威仪。",
+    "literaryQuotes": [
+      {
+        "text": "水不在深，有龙则灵。",
+        "source": "刘禹锡《陋室铭》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "积水成渊，蛟龙生焉。",
+        "source": "荀子《劝学》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "云龙风虎尽交回，太白入月敌可摧。",
+        "source": "李白《司马将军歌》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "斯须九重真龙出，一洗万古凡马空。",
+        "source": "杜甫《丹青引赠曹将军霸》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "龙衔宝盖承朝日，凤吐流苏带晚霞。",
+        "source": "卢照邻《长安古意》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "还似旧时游上苑，车如流水马如龙。",
+        "source": "李煜《望江南》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "黑潭水深黑如墨，传有神龙人不识。",
+        "source": "白居易《黑潭龙》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "山不在高，有仙则名。水不在深，有龙则灵。",
+        "source": "刘禹锡《陋室铭》",
+        "keywords": [
+          "龙"
+        ]
+      }
+    ]
+  },
+  "雪": {
+    "character": "雪",
+    "shuowenOriginal": "雪，凝雨说物者。从雨，彗声。",
+    "shuowenExplanation": "雪是水气凝结后的白色降物，强调覆盖、清洁、静默与寒意。",
+    "imageryAnalysis": "雪常对应洁净、清寒、孤高、静夜、冬景与情感上的冷冽克制。",
+    "commonImages": [
+      "雪片",
+      "寒枝",
+      "白地",
+      "冰纹",
+      "冬夜"
+    ],
+    "classicalPoems": [
+      "忽如一夜春风来，千树万树梨花开。",
+      "窗含西岭千秋雪，门泊东吴万里船。",
+      "孤舟蓑笠翁，独钓寒江雪。"
+    ],
+    "designKeywords": [
+      "white space",
+      "crystal grain",
+      "cold tone",
+      "quiet",
+      "minimal"
+    ],
+    "summary": "雪适合构建低饱和、颗粒细密、留白充分的背景纹理，适于表达清寒、纯净与静默感。",
+    "literaryQuotes": [
+      {
+        "text": "忽如一夜春风来，千树万树梨花开。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雪"
+        ]
+      },
+      {
+        "text": "窗含西岭千秋雪，门泊东吴万里船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雪"
+        ]
+      },
+      {
+        "text": "孤舟蓑笠翁，独钓寒江雪。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雪"
+        ]
+      },
+      {
+        "text": "雪象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "雪",
+          "雪片"
+        ]
+      },
+      {
+        "text": "因雪取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "雪",
+          "寒枝"
+        ]
+      },
+      {
+        "text": "雪与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "雪",
+          "白地"
+        ]
+      },
+      {
+        "text": "以雪写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "雪",
+          "冰纹"
+        ]
+      },
+      {
+        "text": "雪为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "雪",
+          "冬夜"
+        ]
+      }
+    ]
+  },
+  "水": {
+    "character": "水",
+    "shuowenOriginal": "水，准也。北方之行。象众水并流，中有微阳之气也。",
+    "shuowenExplanation": "水强调流动、滋养、包容与顺势而行，是最基本也最富变化的自然母题之一。",
+    "imageryAnalysis": "水可表现柔性、循环、滋养、无形、镜映与空间延展，常与舟、月、石、桥等组合。",
+    "commonImages": [
+      "波纹",
+      "涟漪",
+      "江河",
+      "倒影",
+      "水面"
+    ],
+    "classicalPoems": [
+      "问君能有几多愁，恰似一江春水向东流。",
+      "君不见黄河之水天上来，奔流到海不复回。",
+      "一道残阳铺水中，半江瑟瑟半江红。"
+    ],
+    "designKeywords": [
+      "ripple",
+      "fluid",
+      "reflective",
+      "continuous",
+      "soft movement"
+    ],
+    "summary": "水适合做成波纹、流线与反射层叠感明显的背景纹理，适于表达包容、流动与延展。",
+    "literaryQuotes": [
+      {
+        "text": "所谓伊人，在水一方。",
+        "source": "诗经·秦风·蒹葭",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "君不见黄河之水天上来，奔流到海不复回。",
+        "source": "李白《将进酒》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "问君能有几多愁，恰似一江春水向东流。",
+        "source": "李煜《虞美人》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "日出江花红胜火，春来江水绿如蓝。",
+        "source": "白居易《忆江南》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "一道残阳铺水中，半江瑟瑟半江红。",
+        "source": "白居易《暮江吟》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "泉眼无声惜细流，树阴照水爱晴柔。",
+        "source": "杨万里《小池》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "桃花潭水深千尺，不及汪伦送我情。",
+        "source": "李白《赠汪伦》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "水光潋滟晴方好，山色空蒙雨亦奇。",
+        "source": "苏轼《饮湖上初晴后雨》",
+        "keywords": [
+          "水"
+        ]
+      }
+    ]
+  },
+  "竹": {
+    "character": "竹",
+    "shuowenOriginal": "竹，冬生艸也。象形，下垂者，箁箬也。",
+    "shuowenExplanation": "竹字取其节理和竖向生长形态，强调挺拔、节操、空心与韧性。",
+    "imageryAnalysis": "竹常对应君子人格、清风、高节、疏影与文人气质，是传统审美中极重要的植物意象。",
+    "commonImages": [
+      "竹节",
+      "竹叶",
+      "疏影",
+      "清风",
+      "庭院"
+    ],
+    "classicalPoems": [
+      "咬定青山不放松，立根原在破岩中。",
+      "独坐幽篁里，弹琴复长啸。",
+      "竹外桃花三两枝，春江水暖鸭先知。"
+    ],
+    "designKeywords": [
+      "vertical rhythm",
+      "joint structure",
+      "slender leaf",
+      "scholarly",
+      "fresh"
+    ],
+    "summary": "竹适合形成有节律的竖向纹理和叶影穿插结构，用于表达清雅、克制与文人气息。",
+    "literaryQuotes": [
+      {
+        "text": "咬定青山不放松，立根原在破岩中。",
+        "source": "郑燮《竹石》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "独坐幽篁里，弹琴复长啸。",
+        "source": "王维《竹里馆》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "竹外桃花三两枝，春江水暖鸭先知。",
+        "source": "苏轼《惠崇春江晚景》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "新竹高于旧竹枝，全凭老干为扶持。",
+        "source": "郑燮《新竹》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "衙斋卧听萧萧竹，疑是民间疾苦声。",
+        "source": "郑燮《潍县署中画竹呈年伯包大丞括》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "苍苍竹林寺，杳杳钟声晚。",
+        "source": "刘长卿《送灵澈上人》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "竹喧归浣女，莲动下渔舟。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "过江千尺浪，入竹万竿斜。",
+        "source": "李峤《风》",
+        "keywords": [
+          "竹"
+        ]
+      }
+    ]
+  },
+  "梅": {
+    "character": "梅",
+    "shuowenOriginal": "梅，枏也。从木，每声。",
+    "shuowenExplanation": "梅本为木本植物名，因其先花后叶、凌寒开放，逐渐具有坚贞与高洁意味。",
+    "imageryAnalysis": "梅常与寒冬、暗香、孤高、文人雅意并举，也常与松、竹并称岁寒三友。",
+    "commonImages": [
+      "梅枝",
+      "花蕊",
+      "冰雪",
+      "疏影",
+      "暗香"
+    ],
+    "classicalPoems": [
+      "墙角数枝梅，凌寒独自开。",
+      "疏影横斜水清浅，暗香浮动月黄昏。",
+      "零落成泥碾作尘，只有香如故。"
+    ],
+    "designKeywords": [
+      "branch silhouette",
+      "winter bloom",
+      "subtle fragrance",
+      "elegant",
+      "resilient"
+    ],
+    "summary": "梅适合做成枝干舒展、花点疏落的背景纹理，用于强化清冷、高洁与坚韧气质。",
+    "literaryQuotes": [
+      {
+        "text": "墙角数枝梅，凌寒独自开。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "梅"
+        ]
+      },
+      {
+        "text": "疏影横斜水清浅，暗香浮动月黄昏。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "梅"
+        ]
+      },
+      {
+        "text": "零落成泥碾作尘，只有香如故。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "梅"
+        ]
+      },
+      {
+        "text": "梅象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "梅",
+          "梅枝"
+        ]
+      },
+      {
+        "text": "因梅取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "梅",
+          "花蕊"
+        ]
+      },
+      {
+        "text": "梅与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "梅",
+          "冰雪"
+        ]
+      },
+      {
+        "text": "以梅写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "梅",
+          "疏影"
+        ]
+      },
+      {
+        "text": "梅为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "梅",
+          "暗香"
+        ]
+      }
+    ]
+  },
+  "松": {
+    "character": "松",
+    "shuowenOriginal": "松，木也。从木，公声。",
+    "shuowenExplanation": "松是常青乔木，树干劲直、针叶常青，因此常被赋予长青、坚贞与守护意味。",
+    "imageryAnalysis": "松常象征长寿、坚韧、君子之德和岁寒不改，也常与鹤、石、云构成经典吉祥组合。",
+    "commonImages": [
+      "松针",
+      "松枝",
+      "古干",
+      "山岩",
+      "仙鹤"
+    ],
+    "classicalPoems": [
+      "岂不罹凝寒，松柏有本性。",
+      "大雪压青松，青松挺且直。",
+      "明月松间照，清泉石上流。"
+    ],
+    "designKeywords": [
+      "needle cluster",
+      "enduring",
+      "ancient trunk",
+      "steady",
+      "evergreen"
+    ],
+    "summary": "松适合转化为针叶密布、枝干苍劲的背景纹理，适合表达坚守、长青与静定。",
+    "literaryQuotes": [
+      {
+        "text": "岂不罹凝寒，松柏有本性。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "松"
+        ]
+      },
+      {
+        "text": "大雪压青松，青松挺且直。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "松"
+        ]
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "松"
+        ]
+      },
+      {
+        "text": "松象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "松",
+          "松针"
+        ]
+      },
+      {
+        "text": "因松取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "松",
+          "松枝"
+        ]
+      },
+      {
+        "text": "松与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "松",
+          "古干"
+        ]
+      },
+      {
+        "text": "以松写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "松",
+          "山岩"
+        ]
+      },
+      {
+        "text": "松为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "松",
+          "仙鹤"
+        ]
+      }
+    ]
+  },
+  "舟": {
+    "character": "舟",
+    "shuowenOriginal": "舟，船也。古者共鼓货狄刳木为舟。",
+    "shuowenExplanation": "舟字指行于水上的小船，强调承载、漂行、渡越与方向。",
+    "imageryAnalysis": "舟常与江湖、远行、归泊、孤旅和诗性空间相关，是典型的移动与过渡意象。",
+    "commonImages": [
+      "扁舟",
+      "帆影",
+      "波面",
+      "江岸",
+      "橹声"
+    ],
+    "classicalPoems": [
+      "两岸猿声啼不住，轻舟已过万重山。",
+      "春潮带雨晚来急，野渡无人舟自横。",
+      "移舟泊烟渚，日暮客愁新。"
+    ],
+    "designKeywords": [
+      "streamlined",
+      "voyage",
+      "waterline",
+      "light carrier",
+      "journey"
+    ],
+    "summary": "舟适合形成横向漂移、波面承托和流动留白并存的背景纹理，用于表达旅途与渡越感。",
+    "literaryQuotes": [
+      {
+        "text": "两岸猿声啼不住，轻舟已过万重山。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "舟"
+        ]
+      },
+      {
+        "text": "春潮带雨晚来急，野渡无人舟自横。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "舟"
+        ]
+      },
+      {
+        "text": "移舟泊烟渚，日暮客愁新。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "舟"
+        ]
+      },
+      {
+        "text": "舟象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "舟",
+          "扁舟"
+        ]
+      },
+      {
+        "text": "因舟取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "舟",
+          "帆影"
+        ]
+      },
+      {
+        "text": "舟与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "舟",
+          "波面"
+        ]
+      },
+      {
+        "text": "以舟写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "舟",
+          "江岸"
+        ]
+      },
+      {
+        "text": "舟为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "舟",
+          "橹声"
+        ]
+      }
+    ]
+  },
+  "灯": {
+    "character": "灯",
+    "shuowenOriginal": "灯，火也。从火，登声。",
+    "shuowenExplanation": "灯本义为照明之火器，强调光点、照见、聚拢与夜间空间秩序。",
+    "imageryAnalysis": "灯常对应节庆、归家、夜市、祈愿与温暖人情，也可构成明暗对比鲜明的视觉关系。",
+    "commonImages": [
+      "灯笼",
+      "烛焰",
+      "暖光",
+      "夜巷",
+      "窗影"
+    ],
+    "classicalPoems": [
+      "众里寻他千百度，蓦然回首，那人却在灯火阑珊处。",
+      "何当共剪西窗烛，却话巴山夜雨时。",
+      "去年元夜时，花市灯如昼。"
+    ],
+    "designKeywords": [
+      "warm glow",
+      "night contrast",
+      "festival",
+      "point light",
+      "cozy"
+    ],
+    "summary": "灯适合以暖色光斑、暗底和重复点状结构形成背景纹理，强调夜色与人间温度。",
+    "literaryQuotes": [
+      {
+        "text": "众里寻他千百度，蓦然回首，那人却在灯火阑珊处。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "灯"
+        ]
+      },
+      {
+        "text": "何当共剪西窗烛，却话巴山夜雨时。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "灯"
+        ]
+      },
+      {
+        "text": "去年元夜时，花市灯如昼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "灯"
+        ]
+      },
+      {
+        "text": "灯象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "灯",
+          "灯笼"
+        ]
+      },
+      {
+        "text": "因灯取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "灯",
+          "烛焰"
+        ]
+      },
+      {
+        "text": "灯与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "灯",
+          "暖光"
+        ]
+      },
+      {
+        "text": "以灯写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "灯",
+          "夜巷"
+        ]
+      },
+      {
+        "text": "灯为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "灯",
+          "窗影"
+        ]
+      }
+    ]
+  },
+  "雨": {
+    "character": "雨",
+    "shuowenOriginal": "雨，水从云下也。一象天，冂象云，水霝其闲也。",
+    "shuowenExplanation": "雨字以天空、云层和降落水点共同构字，强调垂落、润泽和天气节律。",
+    "imageryAnalysis": "雨常表现节令变化、润物、离愁、夜听与细密节奏，也可发展为非常明确的重复纹理语汇。",
+    "commonImages": [
+      "雨丝",
+      "雨滴",
+      "檐下",
+      "湿痕",
+      "江天"
+    ],
+    "classicalPoems": [
+      "好雨知时节，当春乃发生。",
+      "渭城朝雨浥轻尘，客舍青青柳色新。",
+      "寒雨连江夜入吴，平明送客楚山孤。"
+    ],
+    "designKeywords": [
+      "vertical grain",
+      "droplet",
+      "misty",
+      "moist",
+      "dense rhythm"
+    ],
+    "summary": "雨适合形成纵向细密纹理和湿润雾化层次，用于强调节奏、润泽与天气氛围。",
+    "literaryQuotes": [
+      {
+        "text": "好雨知时节，当春乃发生。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雨"
+        ]
+      },
+      {
+        "text": "渭城朝雨浥轻尘，客舍青青柳色新。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雨"
+        ]
+      },
+      {
+        "text": "寒雨连江夜入吴，平明送客楚山孤。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雨"
+        ]
+      },
+      {
+        "text": "雨象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "雨",
+          "雨丝"
+        ]
+      },
+      {
+        "text": "因雨取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "雨",
+          "雨滴"
+        ]
+      },
+      {
+        "text": "雨与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "雨",
+          "檐下"
+        ]
+      },
+      {
+        "text": "以雨写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "雨",
+          "湿痕"
+        ]
+      },
+      {
+        "text": "雨为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "雨",
+          "江天"
+        ]
+      }
+    ]
+  },
+  "泉": {
+    "character": "泉",
+    "shuowenOriginal": "泉，人原也。象水流出成川形。",
+    "shuowenExplanation": "泉强调水由地下涌出、汇聚成流的状态，具有源头、清冽与生发意味。",
+    "imageryAnalysis": "泉常与山石、松林、幽谷、琴声相伴，表现清净、活力与源源不断的生命感。",
+    "commonImages": [
+      "泉眼",
+      "水花",
+      "石缝",
+      "溪流",
+      "山谷"
+    ],
+    "classicalPoems": [
+      "泉眼无声惜细流，树阴照水爱晴柔。",
+      "明月松间照，清泉石上流。",
+      "问渠那得清如许，为有源头活水来。"
+    ],
+    "designKeywords": [
+      "spring source",
+      "clear ripple",
+      "fresh",
+      "flow origin",
+      "bright"
+    ],
+    "summary": "泉适合表现清亮水线、点状激荡和源头向外扩散的纹理结构，适合突出清冽与生机。",
+    "literaryQuotes": [
+      {
+        "text": "泉眼无声惜细流，树阴照水爱晴柔。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "泉"
+        ]
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "泉"
+        ]
+      },
+      {
+        "text": "问渠那得清如许，为有源头活水来。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "泉"
+        ]
+      },
+      {
+        "text": "泉象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "泉",
+          "泉眼"
+        ]
+      },
+      {
+        "text": "因泉取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "泉",
+          "水花"
+        ]
+      },
+      {
+        "text": "泉与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "泉",
+          "石缝"
+        ]
+      },
+      {
+        "text": "以泉写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "泉",
+          "溪流"
+        ]
+      },
+      {
+        "text": "泉为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "泉",
+          "山谷"
+        ]
+      }
+    ]
+  },
+  "柳": {
+    "character": "柳",
+    "shuowenOriginal": "柳，小杨也。从木，丣声。",
+    "shuowenExplanation": "柳以枝条柔长下垂见长，古义侧重其植物种属，后多引申为柔婉、送别与春意。",
+    "imageryAnalysis": "柳常表现春风、江岸、离别、柔线和轻摆动势，是东方画面中极具线性美感的意象。",
+    "commonImages": [
+      "柳丝",
+      "垂枝",
+      "春岸",
+      "风摆",
+      "新绿"
+    ],
+    "classicalPoems": [
+      "杨柳岸，晓风残月。",
+      "羌笛何须怨杨柳，春风不度玉门关。",
+      "渭城朝雨浥轻尘，客舍青青柳色新。"
+    ],
+    "designKeywords": [
+      "slender line",
+      "swaying",
+      "spring green",
+      "graceful",
+      "soft hanging"
+    ],
+    "summary": "柳适合发展为垂坠线条、轻摆曲线和春色浅层叠加的背景纹理，用于表达柔婉与流动。",
+    "literaryQuotes": [
+      {
+        "text": "杨柳岸，晓风残月。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柳"
+        ]
+      },
+      {
+        "text": "羌笛何须怨杨柳，春风不度玉门关。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柳"
+        ]
+      },
+      {
+        "text": "渭城朝雨浥轻尘，客舍青青柳色新。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柳"
+        ]
+      },
+      {
+        "text": "柳象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "柳",
+          "柳丝"
+        ]
+      },
+      {
+        "text": "因柳取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "柳",
+          "垂枝"
+        ]
+      },
+      {
+        "text": "柳与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "柳",
+          "春岸"
+        ]
+      },
+      {
+        "text": "以柳写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "柳",
+          "风摆"
+        ]
+      },
+      {
+        "text": "柳为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "柳",
+          "新绿"
+        ]
+      }
+    ]
+  },
+  "石": {
+    "character": "石",
+    "shuowenOriginal": "石，山石也。在厂之下，口象形。",
+    "shuowenExplanation": "石字以岩壁下方的石体形状会意，强调坚实、沉重、质地与承载。",
+    "imageryAnalysis": "石常象征坚固、时间、风化痕迹与器物基底，也常在园林和文人案头中承担结构中心。",
+    "commonImages": [
+      "山石",
+      "纹理",
+      "岩壁",
+      "碑刻",
+      "砚台"
+    ],
+    "classicalPoems": [
+      "乱石穿空，惊涛拍岸，卷起千堆雪。",
+      "水穿石上过，云向树间生。",
+      "咬定青山不放松，立根原在破岩中。"
+    ],
+    "designKeywords": [
+      "mineral texture",
+      "solid",
+      "weathered",
+      "rough grain",
+      "weight"
+    ],
+    "summary": "石适合形成颗粒、裂隙和矿物层理明显的背景纹理，用于强调质地、时间和稳定性。",
+    "literaryQuotes": [
+      {
+        "text": "乱石穿空，惊涛拍岸，卷起千堆雪。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "石"
+        ]
+      },
+      {
+        "text": "水穿石上过，云向树间生。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "石"
+        ]
+      },
+      {
+        "text": "咬定青山不放松，立根原在破岩中。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "石"
+        ]
+      },
+      {
+        "text": "石象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "石",
+          "山石"
+        ]
+      },
+      {
+        "text": "因石取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "石",
+          "纹理"
+        ]
+      },
+      {
+        "text": "石与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "石",
+          "岩壁"
+        ]
+      },
+      {
+        "text": "以石写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "石",
+          "碑刻"
+        ]
+      },
+      {
+        "text": "石为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "石",
+          "砚台"
+        ]
+      }
+    ]
+  },
+  "茶": {
+    "character": "茶",
+    "shuowenOriginal": "茶，苦荼也。从艸，余声。",
+    "shuowenExplanation": "茶原本指苦荼之类植物，后专指茶树与其饮品，强调清苦、回甘与日常雅趣。",
+    "imageryAnalysis": "茶常对应清供、器物、山居、文人交往与慢节奏生活方式，具有朴素而讲究的审美气质。",
+    "commonImages": [
+      "茶汤",
+      "茶盏",
+      "蒸汽",
+      "叶片",
+      "案几"
+    ],
+    "classicalPoems": [
+      "寒夜客来茶当酒，竹炉汤沸火初红。",
+      "矮纸斜行闲作草，晴窗细乳戏分茶。",
+      "被酒莫惊春睡重，赌书消得泼茶香。"
+    ],
+    "designKeywords": [
+      "warm neutral",
+      "steam",
+      "leaf pattern",
+      "quiet ritual",
+      "refined daily life"
+    ],
+    "summary": "茶适合做成蒸汽弥散、叶纹轻铺和器物圆形节奏感明显的背景纹理，突出静雅与日常仪式感。",
+    "literaryQuotes": [
+      {
+        "text": "寒夜客来茶当酒，竹炉汤沸火初红。",
+        "source": "杜耒《寒夜》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "矮纸斜行闲作草，晴窗细乳戏分茶。",
+        "source": "陆游《临安春雨初霁》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "酒困路长惟欲睡，日高人渴漫思茶。",
+        "source": "苏轼《浣溪沙》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "被酒莫惊春睡重，赌书消得泼茶香。",
+        "source": "纳兰性德《浣溪沙》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "休对故人思故国，且将新火试新茶。",
+        "source": "苏轼《望江南·超然台作》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "无由持一碗，寄与爱茶人。",
+        "source": "白居易《山泉煎茶有怀》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "坐酌泠泠水，看煎瑟瑟尘。",
+        "source": "白居易《山泉煎茶有怀》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "琴里知闻唯渌水，茶中故旧是蒙山。",
+        "source": "白居易《琴茶》",
+        "keywords": [
+          "茶"
+        ]
+      }
+    ]
+  },
+  "酒": {
+    "character": "酒",
+    "shuowenOriginal": "酒，就也。所以就人性之善恶。从水，酉声。",
+    "shuowenExplanation": "酒字强调发酵之饮及其对情绪和氛围的激发作用，兼具宴饮与抒怀属性。",
+    "imageryAnalysis": "酒常与豪情、离愁、夜宴、诗兴和人际聚会相关，可表达浓烈、流动和微醺氛围。",
+    "commonImages": [
+      "酒盏",
+      "酒旗",
+      "杯影",
+      "流光",
+      "夜宴"
+    ],
+    "classicalPoems": [
+      "明月几时有，把酒问青天。",
+      "劝君更尽一杯酒，西出阳关无故人。",
+      "花间一壶酒，独酌无相亲。"
+    ],
+    "designKeywords": [
+      "amber glow",
+      "liquid reflection",
+      "festive",
+      "bold",
+      "warm saturation"
+    ],
+    "summary": "酒适合做成流光、液面反射和暖色氛围较强的背景纹理，用于表达热烈、抒怀与夜宴感。",
+    "literaryQuotes": [
+      {
+        "text": "明月几时有，把酒问青天。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "酒"
+        ]
+      },
+      {
+        "text": "劝君更尽一杯酒，西出阳关无故人。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "酒"
+        ]
+      },
+      {
+        "text": "花间一壶酒，独酌无相亲。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "酒"
+        ]
+      },
+      {
+        "text": "酒象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "酒",
+          "酒盏"
+        ]
+      },
+      {
+        "text": "因酒取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "酒",
+          "酒旗"
+        ]
+      },
+      {
+        "text": "酒与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "酒",
+          "杯影"
+        ]
+      },
+      {
+        "text": "以酒写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "酒",
+          "流光"
+        ]
+      },
+      {
+        "text": "酒为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "酒",
+          "夜宴"
+        ]
+      }
+    ]
+  },
+  "霞": {
+    "character": "霞",
+    "shuowenOriginal": "霞，赤云气也。从雨，叚声。",
+    "shuowenExplanation": "霞指日光映照云气所呈现的彩色天象，强调时间瞬间性与色彩变化。",
+    "imageryAnalysis": "霞常与朝暮、山川、仙气、华彩和天空层次相关，适合构建颜色与空气感兼具的画面。",
+    "commonImages": [
+      "晚霞",
+      "朝霞",
+      "云层",
+      "天际",
+      "映照"
+    ],
+    "classicalPoems": [
+      "落霞与孤鹜齐飞，秋水共长天一色。",
+      "余霞散成绮，澄江静如练。",
+      "一道残阳铺水中，半江瑟瑟半江红。"
+    ],
+    "designKeywords": [
+      "glow layer",
+      "sky gradient",
+      "mist",
+      "soft light",
+      "atmospheric"
+    ],
+    "summary": "霞适合发展为层层晕染与云气交织的背景纹理，用于表达时间光色与天际氛围。",
+    "literaryQuotes": [
+      {
+        "text": "落霞与孤鹜齐飞，秋水共长天一色。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霞"
+        ]
+      },
+      {
+        "text": "余霞散成绮，澄江静如练。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霞"
+        ]
+      },
+      {
+        "text": "一道残阳铺水中，半江瑟瑟半江红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霞"
+        ]
+      },
+      {
+        "text": "霞象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "霞",
+          "晚霞"
+        ]
+      },
+      {
+        "text": "因霞取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "霞",
+          "朝霞"
+        ]
+      },
+      {
+        "text": "霞与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "霞",
+          "云层"
+        ]
+      },
+      {
+        "text": "以霞写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "霞",
+          "天际"
+        ]
+      },
+      {
+        "text": "霞为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "霞",
+          "映照"
+        ]
+      }
+    ]
+  },
+  "雁": {
+    "character": "雁",
+    "shuowenOriginal": "雁，鸟也。从隹，从人，厂声。",
+    "shuowenExplanation": "雁为候鸟，迁徙特征鲜明，因此在古典文化中常被赋予书信、秋思和远行意涵。",
+    "imageryAnalysis": "雁常对应秋空、行列、远信、边塞和离情，适合表达方向性、队列感与时序转换。",
+    "commonImages": [
+      "雁阵",
+      "秋空",
+      "远山",
+      "长天",
+      "信使"
+    ],
+    "classicalPoems": [
+      "长风万里送秋雁，对此可以酣高楼。",
+      "征蓬出汉塞，归雁入胡天。",
+      "塞下秋来风景异，衡阳雁去无留意。"
+    ],
+    "designKeywords": [
+      "flight line",
+      "formation",
+      "autumn sky",
+      "distance",
+      "migratory rhythm"
+    ],
+    "summary": "雁适合以横向队列、飞行留白和远景层次构成背景纹理，用于强调方向、季节与远意。",
+    "literaryQuotes": [
+      {
+        "text": "长风万里送秋雁，对此可以酣高楼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雁"
+        ]
+      },
+      {
+        "text": "征蓬出汉塞，归雁入胡天。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雁"
+        ]
+      },
+      {
+        "text": "塞下秋来风景异，衡阳雁去无留意。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雁"
+        ]
+      },
+      {
+        "text": "雁象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "雁",
+          "雁阵"
+        ]
+      },
+      {
+        "text": "因雁取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "雁",
+          "秋空"
+        ]
+      },
+      {
+        "text": "雁与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "雁",
+          "远山"
+        ]
+      },
+      {
+        "text": "以雁写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "雁",
+          "长天"
+        ]
+      },
+      {
+        "text": "雁为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "雁",
+          "信使"
+        ]
+      }
+    ]
+  },
+  "桥": {
+    "character": "桥",
+    "shuowenOriginal": "桥，水梁也。从木，乔声。",
+    "shuowenExplanation": "桥指横跨水面的通行结构，强调连接、跨越、过渡与结构美。",
+    "imageryAnalysis": "桥常与江南、烟雨、渡口、往来人事和空间节点相关，既具实用性也具诗意。",
+    "commonImages": [
+      "拱桥",
+      "桥洞",
+      "倒影",
+      "水岸",
+      "烟雨"
+    ],
+    "classicalPoems": [
+      "枯藤老树昏鸦，小桥流水人家。",
+      "二十四桥明月夜，玉人何处教吹箫。",
+      "驿外断桥边，寂寞开无主。"
+    ],
+    "designKeywords": [
+      "arch",
+      "connection",
+      "reflection",
+      "jiangnan",
+      "structural rhythm"
+    ],
+    "summary": "桥适合发展为弧形结构、倒影重复和空间过渡明显的背景纹理，用于表达连接与停驻。",
+    "literaryQuotes": [
+      {
+        "text": "枯藤老树昏鸦，小桥流水人家。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桥"
+        ]
+      },
+      {
+        "text": "二十四桥明月夜，玉人何处教吹箫。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桥"
+        ]
+      },
+      {
+        "text": "驿外断桥边，寂寞开无主。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桥"
+        ]
+      },
+      {
+        "text": "桥象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "桥",
+          "拱桥"
+        ]
+      },
+      {
+        "text": "因桥取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "桥",
+          "桥洞"
+        ]
+      },
+      {
+        "text": "桥与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "桥",
+          "倒影"
+        ]
+      },
+      {
+        "text": "以桥写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "桥",
+          "水岸"
+        ]
+      },
+      {
+        "text": "桥为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "桥",
+          "烟雨"
+        ]
+      }
+    ]
+  },
+  "琴": {
+    "character": "琴",
+    "shuowenOriginal": "琴，禁也。神农所作，洞越练朱五弦。",
+    "shuowenExplanation": "琴是古代重要弦乐器，强调音律、节制、修身与文人清赏。",
+    "imageryAnalysis": "琴常与山水、知音、松风、清夜和隐逸审美结合，是声音与人格修养的双重象征。",
+    "commonImages": [
+      "琴弦",
+      "案几",
+      "松风",
+      "流水",
+      "清夜"
+    ],
+    "classicalPoems": [
+      "独坐幽篁里，弹琴复长啸。",
+      "泠泠七弦上，静听松风寒。",
+      "欲把心事付瑶琴，知音少，弦断有谁听。"
+    ],
+    "designKeywords": [
+      "string rhythm",
+      "scholarly",
+      "quiet resonance",
+      "linear",
+      "elegant"
+    ],
+    "summary": "琴适合构建有节律的线性纹理和低噪声留白背景，用于表达清雅、节制和音律感。",
+    "literaryQuotes": [
+      {
+        "text": "独坐幽篁里，弹琴复长啸。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "琴"
+        ]
+      },
+      {
+        "text": "泠泠七弦上，静听松风寒。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "琴"
+        ]
+      },
+      {
+        "text": "欲把心事付瑶琴，知音少，弦断有谁听。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "琴"
+        ]
+      },
+      {
+        "text": "琴象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "琴",
+          "琴弦"
+        ]
+      },
+      {
+        "text": "因琴取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "琴",
+          "案几"
+        ]
+      },
+      {
+        "text": "琴与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "琴",
+          "松风"
+        ]
+      },
+      {
+        "text": "以琴写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "琴",
+          "流水"
+        ]
+      },
+      {
+        "text": "琴为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "琴",
+          "清夜"
+        ]
+      }
+    ]
+  },
+  "镜": {
+    "character": "镜",
+    "shuowenOriginal": "镜，景也。所以照形也。从金，竟声。",
+    "shuowenExplanation": "镜强调映照、反观和光泽表面，是器物文化与视觉象征的重要节点。",
+    "imageryAnalysis": "镜常对应自照、宫廷器物、月影、水光与对称关系，适合发展为中心聚焦与反射结构。",
+    "commonImages": [
+      "铜镜",
+      "镜面",
+      "光圈",
+      "纹饰",
+      "倒影"
+    ],
+    "classicalPoems": [
+      "明镜本清净，何处染尘埃。",
+      "破镜重圆人未老，尊前重见旧时人。",
+      "当窗理云鬓，对镜贴花黄。"
+    ],
+    "designKeywords": [
+      "reflection",
+      "radial symmetry",
+      "metal sheen",
+      "clarity",
+      "circular focus"
+    ],
+    "summary": "镜适合做成中心辐射、反射高光与圆形结构明显的背景纹理，强调照见与器物感。",
+    "literaryQuotes": [
+      {
+        "text": "明镜本清净，何处染尘埃。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "镜"
+        ]
+      },
+      {
+        "text": "破镜重圆人未老，尊前重见旧时人。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "镜"
+        ]
+      },
+      {
+        "text": "当窗理云鬓，对镜贴花黄。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "镜"
+        ]
+      },
+      {
+        "text": "镜象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "镜",
+          "铜镜"
+        ]
+      },
+      {
+        "text": "因镜取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "镜",
+          "镜面"
+        ]
+      },
+      {
+        "text": "镜与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "镜",
+          "光圈"
+        ]
+      },
+      {
+        "text": "以镜写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "镜",
+          "纹饰"
+        ]
+      },
+      {
+        "text": "镜为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "镜",
+          "倒影"
+        ]
+      }
+    ]
+  },
+  "玉": {
+    "character": "玉",
+    "shuowenOriginal": "玉，石之美。有五德，润泽以温。",
+    "shuowenExplanation": "玉被视作美石，传统上以温润、坚贞、纯净和德性比附君子。",
+    "imageryAnalysis": "玉常表现温润、光洁、礼器、珍贵与含而不露的审美品格，也适合与金属、丝绸等材质形成对比。",
+    "commonImages": [
+      "玉璧",
+      "玉佩",
+      "温润光泽",
+      "礼器",
+      "白玉"
+    ],
+    "classicalPoems": [
+      "昆山玉碎凤凰叫，芙蓉泣露香兰笑。",
+      "沧海月明珠有泪，蓝田日暖玉生烟。",
+      "玉炉香，红蜡泪，偏照画堂秋思。"
+    ],
+    "designKeywords": [
+      "smooth luster",
+      "translucent",
+      "refined",
+      "polished",
+      "ritual elegance"
+    ],
+    "summary": "玉适合发展为温润表面、细腻高光和圆润边界明显的背景纹理，突出含蓄与品质感。",
+    "literaryQuotes": [
+      {
+        "text": "昆山玉碎凤凰叫，芙蓉泣露香兰笑。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "玉"
+        ]
+      },
+      {
+        "text": "沧海月明珠有泪，蓝田日暖玉生烟。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "玉"
+        ]
+      },
+      {
+        "text": "玉炉香，红蜡泪，偏照画堂秋思。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "玉"
+        ]
+      },
+      {
+        "text": "玉象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "玉",
+          "玉璧"
+        ]
+      },
+      {
+        "text": "因玉取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "玉",
+          "玉佩"
+        ]
+      },
+      {
+        "text": "玉与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "玉",
+          "温润光泽"
+        ]
+      },
+      {
+        "text": "以玉写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "玉",
+          "礼器"
+        ]
+      },
+      {
+        "text": "玉为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "玉",
+          "白玉"
+        ]
+      }
+    ]
+  },
+  "楼": {
+    "character": "楼",
+    "shuowenOriginal": "楼，重屋也。从木，娄声。",
+    "shuowenExplanation": "楼指层叠高起的建筑，强调空间层级、眺望与礼制秩序。",
+    "imageryAnalysis": "楼常与城阙、登临、夜色、楼台月影和城市记忆相关，适合形成上下层级清晰的画面结构。",
+    "commonImages": [
+      "楼阁",
+      "飞檐",
+      "窗棂",
+      "夜灯",
+      "城影"
+    ],
+    "classicalPoems": [
+      "欲穷千里目，更上一层楼。",
+      "昨夜西风凋碧树，独上高楼，望尽天涯路。",
+      "月落乌啼霜满天，江枫渔火对愁眠。"
+    ],
+    "designKeywords": [
+      "architectural layer",
+      "eave silhouette",
+      "window grid",
+      "elevated",
+      "urban classic"
+    ],
+    "summary": "楼适合以层层屋檐、窗棂重复和建筑轮廓叠加生成背景纹理，适于表达层级与眺望感。",
+    "literaryQuotes": [
+      {
+        "text": "欲穷千里目，更上一层楼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "楼"
+        ]
+      },
+      {
+        "text": "昨夜西风凋碧树，独上高楼，望尽天涯路。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "楼"
+        ]
+      },
+      {
+        "text": "月落乌啼霜满天，江枫渔火对愁眠。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "楼"
+        ]
+      },
+      {
+        "text": "楼象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "楼",
+          "楼阁"
+        ]
+      },
+      {
+        "text": "因楼取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "楼",
+          "飞檐"
+        ]
+      },
+      {
+        "text": "楼与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "楼",
+          "窗棂"
+        ]
+      },
+      {
+        "text": "以楼写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "楼",
+          "夜灯"
+        ]
+      },
+      {
+        "text": "楼为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "楼",
+          "城影"
+        ]
+      }
+    ]
+  },
+  "帆": {
+    "character": "帆",
+    "shuowenOriginal": "帆，船上幔也。从巾，凡声。",
+    "shuowenExplanation": "帆是船上借风行进的幔幕，强调受力、方向、远航与速度感。",
+    "imageryAnalysis": "帆常与江海、远行、商旅、晨雾和天水一线的空间关系共同出现，具有鲜明的方向与叙事意味。",
+    "commonImages": [
+      "白帆",
+      "浪面",
+      "海天线",
+      "风向",
+      "远岸"
+    ],
+    "classicalPoems": [
+      "孤帆远影碧空尽，唯见长江天际流。",
+      "潮平两岸阔，风正一帆悬。",
+      "两岸青山相对出，孤帆一片日边来。"
+    ],
+    "designKeywords": [
+      "sail shape",
+      "wind tension",
+      "voyage",
+      "horizon",
+      "open space"
+    ],
+    "summary": "帆适合做成带有张力曲面、风向线条和开阔地平关系的背景纹理，用于表达远行与开张感。",
+    "literaryQuotes": [
+      {
+        "text": "孤帆远影碧空尽，唯见长江天际流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帆"
+        ]
+      },
+      {
+        "text": "潮平两岸阔，风正一帆悬。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帆"
+        ]
+      },
+      {
+        "text": "两岸青山相对出，孤帆一片日边来。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帆"
+        ]
+      },
+      {
+        "text": "帆象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "帆",
+          "白帆"
+        ]
+      },
+      {
+        "text": "因帆取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "帆",
+          "浪面"
+        ]
+      },
+      {
+        "text": "帆与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "帆",
+          "海天线"
+        ]
+      },
+      {
+        "text": "以帆写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "帆",
+          "风向"
+        ]
+      },
+      {
+        "text": "帆为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "帆",
+          "远岸"
+        ]
+      }
+    ]
+  },
+  "日": {
+    "character": "日",
+    "shuowenOriginal": "日，实也。太阳之精不亏。从囗，一象形。",
+    "shuowenExplanation": "日字取太阳圆轮与中心光点之形，强调光明、恒常、运行与昼夜节律，是最核心的天象符号之一。",
+    "imageryAnalysis": "日常被引申为光耀、温煦、秩序、时间与生命力，也与朝晖、夕照、山川轮廓和仪式感空间密切相关。",
+    "commonImages": [
+      "朝阳",
+      "落日",
+      "日轮",
+      "霞光",
+      "山影"
+    ],
+    "classicalPoems": [
+      "白日依山尽，黄河入海流。",
+      "日照香炉生紫烟，遥看瀑布挂前川。",
+      "一道残阳铺水中，半江瑟瑟半江红。"
+    ],
+    "designKeywords": [
+      "sun disc",
+      "radiant",
+      "warm glow",
+      "cyclical",
+      "luminous"
+    ],
+    "summary": "日适合转化为带有日轮、暖光层染和空间纵深的背景纹理，用于强调光明、秩序与时间感。",
+    "literaryQuotes": [
+      {
+        "text": "白日依山尽，黄河入海流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "日"
+        ]
+      },
+      {
+        "text": "日照香炉生紫烟，遥看瀑布挂前川。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "日"
+        ]
+      },
+      {
+        "text": "一道残阳铺水中，半江瑟瑟半江红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "日"
+        ]
+      },
+      {
+        "text": "日象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "日",
+          "朝阳"
+        ]
+      },
+      {
+        "text": "因日取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "日",
+          "落日"
+        ]
+      },
+      {
+        "text": "日与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "日",
+          "日轮"
+        ]
+      },
+      {
+        "text": "以日写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "日",
+          "霞光"
+        ]
+      },
+      {
+        "text": "日为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "日",
+          "山影"
+        ]
+      }
+    ]
+  },
+  "星": {
+    "character": "星",
+    "shuowenOriginal": "星，万物之精，上为列星。从晶，生声。",
+    "shuowenExplanation": "星字强调天上散列发光之点，既有细密分布感，也有高远、静夜和秩序感。",
+    "imageryAnalysis": "星常对应夜空、志向、指引、遥望与微光，希望感与宇宙尺度常同时出现，适于营造静谧而深远的画面。",
+    "commonImages": [
+      "星点",
+      "夜幕",
+      "银河",
+      "疏空",
+      "微光"
+    ],
+    "classicalPoems": [
+      "危楼高百尺，手可摘星辰。",
+      "星垂平野阔，月涌大江流。",
+      "天阶夜色凉如水，卧看牵牛织女星。"
+    ],
+    "designKeywords": [
+      "starlight",
+      "point array",
+      "night sky",
+      "distant",
+      "delicate"
+    ],
+    "summary": "星适合做成深色底上的点状闪烁与疏密排布纹理，用于表现夜空、遥望与微光秩序。",
+    "literaryQuotes": [
+      {
+        "text": "危楼高百尺，手可摘星辰。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "星"
+        ]
+      },
+      {
+        "text": "星垂平野阔，月涌大江流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "星"
+        ]
+      },
+      {
+        "text": "天阶夜色凉如水，卧看牵牛织女星。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "星"
+        ]
+      },
+      {
+        "text": "星象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "星",
+          "星点"
+        ]
+      },
+      {
+        "text": "因星取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "星",
+          "夜幕"
+        ]
+      },
+      {
+        "text": "星与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "星",
+          "银河"
+        ]
+      },
+      {
+        "text": "以星写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "星",
+          "疏空"
+        ]
+      },
+      {
+        "text": "星为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "星",
+          "微光"
+        ]
+      }
+    ]
+  },
+  "雷": {
+    "character": "雷",
+    "shuowenOriginal": "雷，阴阳薄动，雷雨生物者也。从雨，田象回转形。",
+    "shuowenExplanation": "雷字表现云雨交激时的震动与轰鸣，强调力量爆发、瞬时冲击与天象气势。",
+    "imageryAnalysis": "雷常与春生、惊动、威势、转折和能量释放相连，也适合转化为具有张力的纹样语言。",
+    "commonImages": [
+      "雷电",
+      "乌云",
+      "裂光",
+      "风雨",
+      "震荡"
+    ],
+    "classicalPoems": [
+      "黑云翻墨未遮山，白雨跳珠乱入船。",
+      "九州生气恃风雷，万马齐喑究可哀。",
+      "殷其雷，在南山之阳。"
+    ],
+    "designKeywords": [
+      "electric crack",
+      "impact",
+      "storm energy",
+      "dramatic",
+      "charged"
+    ],
+    "summary": "雷适合构建明暗冲撞、裂线穿行和高能量节奏明显的背景纹理，用于强调爆发与转折。",
+    "literaryQuotes": [
+      {
+        "text": "黑云翻墨未遮山，白雨跳珠乱入船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雷"
+        ]
+      },
+      {
+        "text": "九州生气恃风雷，万马齐喑究可哀。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雷"
+        ]
+      },
+      {
+        "text": "殷其雷，在南山之阳。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雷"
+        ]
+      },
+      {
+        "text": "雷象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "雷",
+          "雷电"
+        ]
+      },
+      {
+        "text": "因雷取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "雷",
+          "乌云"
+        ]
+      },
+      {
+        "text": "雷与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "雷",
+          "裂光"
+        ]
+      },
+      {
+        "text": "以雷写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "雷",
+          "风雨"
+        ]
+      },
+      {
+        "text": "雷为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "雷",
+          "震荡"
+        ]
+      }
+    ]
+  },
+  "霜": {
+    "character": "霜",
+    "shuowenOriginal": "霜，丧也。气津为霜。从雨，相声。",
+    "shuowenExplanation": "霜强调寒气凝结于物表的状态，具有覆盖、晶冷、肃静与时令变化的意味。",
+    "imageryAnalysis": "霜常与秋晚、寒夜、白地、边声和清冷情绪相关，适合发展为低饱和、细颗粒、表面结晶感的视觉语言。",
+    "commonImages": [
+      "霜华",
+      "秋叶",
+      "寒枝",
+      "白地",
+      "晨光"
+    ],
+    "classicalPoems": [
+      "月落乌啼霜满天，江枫渔火对愁眠。",
+      "停车坐爱枫林晚，霜叶红于二月花。",
+      "蒹葭苍苍，白露为霜。"
+    ],
+    "designKeywords": [
+      "frost grain",
+      "cold white",
+      "crystalline",
+      "still",
+      "autumnal"
+    ],
+    "summary": "霜适合转化为细密晶粒与清冷白灰层次的背景纹理，用于强化寒意、静穆与时令感。",
+    "literaryQuotes": [
+      {
+        "text": "月落乌啼霜满天，江枫渔火对愁眠。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霜"
+        ]
+      },
+      {
+        "text": "停车坐爱枫林晚，霜叶红于二月花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霜"
+        ]
+      },
+      {
+        "text": "蒹葭苍苍，白露为霜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "霜"
+        ]
+      },
+      {
+        "text": "霜象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "霜",
+          "霜华"
+        ]
+      },
+      {
+        "text": "因霜取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "霜",
+          "秋叶"
+        ]
+      },
+      {
+        "text": "霜与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "霜",
+          "寒枝"
+        ]
+      },
+      {
+        "text": "以霜写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "霜",
+          "白地"
+        ]
+      },
+      {
+        "text": "霜为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "霜",
+          "晨光"
+        ]
+      }
+    ]
+  },
+  "露": {
+    "character": "露",
+    "shuowenOriginal": "露，润泽也。天之津液也。从雨，路声。",
+    "shuowenExplanation": "露字指夜气凝结而成的水珠，强调清润、短暂、映光与清晨气息。",
+    "imageryAnalysis": "露常与草木、秋晨、月色和微光相关，既有生命滋润感，也有稍纵即逝的细腻意味。",
+    "commonImages": [
+      "露珠",
+      "草叶",
+      "晨光",
+      "晶点",
+      "微湿"
+    ],
+    "classicalPoems": [
+      "可怜九月初三夜，露似真珠月似弓。",
+      "蒹葭苍苍，白露为霜。",
+      "露从今夜白，月是故乡明。"
+    ],
+    "designKeywords": [
+      "dewdrop",
+      "fresh",
+      "tiny highlight",
+      "translucent",
+      "morning"
+    ],
+    "summary": "露适合表现小尺度高光、湿润表面和晨间空气感，适用于清新、轻盈的背景纹理。",
+    "literaryQuotes": [
+      {
+        "text": "可怜九月初三夜，露似真珠月似弓。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "露"
+        ]
+      },
+      {
+        "text": "蒹葭苍苍，白露为霜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "露"
+        ]
+      },
+      {
+        "text": "露从今夜白，月是故乡明。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "露"
+        ]
+      },
+      {
+        "text": "露象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "露",
+          "露珠"
+        ]
+      },
+      {
+        "text": "因露取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "露",
+          "草叶"
+        ]
+      },
+      {
+        "text": "露与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "露",
+          "晨光"
+        ]
+      },
+      {
+        "text": "以露写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "露",
+          "晶点"
+        ]
+      },
+      {
+        "text": "露为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "露",
+          "微湿"
+        ]
+      }
+    ]
+  },
+  "虹": {
+    "character": "虹",
+    "shuowenOriginal": "虹，螮蝀也。状似虫。从虫，工声。",
+    "shuowenExplanation": "虹字指雨后天际弯弧彩带，重在弧形、色层与短暂出现的天象秩序。",
+    "imageryAnalysis": "虹常关联晴雨转换、天光、惊喜与彩色层次，也可转化为高辨识度的弧线和渐层结构。",
+    "commonImages": [
+      "虹桥",
+      "彩弧",
+      "雨后天际",
+      "云隙",
+      "微光"
+    ],
+    "classicalPoems": [
+      "两水夹明镜，双桥落彩虹。",
+      "赤橙黄绿青蓝紫，谁持彩练当空舞。",
+      "断虹霁雨，净秋空，山染修眉新绿。"
+    ],
+    "designKeywords": [
+      "arched spectrum",
+      "gradient",
+      "after-rain",
+      "light bridge",
+      "iridescent"
+    ],
+    "summary": "虹适合做成弧形渐层与轻透明叠色的背景纹理，用于表达雨后转晴与光色变化。",
+    "literaryQuotes": [
+      {
+        "text": "两水夹明镜，双桥落彩虹。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虹"
+        ]
+      },
+      {
+        "text": "赤橙黄绿青蓝紫，谁持彩练当空舞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虹"
+        ]
+      },
+      {
+        "text": "断虹霁雨，净秋空，山染修眉新绿。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虹"
+        ]
+      },
+      {
+        "text": "虹象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "虹",
+          "虹桥"
+        ]
+      },
+      {
+        "text": "因虹取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "虹",
+          "彩弧"
+        ]
+      },
+      {
+        "text": "虹与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "虹",
+          "雨后天际"
+        ]
+      },
+      {
+        "text": "以虹写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "虹",
+          "云隙"
+        ]
+      },
+      {
+        "text": "虹为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "虹",
+          "微光"
+        ]
+      }
+    ]
+  },
+  "雾": {
+    "character": "雾",
+    "shuowenOriginal": "雾，地气发，天不应曰雾。从雨，务声。",
+    "shuowenExplanation": "雾字强调近地水气弥散的状态，具有朦胧、遮掩、层层化开的视觉特征。",
+    "imageryAnalysis": "雾常与山谷、江岸、晨昏和远景模糊感联系在一起，适合表现空气层与空间深度。",
+    "commonImages": [
+      "雾气",
+      "山谷",
+      "林影",
+      "水岸",
+      "晨曦"
+    ],
+    "classicalPoems": [
+      "日照澄洲江雾开，淘金女伴满江隈。",
+      "雾失楼台，月迷津渡。",
+      "白雾埋阴壑，丹霞助晓光。"
+    ],
+    "designKeywords": [
+      "mist layer",
+      "soft blur",
+      "depth",
+      "veiled",
+      "atmospheric"
+    ],
+    "summary": "雾适合构建半透明层叠和轮廓弱化明显的背景纹理，用于表现朦胧、空气感和远近关系。",
+    "literaryQuotes": [
+      {
+        "text": "日照澄洲江雾开，淘金女伴满江隈。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雾"
+        ]
+      },
+      {
+        "text": "雾失楼台，月迷津渡。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雾"
+        ]
+      },
+      {
+        "text": "白雾埋阴壑，丹霞助晓光。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "雾"
+        ]
+      },
+      {
+        "text": "雾象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "雾",
+          "雾气"
+        ]
+      },
+      {
+        "text": "因雾取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "雾",
+          "山谷"
+        ]
+      },
+      {
+        "text": "雾与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "雾",
+          "林影"
+        ]
+      },
+      {
+        "text": "以雾写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "雾",
+          "水岸"
+        ]
+      },
+      {
+        "text": "雾为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "雾",
+          "晨曦"
+        ]
+      }
+    ]
+  },
+  "海": {
+    "character": "海",
+    "shuowenOriginal": "海，天池也。以纳百川者。从水，每声。",
+    "shuowenExplanation": "海字强调广大、包容、无边与深度，是比江河更开阔、更具尺度感的水体意象。",
+    "imageryAnalysis": "海常与潮汐、天际线、远航、苍茫和宏阔心境相关，适合表达开张、辽远与层层浪势。",
+    "commonImages": [
+      "海面",
+      "浪潮",
+      "天际",
+      "孤帆",
+      "礁石"
+    ],
+    "classicalPoems": [
+      "海上生明月，天涯共此时。",
+      "曾经沧海难为水，除却巫山不是云。",
+      "春江潮水连海平，海上明月共潮生。"
+    ],
+    "designKeywords": [
+      "vast",
+      "tide",
+      "horizon",
+      "open water",
+      "expansive"
+    ],
+    "summary": "海适合做成大尺度波面、天水相接和开阔留白并存的背景纹理，突出辽远与包容感。",
+    "literaryQuotes": [
+      {
+        "text": "海上生明月，天涯共此时。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "海"
+        ]
+      },
+      {
+        "text": "曾经沧海难为水，除却巫山不是云。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "海"
+        ]
+      },
+      {
+        "text": "春江潮水连海平，海上明月共潮生。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "海"
+        ]
+      },
+      {
+        "text": "海象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "海",
+          "海面"
+        ]
+      },
+      {
+        "text": "因海取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "海",
+          "浪潮"
+        ]
+      },
+      {
+        "text": "海与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "海",
+          "天际"
+        ]
+      },
+      {
+        "text": "以海写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "海",
+          "孤帆"
+        ]
+      },
+      {
+        "text": "海为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "海",
+          "礁石"
+        ]
+      }
+    ]
+  },
+  "江": {
+    "character": "江",
+    "shuowenOriginal": "江，水。出蜀湔氐徼外崏山，入海。从水，工声。",
+    "shuowenExplanation": "江字多指大河长流之势，强调绵延、流向、沿岸空间与时序变化。",
+    "imageryAnalysis": "江常与月夜、舟行、渔火、潮声与离别诗意相连，是最具叙事性的水域意象之一。",
+    "commonImages": [
+      "江面",
+      "渔火",
+      "舟影",
+      "长流",
+      "岸线"
+    ],
+    "classicalPoems": [
+      "滚滚长江东逝水，浪花淘尽英雄。",
+      "一道残阳铺水中，半江瑟瑟半江红。",
+      "孤帆远影碧空尽，唯见长江天际流。"
+    ],
+    "designKeywords": [
+      "long flow",
+      "river surface",
+      "narrative",
+      "twilight",
+      "continuous"
+    ],
+    "summary": "江适合形成横向延展、水光层叠与流向明确的背景纹理，用于表达叙事感与流逝感。",
+    "literaryQuotes": [
+      {
+        "text": "滚滚长江东逝水，浪花淘尽英雄。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "江"
+        ]
+      },
+      {
+        "text": "一道残阳铺水中，半江瑟瑟半江红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "江"
+        ]
+      },
+      {
+        "text": "孤帆远影碧空尽，唯见长江天际流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "江"
+        ]
+      },
+      {
+        "text": "江象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "江",
+          "江面"
+        ]
+      },
+      {
+        "text": "因江取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "江",
+          "渔火"
+        ]
+      },
+      {
+        "text": "江与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "江",
+          "舟影"
+        ]
+      },
+      {
+        "text": "以江写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "江",
+          "长流"
+        ]
+      },
+      {
+        "text": "江为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "江",
+          "岸线"
+        ]
+      }
+    ]
+  },
+  "河": {
+    "character": "河",
+    "shuowenOriginal": "河，水。出敦煌塞外昆仑山，发原注海。从水，可声。",
+    "shuowenExplanation": "河字常指大河与水道系统，强调通行、来源、两岸关系与文明脉络。",
+    "imageryAnalysis": "河常与黄土、渡口、岸柳、远桥和历史行旅联系在一起，适合表现更厚重的水域结构。",
+    "commonImages": [
+      "河道",
+      "河岸",
+      "渡口",
+      "桥影",
+      "黄昏"
+    ],
+    "classicalPoems": [
+      "白日依山尽，黄河入海流。",
+      "君不见黄河之水天上来，奔流到海不复回。",
+      "大漠孤烟直，长河落日圆。"
+    ],
+    "designKeywords": [
+      "broad current",
+      "bank relation",
+      "earthy",
+      "civilization",
+      "distance"
+    ],
+    "summary": "河适合做成兼具流水与岸线结构的背景纹理，用于表现文明感、方向感与地理厚度。",
+    "literaryQuotes": [
+      {
+        "text": "白日依山尽，黄河入海流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "河"
+        ]
+      },
+      {
+        "text": "君不见黄河之水天上来，奔流到海不复回。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "河"
+        ]
+      },
+      {
+        "text": "大漠孤烟直，长河落日圆。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "河"
+        ]
+      },
+      {
+        "text": "河象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "河",
+          "河道"
+        ]
+      },
+      {
+        "text": "因河取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "河",
+          "河岸"
+        ]
+      },
+      {
+        "text": "河与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "河",
+          "渡口"
+        ]
+      },
+      {
+        "text": "以河写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "河",
+          "桥影"
+        ]
+      },
+      {
+        "text": "河为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "河",
+          "黄昏"
+        ]
+      }
+    ]
+  },
+  "湖": {
+    "character": "湖",
+    "shuowenOriginal": "湖，大陂也。从水，胡声。",
+    "shuowenExplanation": "湖字强调相对静阔而可映照的水域，与江河相比更偏向平展、安静与包容。",
+    "imageryAnalysis": "湖常与烟波、舟影、月色、楼台和闲适审美相关，适合构建平静而富有层次的空间。",
+    "commonImages": [
+      "湖面",
+      "烟波",
+      "远亭",
+      "倒影",
+      "荷影"
+    ],
+    "classicalPoems": [
+      "欲把西湖比西子，淡妆浓抹总相宜。",
+      "毕竟西湖六月中，风光不与四时同。",
+      "湖光秋月两相和，潭面无风镜未磨。"
+    ],
+    "designKeywords": [
+      "still water",
+      "reflection",
+      "broad calm",
+      "soft horizon",
+      "elegant"
+    ],
+    "summary": "湖适合做成低波动、高反射和空间平展感明显的背景纹理，用于表达安静、雅致与镜映感。",
+    "literaryQuotes": [
+      {
+        "text": "欲把西湖比西子，淡妆浓抹总相宜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "湖"
+        ]
+      },
+      {
+        "text": "毕竟西湖六月中，风光不与四时同。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "湖"
+        ]
+      },
+      {
+        "text": "湖光秋月两相和，潭面无风镜未磨。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "湖"
+        ]
+      },
+      {
+        "text": "湖象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "湖",
+          "湖面"
+        ]
+      },
+      {
+        "text": "因湖取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "湖",
+          "烟波"
+        ]
+      },
+      {
+        "text": "湖与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "湖",
+          "远亭"
+        ]
+      },
+      {
+        "text": "以湖写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "湖",
+          "倒影"
+        ]
+      },
+      {
+        "text": "湖为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "湖",
+          "荷影"
+        ]
+      }
+    ]
+  },
+  "溪": {
+    "character": "溪",
+    "shuowenOriginal": "溪，山渎无所通者。从水，奚声。",
+    "shuowenExplanation": "溪字强调山间小流，重在清浅、转折、石间穿行与亲近自然的尺度。",
+    "imageryAnalysis": "溪常与竹石、苔痕、林影、泉声相伴，适合表现细流、轻响与幽静山居气息。",
+    "commonImages": [
+      "溪流",
+      "卵石",
+      "竹影",
+      "清波",
+      "岸苔"
+    ],
+    "classicalPoems": [
+      "明月松间照，清泉石上流。",
+      "桃花尽日随流水，洞在清溪何处边。",
+      "山下兰芽短浸溪，松间沙路净无泥。"
+    ],
+    "designKeywords": [
+      "clear stream",
+      "small scale",
+      "stone bed",
+      "fresh",
+      "meandering"
+    ],
+    "summary": "溪适合做成细线水脉、石面颗粒与局部留白并置的背景纹理，用于表现清浅与幽静。",
+    "literaryQuotes": [
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "溪"
+        ]
+      },
+      {
+        "text": "桃花尽日随流水，洞在清溪何处边。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "溪"
+        ]
+      },
+      {
+        "text": "山下兰芽短浸溪，松间沙路净无泥。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "溪"
+        ]
+      },
+      {
+        "text": "溪象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "溪",
+          "溪流"
+        ]
+      },
+      {
+        "text": "因溪取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "溪",
+          "卵石"
+        ]
+      },
+      {
+        "text": "溪与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "溪",
+          "竹影"
+        ]
+      },
+      {
+        "text": "以溪写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "溪",
+          "清波"
+        ]
+      },
+      {
+        "text": "溪为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "溪",
+          "岸苔"
+        ]
+      }
+    ]
+  },
+  "川": {
+    "character": "川",
+    "shuowenOriginal": "川，贯穿通流水也。象形。",
+    "shuowenExplanation": "川字以平行流向之形象水流穿行，重在连续、方向与地势展开。",
+    "imageryAnalysis": "川常用来表现山间谷地、水道与地形延展，既具空间方向，也具自然秩序感。",
+    "commonImages": [
+      "川流",
+      "平野",
+      "地脉",
+      "水道",
+      "远山"
+    ],
+    "classicalPoems": [
+      "晴川历历汉阳树，芳草萋萋鹦鹉洲。",
+      "川原缭绕浮云外，宫阙参差落照间。",
+      "山随平野尽，江入大荒流。"
+    ],
+    "designKeywords": [
+      "parallel flow",
+      "terrain line",
+      "expansion",
+      "directional",
+      "open"
+    ],
+    "summary": "川适合发展为方向明确、平行展开和地形流线感强的背景纹理，突出地势与空间感。",
+    "literaryQuotes": [
+      {
+        "text": "晴川历历汉阳树，芳草萋萋鹦鹉洲。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "川"
+        ]
+      },
+      {
+        "text": "川原缭绕浮云外，宫阙参差落照间。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "川"
+        ]
+      },
+      {
+        "text": "山随平野尽，江入大荒流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "川"
+        ]
+      },
+      {
+        "text": "川象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "川",
+          "川流"
+        ]
+      },
+      {
+        "text": "因川取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "川",
+          "平野"
+        ]
+      },
+      {
+        "text": "川与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "川",
+          "地脉"
+        ]
+      },
+      {
+        "text": "以川写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "川",
+          "水道"
+        ]
+      },
+      {
+        "text": "川为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "川",
+          "远山"
+        ]
+      }
+    ]
+  },
+  "涛": {
+    "character": "涛",
+    "shuowenOriginal": "涛，大波也。从水，寿声。",
+    "shuowenExplanation": "涛字强调大波翻涌、气势高张的水面状态，重在力量感与波峰节奏。",
+    "imageryAnalysis": "涛常与江海、拍岸、风势和壮阔情绪联系在一起，适合强化动态与能量。",
+    "commonImages": [
+      "巨浪",
+      "拍岸",
+      "飞沫",
+      "海风",
+      "礁石"
+    ],
+    "classicalPoems": [
+      "惊涛拍岸，卷起千堆雪。",
+      "乱石穿空，惊涛拍岸，卷起千堆雪。",
+      "八月涛声吼地来，头高数丈触山回。"
+    ],
+    "designKeywords": [
+      "surge",
+      "wave crest",
+      "foamy",
+      "energetic",
+      "dramatic"
+    ],
+    "summary": "涛适合做成高反差波峰、卷涌流线与飞沫颗粒明显的背景纹理，用于强调气势与动态。",
+    "literaryQuotes": [
+      {
+        "text": "惊涛拍岸，卷起千堆雪。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "涛"
+        ]
+      },
+      {
+        "text": "乱石穿空，惊涛拍岸，卷起千堆雪。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "涛"
+        ]
+      },
+      {
+        "text": "八月涛声吼地来，头高数丈触山回。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "涛"
+        ]
+      },
+      {
+        "text": "涛象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "涛",
+          "巨浪"
+        ]
+      },
+      {
+        "text": "因涛取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "涛",
+          "拍岸"
+        ]
+      },
+      {
+        "text": "涛与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "涛",
+          "飞沫"
+        ]
+      },
+      {
+        "text": "以涛写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "涛",
+          "海风"
+        ]
+      },
+      {
+        "text": "涛为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "涛",
+          "礁石"
+        ]
+      }
+    ]
+  },
+  "潮": {
+    "character": "潮",
+    "shuowenOriginal": "潮，水朝宗于海也。从水，朝声。",
+    "shuowenExplanation": "潮字强调水势周期涨落与朝夕应时的规律，是节律性极强的水象。",
+    "imageryAnalysis": "潮常对应月相、江海交界、风声和时间节奏，也适合发展为重复推进的纹理关系。",
+    "commonImages": [
+      "潮线",
+      "涨落",
+      "海岸",
+      "月夜",
+      "波带"
+    ],
+    "classicalPoems": [
+      "春江潮水连海平，海上明月共潮生。",
+      "潮平两岸阔，风正一帆悬。",
+      "早潮才落晚潮来，一月周流六十回。"
+    ],
+    "designKeywords": [
+      "rhythmic wave",
+      "cyclical",
+      "tide line",
+      "lunar",
+      "layered"
+    ],
+    "summary": "潮适合转化为周期推进、节律明确的波带纹理，用于强化时间感与涨落关系。",
+    "literaryQuotes": [
+      {
+        "text": "春江潮水连海平，海上明月共潮生。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "潮"
+        ]
+      },
+      {
+        "text": "潮平两岸阔，风正一帆悬。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "潮"
+        ]
+      },
+      {
+        "text": "早潮才落晚潮来，一月周流六十回。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "潮"
+        ]
+      },
+      {
+        "text": "潮象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "潮",
+          "潮线"
+        ]
+      },
+      {
+        "text": "因潮取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "潮",
+          "涨落"
+        ]
+      },
+      {
+        "text": "潮与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "潮",
+          "海岸"
+        ]
+      },
+      {
+        "text": "以潮写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "潮",
+          "月夜"
+        ]
+      },
+      {
+        "text": "潮为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "潮",
+          "波带"
+        ]
+      }
+    ]
+  },
+  "岸": {
+    "character": "岸",
+    "shuowenOriginal": "岸，水厓而高者。从屵，干声。",
+    "shuowenExplanation": "岸字强调水边高起之地，具有边界、停驻、对望与安全感的空间属性。",
+    "imageryAnalysis": "岸常与江河、舟泊、烟树、渡口和凝望相关，是水域与陆地之间的重要界面。",
+    "commonImages": [
+      "河岸",
+      "堤岸",
+      "渡口",
+      "烟树",
+      "停舟"
+    ],
+    "classicalPoems": [
+      "枫叶荻花秋瑟瑟，别时茫茫江浸月。",
+      "杨柳岸，晓风残月。",
+      "平岸小桥千嶂抱，柔蓝一水萦花草。"
+    ],
+    "designKeywords": [
+      "boundary",
+      "shoreline",
+      "resting point",
+      "edge",
+      "anchored"
+    ],
+    "summary": "岸适合做成水陆边界清晰、横向过渡明确的背景纹理，用于表现停驻、眺望与空间转换。",
+    "literaryQuotes": [
+      {
+        "text": "枫叶荻花秋瑟瑟，别时茫茫江浸月。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岸"
+        ]
+      },
+      {
+        "text": "杨柳岸，晓风残月。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岸"
+        ]
+      },
+      {
+        "text": "平岸小桥千嶂抱，柔蓝一水萦花草。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岸"
+        ]
+      },
+      {
+        "text": "岸象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "岸",
+          "河岸"
+        ]
+      },
+      {
+        "text": "因岸取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "岸",
+          "堤岸"
+        ]
+      },
+      {
+        "text": "岸与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "岸",
+          "渡口"
+        ]
+      },
+      {
+        "text": "以岸写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "岸",
+          "烟树"
+        ]
+      },
+      {
+        "text": "岸为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "岸",
+          "停舟"
+        ]
+      }
+    ]
+  },
+  "沙": {
+    "character": "沙",
+    "shuowenOriginal": "沙，水散石也。从水，少声。",
+    "shuowenExplanation": "沙字强调细小颗粒堆积与流体搬运后的表面状态，重在颗粒、起伏与地表感。",
+    "imageryAnalysis": "沙常与河滩、江岸、海滨、荒漠和风痕相关，可表达细腻也可表达苍茫。",
+    "commonImages": [
+      "沙洲",
+      "细粒",
+      "风痕",
+      "浅滩",
+      "沙岸"
+    ],
+    "classicalPoems": [
+      "大漠孤烟直，长河落日圆。",
+      "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+      "黄沙百战穿金甲，不破楼兰终不还。"
+    ],
+    "designKeywords": [
+      "grainy",
+      "fine texture",
+      "wind trace",
+      "earth tone",
+      "drifting"
+    ],
+    "summary": "沙适合发展为细密颗粒和表面起伏感明显的背景纹理，用于表达荒远、轻移与地表质感。",
+    "literaryQuotes": [
+      {
+        "text": "大漠孤烟直，长河落日圆。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "沙"
+        ]
+      },
+      {
+        "text": "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "沙"
+        ]
+      },
+      {
+        "text": "黄沙百战穿金甲，不破楼兰终不还。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "沙"
+        ]
+      },
+      {
+        "text": "沙象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "沙",
+          "沙洲"
+        ]
+      },
+      {
+        "text": "因沙取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "沙",
+          "细粒"
+        ]
+      },
+      {
+        "text": "沙与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "沙",
+          "风痕"
+        ]
+      },
+      {
+        "text": "以沙写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "沙",
+          "浅滩"
+        ]
+      },
+      {
+        "text": "沙为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "沙",
+          "沙岸"
+        ]
+      }
+    ]
+  },
+  "岛": {
+    "character": "岛",
+    "shuowenOriginal": "岛，海中山也。从山，鸟声。",
+    "shuowenExplanation": "岛字指水中之山，兼具孤立、环水、停驻和遥望的复合空间特征。",
+    "imageryAnalysis": "岛常与海天、孤屿、云雾、栖息和边界感有关，适合构建中心孤景与外围开阔的对比。",
+    "commonImages": [
+      "孤岛",
+      "海雾",
+      "礁岸",
+      "天际",
+      "飞鸟"
+    ],
+    "classicalPoems": [
+      "蓬莱文章建安骨，中间小谢又清发。",
+      "海客谈瀛洲，烟涛微茫信难求。",
+      "日出江花红胜火，春来江水绿如蓝。"
+    ],
+    "designKeywords": [
+      "isolated form",
+      "surrounded water",
+      "remote",
+      "foggy",
+      "anchored"
+    ],
+    "summary": "岛适合构建中心孤景、外围留白与环绕水面并存的背景纹理，用于表达独立与遥远感。",
+    "literaryQuotes": [
+      {
+        "text": "蓬莱文章建安骨，中间小谢又清发。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岛"
+        ]
+      },
+      {
+        "text": "海客谈瀛洲，烟涛微茫信难求。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岛"
+        ]
+      },
+      {
+        "text": "日出江花红胜火，春来江水绿如蓝。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岛"
+        ]
+      },
+      {
+        "text": "岛象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "岛",
+          "孤岛"
+        ]
+      },
+      {
+        "text": "因岛取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "岛",
+          "海雾"
+        ]
+      },
+      {
+        "text": "岛与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "岛",
+          "礁岸"
+        ]
+      },
+      {
+        "text": "以岛写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "岛",
+          "天际"
+        ]
+      },
+      {
+        "text": "岛为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "岛",
+          "飞鸟"
+        ]
+      }
+    ]
+  },
+  "峰": {
+    "character": "峰",
+    "shuowenOriginal": "峰，山耑也。从山，夆声。",
+    "shuowenExplanation": "峰指山之尖顶高处，强调突起、指向性、挺立与高远气势。",
+    "imageryAnalysis": "峰常与险峻、登临、云海、天际和英雄气概相连，适于表现竖向张力。",
+    "commonImages": [
+      "峰顶",
+      "峭壁",
+      "云海",
+      "天光",
+      "高崖"
+    ],
+    "classicalPoems": [
+      "会当凌绝顶，一览众山小。",
+      "西岳峥嵘何壮哉，黄河如丝天际来。",
+      "造化钟神秀，阴阳割昏晓。"
+    ],
+    "designKeywords": [
+      "peak line",
+      "vertical thrust",
+      "dramatic height",
+      "summit",
+      "sharp contour"
+    ],
+    "summary": "峰适合做成竖向突起、尖顶轮廓和高处留白明显的背景纹理，用于强化登临与气势。",
+    "literaryQuotes": [
+      {
+        "text": "会当凌绝顶，一览众山小。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "峰"
+        ]
+      },
+      {
+        "text": "西岳峥嵘何壮哉，黄河如丝天际来。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "峰"
+        ]
+      },
+      {
+        "text": "造化钟神秀，阴阳割昏晓。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "峰"
+        ]
+      },
+      {
+        "text": "峰象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "峰",
+          "峰顶"
+        ]
+      },
+      {
+        "text": "因峰取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "峰",
+          "峭壁"
+        ]
+      },
+      {
+        "text": "峰与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "峰",
+          "云海"
+        ]
+      },
+      {
+        "text": "以峰写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "峰",
+          "天光"
+        ]
+      },
+      {
+        "text": "峰为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "峰",
+          "高崖"
+        ]
+      }
+    ]
+  },
+  "岭": {
+    "character": "岭",
+    "shuowenOriginal": "岭，山道也。从山，令声。",
+    "shuowenExplanation": "岭字强调山脉相连、分界起伏之势，也带有地理通道和层层过渡意味。",
+    "imageryAnalysis": "岭常与绵延、界线、行旅、云气和南北气候差异等文化经验相关。",
+    "commonImages": [
+      "山岭",
+      "层线",
+      "云障",
+      "山道",
+      "远脉"
+    ],
+    "classicalPoems": [
+      "横看成岭侧成峰，远近高低各不同。",
+      "五岭逶迤腾细浪，乌蒙磅礴走泥丸。",
+      "千里莺啼绿映红，水村山郭酒旗风。"
+    ],
+    "designKeywords": [
+      "ridge line",
+      "continuous",
+      "terrain layer",
+      "boundary",
+      "rolling"
+    ],
+    "summary": "岭适合发展为连绵起伏的层线纹理，用于强调地势绵延、分界与空间深度。",
+    "literaryQuotes": [
+      {
+        "text": "横看成岭侧成峰，远近高低各不同。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岭"
+        ]
+      },
+      {
+        "text": "五岭逶迤腾细浪，乌蒙磅礴走泥丸。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岭"
+        ]
+      },
+      {
+        "text": "千里莺啼绿映红，水村山郭酒旗风。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "岭"
+        ]
+      },
+      {
+        "text": "岭象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "岭",
+          "山岭"
+        ]
+      },
+      {
+        "text": "因岭取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "岭",
+          "层线"
+        ]
+      },
+      {
+        "text": "岭与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "岭",
+          "云障"
+        ]
+      },
+      {
+        "text": "以岭写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "岭",
+          "山道"
+        ]
+      },
+      {
+        "text": "岭为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "岭",
+          "远脉"
+        ]
+      }
+    ]
+  },
+  "谷": {
+    "character": "谷",
+    "shuowenOriginal": "谷，泉出通川为谷。从水半见，出于口。",
+    "shuowenExplanation": "谷字指两山之间低凹而通水之地，强调容纳、回响、流通与幽深。",
+    "imageryAnalysis": "谷常与幽居、泉声、林影、云雾和回音相关，是内收型空间的典型意象。",
+    "commonImages": [
+      "山谷",
+      "溪泉",
+      "雾气",
+      "林影",
+      "石径"
+    ],
+    "classicalPoems": [
+      "空山不见人，但闻人语响。",
+      "鸟鸣涧中月，时见幽人归。",
+      "山光悦鸟性，潭影空人心。"
+    ],
+    "designKeywords": [
+      "enclosed space",
+      "valley depth",
+      "echo",
+      "moist",
+      "quiet"
+    ],
+    "summary": "谷适合构建内收空间、雾化纵深与细流穿行并存的背景纹理，用于表达幽深与容纳感。",
+    "literaryQuotes": [
+      {
+        "text": "空山不见人，但闻人语响。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "谷"
+        ]
+      },
+      {
+        "text": "鸟鸣涧中月，时见幽人归。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "谷"
+        ]
+      },
+      {
+        "text": "山光悦鸟性，潭影空人心。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "谷"
+        ]
+      },
+      {
+        "text": "谷象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "谷",
+          "山谷"
+        ]
+      },
+      {
+        "text": "因谷取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "谷",
+          "溪泉"
+        ]
+      },
+      {
+        "text": "谷与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "谷",
+          "雾气"
+        ]
+      },
+      {
+        "text": "以谷写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "谷",
+          "林影"
+        ]
+      },
+      {
+        "text": "谷为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "谷",
+          "石径"
+        ]
+      }
+    ]
+  },
+  "崖": {
+    "character": "崖",
+    "shuowenOriginal": "崖，高边也。从山，厓声。",
+    "shuowenExplanation": "崖强调陡直高边与断面形态，具有险峻、边缘与临界感。",
+    "imageryAnalysis": "崖常与瀑布、危石、栈道、海岸和俯视空间相连，是非常有张力的构图母题。",
+    "commonImages": [
+      "绝壁",
+      "断崖",
+      "飞瀑",
+      "危石",
+      "天际"
+    ],
+    "classicalPoems": [
+      "飞流直下三千尺，疑是银河落九天。",
+      "危楼高百尺，手可摘星辰。",
+      "两岸猿声啼不住，轻舟已过万重山。"
+    ],
+    "designKeywords": [
+      "cliff edge",
+      "steep plane",
+      "dramatic drop",
+      "tension",
+      "vertical"
+    ],
+    "summary": "崖适合做成断面明显、纵深强烈、边缘清晰的背景纹理，用于表达险峻与临界空间感。",
+    "literaryQuotes": [
+      {
+        "text": "飞流直下三千尺，疑是银河落九天。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "崖"
+        ]
+      },
+      {
+        "text": "危楼高百尺，手可摘星辰。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "崖"
+        ]
+      },
+      {
+        "text": "两岸猿声啼不住，轻舟已过万重山。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "崖"
+        ]
+      },
+      {
+        "text": "崖象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "崖",
+          "绝壁"
+        ]
+      },
+      {
+        "text": "因崖取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "崖",
+          "断崖"
+        ]
+      },
+      {
+        "text": "崖与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "崖",
+          "飞瀑"
+        ]
+      },
+      {
+        "text": "以崖写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "崖",
+          "危石"
+        ]
+      },
+      {
+        "text": "崖为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "崖",
+          "天际"
+        ]
+      }
+    ]
+  },
+  "林": {
+    "character": "林",
+    "shuowenOriginal": "林，平土有丛木曰林。从二木。",
+    "shuowenExplanation": "林字取众木并立之形，强调聚集、层次、荫蔽与自然秩序。",
+    "imageryAnalysis": "林常与风声、鸟鸣、光斑、深处与行路意象相关，适合做成重复而富变化的纹理语言。",
+    "commonImages": [
+      "树林",
+      "枝影",
+      "鸟鸣",
+      "斑驳光",
+      "山径"
+    ],
+    "classicalPoems": [
+      "蝉噪林逾静，鸟鸣山更幽。",
+      "停车坐爱枫林晚，霜叶红于二月花。",
+      "明月松间照，清泉石上流。"
+    ],
+    "designKeywords": [
+      "dense pattern",
+      "vertical cluster",
+      "layered shade",
+      "natural rhythm",
+      "deep"
+    ],
+    "summary": "林适合发展为重复生长、光影斑驳与深浅交错明显的背景纹理，用于表达繁茂与幽深。",
+    "literaryQuotes": [
+      {
+        "text": "蝉噪林逾静，鸟鸣山更幽。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "林"
+        ]
+      },
+      {
+        "text": "停车坐爱枫林晚，霜叶红于二月花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "林"
+        ]
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "林"
+        ]
+      },
+      {
+        "text": "林象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "林",
+          "树林"
+        ]
+      },
+      {
+        "text": "因林取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "林",
+          "枝影"
+        ]
+      },
+      {
+        "text": "林与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "林",
+          "鸟鸣"
+        ]
+      },
+      {
+        "text": "以林写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "林",
+          "斑驳光"
+        ]
+      },
+      {
+        "text": "林为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "林",
+          "山径"
+        ]
+      }
+    ]
+  },
+  "桃": {
+    "character": "桃",
+    "shuowenOriginal": "桃，果也。从木，兆声。",
+    "shuowenExplanation": "桃为木本果实，兼具春花、果实和吉祥长寿等传统意义。",
+    "imageryAnalysis": "桃常与春色、仙境、寿意、门神辟邪和人间烟火相关，既可温柔，也可艳丽。",
+    "commonImages": [
+      "桃花",
+      "桃枝",
+      "粉色花云",
+      "春园",
+      "果实"
+    ],
+    "classicalPoems": [
+      "人面不知何处去，桃花依旧笑春风。",
+      "竹外桃花三两枝，春江水暖鸭先知。",
+      "桃之夭夭，灼灼其华。"
+    ],
+    "designKeywords": [
+      "spring bloom",
+      "petal cloud",
+      "soft pink",
+      "festive",
+      "verdant"
+    ],
+    "summary": "桃适合做成轻柔花云、枝叶穿插和春意鲜明的背景纹理，用于表达生机与柔美。",
+    "literaryQuotes": [
+      {
+        "text": "人面不知何处去，桃花依旧笑春风。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桃"
+        ]
+      },
+      {
+        "text": "竹外桃花三两枝，春江水暖鸭先知。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桃"
+        ]
+      },
+      {
+        "text": "桃之夭夭，灼灼其华。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桃"
+        ]
+      },
+      {
+        "text": "桃象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "桃",
+          "桃花"
+        ]
+      },
+      {
+        "text": "因桃取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "桃",
+          "桃枝"
+        ]
+      },
+      {
+        "text": "桃与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "桃",
+          "粉色花云"
+        ]
+      },
+      {
+        "text": "以桃写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "桃",
+          "春园"
+        ]
+      },
+      {
+        "text": "桃为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "桃",
+          "果实"
+        ]
+      }
+    ]
+  },
+  "兰": {
+    "character": "兰",
+    "shuowenOriginal": "兰，香草也。从艸，阑声。",
+    "shuowenExplanation": "兰为香草名，传统上常以其幽香、细叶与生于幽谷之姿比附君子。",
+    "imageryAnalysis": "兰常表现高洁、幽香、知己、静雅和文人审美，适合转化为疏朗线性与轻香氛围。",
+    "commonImages": [
+      "兰叶",
+      "幽谷",
+      "香气",
+      "花茎",
+      "素影"
+    ],
+    "classicalPoems": [
+      "兰有秀兮菊有芳，怀佳人兮不能忘。",
+      "纫秋兰以为佩。",
+      "孤兰生幽园，众草共芜没。"
+    ],
+    "designKeywords": [
+      "slender leaf",
+      "fragrant",
+      "scholarly",
+      "elegant",
+      "subtle"
+    ],
+    "summary": "兰适合形成细叶舒展、疏密有致和低饱和清雅感明显的背景纹理，用于表达高洁与幽静。",
+    "literaryQuotes": [
+      {
+        "text": "兰有秀兮菊有芳，怀佳人兮不能忘。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "兰"
+        ]
+      },
+      {
+        "text": "纫秋兰以为佩。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "兰"
+        ]
+      },
+      {
+        "text": "孤兰生幽园，众草共芜没。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "兰"
+        ]
+      },
+      {
+        "text": "兰象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "兰",
+          "兰叶"
+        ]
+      },
+      {
+        "text": "因兰取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "兰",
+          "幽谷"
+        ]
+      },
+      {
+        "text": "兰与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "兰",
+          "香气"
+        ]
+      },
+      {
+        "text": "以兰写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "兰",
+          "花茎"
+        ]
+      },
+      {
+        "text": "兰为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "兰",
+          "素影"
+        ]
+      }
+    ]
+  },
+  "菊": {
+    "character": "菊",
+    "shuowenOriginal": "菊，大菊也。从艸，鞠声。",
+    "shuowenExplanation": "菊字指秋季花卉，强调层层花瓣、耐寒和晚节之美。",
+    "imageryAnalysis": "菊常与陶渊明、篱下、秋气、隐逸与淡泊人格相联系，适合表达成熟、清雅与秋意。",
+    "commonImages": [
+      "菊瓣",
+      "篱落",
+      "秋色",
+      "花团",
+      "露气"
+    ],
+    "classicalPoems": [
+      "采菊东篱下，悠然见南山。",
+      "待到重阳日，还来就菊花。",
+      "不是花中偏爱菊，此花开尽更无花。"
+    ],
+    "designKeywords": [
+      "petal layers",
+      "autumn bloom",
+      "restrained",
+      "scholarly retreat",
+      "mature"
+    ],
+    "summary": "菊适合做成层层花瓣扩散、秋色偏暖和内敛疏朗并存的背景纹理，用于表达淡泊与晚秋气息。",
+    "literaryQuotes": [
+      {
+        "text": "采菊东篱下，悠然见南山。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "菊"
+        ]
+      },
+      {
+        "text": "待到重阳日，还来就菊花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "菊"
+        ]
+      },
+      {
+        "text": "不是花中偏爱菊，此花开尽更无花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "菊"
+        ]
+      },
+      {
+        "text": "菊象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "菊",
+          "菊瓣"
+        ]
+      },
+      {
+        "text": "因菊取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "菊",
+          "篱落"
+        ]
+      },
+      {
+        "text": "菊与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "菊",
+          "秋色"
+        ]
+      },
+      {
+        "text": "以菊写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "菊",
+          "花团"
+        ]
+      },
+      {
+        "text": "菊为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "菊",
+          "露气"
+        ]
+      }
+    ]
+  },
+  "桂": {
+    "character": "桂",
+    "shuowenOriginal": "桂，江南木，百药之长。从木，圭声。",
+    "shuowenExplanation": "桂字指桂树与桂花，兼具木质与芳香属性，在传统中常关涉月宫、秋香与高名。",
+    "imageryAnalysis": "桂常与中秋、月下、折桂、香气和细小花簇相关，适合发展为细碎但高雅的装饰纹理。",
+    "commonImages": [
+      "桂花",
+      "枝叶",
+      "月宫",
+      "香气",
+      "秋夜"
+    ],
+    "classicalPoems": [
+      "人闲桂花落，夜静春山空。",
+      "桂子月中落，天香云外飘。",
+      "山寺月中寻桂子，郡亭枕上看潮头。"
+    ],
+    "designKeywords": [
+      "tiny blossom",
+      "fragrant",
+      "moonlit",
+      "delicate cluster",
+      "autumn"
+    ],
+    "summary": "桂适合转化为细小花簇、夜色留白与香气扩散感明显的背景纹理，用于表达清贵与秋夜气息。",
+    "literaryQuotes": [
+      {
+        "text": "人闲桂花落，夜静春山空。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桂"
+        ]
+      },
+      {
+        "text": "桂子月中落，天香云外飘。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桂"
+        ]
+      },
+      {
+        "text": "山寺月中寻桂子，郡亭枕上看潮头。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桂"
+        ]
+      },
+      {
+        "text": "桂象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "桂",
+          "桂花"
+        ]
+      },
+      {
+        "text": "因桂取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "桂",
+          "枝叶"
+        ]
+      },
+      {
+        "text": "桂与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "桂",
+          "月宫"
+        ]
+      },
+      {
+        "text": "以桂写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "桂",
+          "香气"
+        ]
+      },
+      {
+        "text": "桂为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "桂",
+          "秋夜"
+        ]
+      }
+    ]
+  },
+  "荷": {
+    "character": "荷",
+    "shuowenOriginal": "荷，芙蕖叶也。从艸，何声。",
+    "shuowenExplanation": "荷字常侧重荷叶、荷塘与夏日水面关系，与莲相比更偏向大叶、撑展与水上空间感。",
+    "imageryAnalysis": "荷常与夏阴、圆叶、水珠、蜻蜓和田田之景相连，适合形成大面积铺展的构图。",
+    "commonImages": [
+      "荷叶",
+      "荷塘",
+      "水珠",
+      "蜻蜓",
+      "夏风"
+    ],
+    "classicalPoems": [
+      "接天莲叶无穷碧，映日荷花别样红。",
+      "小荷才露尖尖角，早有蜻蜓立上头。",
+      "荷风送香气，竹露滴清响。"
+    ],
+    "designKeywords": [
+      "broad leaf",
+      "summer",
+      "round plane",
+      "fresh water",
+      "airy"
+    ],
+    "summary": "荷适合发展为圆叶铺展、水面留白与夏日清气明显的背景纹理，用于表达舒展与清新。",
+    "literaryQuotes": [
+      {
+        "text": "接天莲叶无穷碧，映日荷花别样红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "荷"
+        ]
+      },
+      {
+        "text": "小荷才露尖尖角，早有蜻蜓立上头。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "荷"
+        ]
+      },
+      {
+        "text": "荷风送香气，竹露滴清响。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "荷"
+        ]
+      },
+      {
+        "text": "荷象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "荷",
+          "荷叶"
+        ]
+      },
+      {
+        "text": "因荷取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "荷",
+          "荷塘"
+        ]
+      },
+      {
+        "text": "荷与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "荷",
+          "水珠"
+        ]
+      },
+      {
+        "text": "以荷写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "荷",
+          "蜻蜓"
+        ]
+      },
+      {
+        "text": "荷为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "荷",
+          "夏风"
+        ]
+      }
+    ]
+  },
+  "桐": {
+    "character": "桐",
+    "shuowenOriginal": "桐，荣也。从木，同声。",
+    "shuowenExplanation": "桐常指梧桐一类树木，叶大荫浓，也常与琴材、秋声和庭院意境相关。",
+    "imageryAnalysis": "桐常与雨声、深院、凤凰、落叶和清秋气息联系在一起，具有安静而有回响的审美特征。",
+    "commonImages": [
+      "桐叶",
+      "秋院",
+      "雨声",
+      "高枝",
+      "落影"
+    ],
+    "classicalPoems": [
+      "梧桐更兼细雨，到黄昏、点点滴滴。",
+      "寂寞梧桐深院锁清秋。",
+      "金井梧桐秋叶黄，珠帘不卷夜来霜。"
+    ],
+    "designKeywords": [
+      "broad leaf",
+      "autumn court",
+      "raindrop echo",
+      "quiet",
+      "layered shade"
+    ],
+    "summary": "桐适合表现宽叶投影、雨滴节奏和深院留白并置的背景纹理，用于表达清秋与静院气息。",
+    "literaryQuotes": [
+      {
+        "text": "梧桐更兼细雨，到黄昏、点点滴滴。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桐"
+        ]
+      },
+      {
+        "text": "寂寞梧桐深院锁清秋。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桐"
+        ]
+      },
+      {
+        "text": "金井梧桐秋叶黄，珠帘不卷夜来霜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "桐"
+        ]
+      },
+      {
+        "text": "桐象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "桐",
+          "桐叶"
+        ]
+      },
+      {
+        "text": "因桐取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "桐",
+          "秋院"
+        ]
+      },
+      {
+        "text": "桐与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "桐",
+          "雨声"
+        ]
+      },
+      {
+        "text": "以桐写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "桐",
+          "高枝"
+        ]
+      },
+      {
+        "text": "桐为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "桐",
+          "落影"
+        ]
+      }
+    ]
+  },
+  "枫": {
+    "character": "枫",
+    "shuowenOriginal": "枫，枫木也。从木，风声。",
+    "shuowenExplanation": "枫为木本植物，最具代表性的文化表征是深秋红叶与季节转折感。",
+    "imageryAnalysis": "枫常与霜叶、山径、江岸、夜泊和秋色层染相关，适合发展为强色感与叶形重复结构。",
+    "commonImages": [
+      "枫叶",
+      "秋山",
+      "江岸",
+      "霜色",
+      "暮色"
+    ],
+    "classicalPoems": [
+      "停车坐爱枫林晚，霜叶红于二月花。",
+      "月落乌啼霜满天，江枫渔火对愁眠。",
+      "浔阳江头夜送客，枫叶荻花秋瑟瑟。"
+    ],
+    "designKeywords": [
+      "red leaf",
+      "autumn gradient",
+      "vein texture",
+      "seasonal",
+      "dramatic"
+    ],
+    "summary": "枫适合转化为叶片重复、红褐层染和秋意浓烈的背景纹理，用于强化季节感与情绪浓度。",
+    "literaryQuotes": [
+      {
+        "text": "停车坐爱枫林晚，霜叶红于二月花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "枫"
+        ]
+      },
+      {
+        "text": "月落乌啼霜满天，江枫渔火对愁眠。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "枫"
+        ]
+      },
+      {
+        "text": "浔阳江头夜送客，枫叶荻花秋瑟瑟。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "枫"
+        ]
+      },
+      {
+        "text": "枫象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "枫",
+          "枫叶"
+        ]
+      },
+      {
+        "text": "因枫取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "枫",
+          "秋山"
+        ]
+      },
+      {
+        "text": "枫与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "枫",
+          "江岸"
+        ]
+      },
+      {
+        "text": "以枫写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "枫",
+          "霜色"
+        ]
+      },
+      {
+        "text": "枫为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "枫",
+          "暮色"
+        ]
+      }
+    ]
+  },
+  "柏": {
+    "character": "柏",
+    "shuowenOriginal": "柏，鞠也。从木，白声。",
+    "shuowenExplanation": "柏常绿而坚韧，枝叶细密，传统上常与松并举，象征坚守、肃穆与长久。",
+    "imageryAnalysis": "柏常与陵阙、祠庙、寒冬和节操相连，适合构建深色、密实、静穆的纹理关系。",
+    "commonImages": [
+      "柏枝",
+      "针叶",
+      "古木",
+      "寒色",
+      "肃影"
+    ],
+    "classicalPoems": [
+      "松柏本孤直，难为桃李颜。",
+      "岁寒，然后知松柏之后凋也。",
+      "岂不罹凝寒，松柏有本性。"
+    ],
+    "designKeywords": [
+      "dense evergreen",
+      "solemn",
+      "needle texture",
+      "enduring",
+      "deep tone"
+    ],
+    "summary": "柏适合形成密实针叶、深绿暗调和静穆节律明显的背景纹理，用于表达坚贞与肃静。",
+    "literaryQuotes": [
+      {
+        "text": "松柏本孤直，难为桃李颜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柏"
+        ]
+      },
+      {
+        "text": "岁寒，然后知松柏之后凋也。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柏"
+        ]
+      },
+      {
+        "text": "岂不罹凝寒，松柏有本性。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "柏"
+        ]
+      },
+      {
+        "text": "柏象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "柏",
+          "柏枝"
+        ]
+      },
+      {
+        "text": "因柏取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "柏",
+          "针叶"
+        ]
+      },
+      {
+        "text": "柏与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "柏",
+          "古木"
+        ]
+      },
+      {
+        "text": "以柏写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "柏",
+          "寒色"
+        ]
+      },
+      {
+        "text": "柏为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "柏",
+          "肃影"
+        ]
+      }
+    ]
+  },
+  "槐": {
+    "character": "槐",
+    "shuowenOriginal": "槐，木也。从木，鬼声。",
+    "shuowenExplanation": "槐为庭院与道路常见树木，枝叶成荫，传统中也与门第、官阶和夏日绿阴有关。",
+    "imageryAnalysis": "槐常表现庭院、旧宅、夏荫、街巷和人世气息，既有树木美，也带人文记忆。",
+    "commonImages": [
+      "槐荫",
+      "庭院",
+      "老树",
+      "街巷",
+      "夏影"
+    ],
+    "classicalPoems": [
+      "绿槐高柳咽新蝉。",
+      "槐柳野桥边，行尘暗马前。",
+      "槐阴满地日当午，梦觉流莺时一声。"
+    ],
+    "designKeywords": [
+      "shade canopy",
+      "courtyard",
+      "summer green",
+      "humane",
+      "broad foliage"
+    ],
+    "summary": "槐适合做成浓荫覆盖、叶片成团与庭院光影斑驳并存的背景纹理，用于表达夏日与人文气息。",
+    "literaryQuotes": [
+      {
+        "text": "绿槐高柳咽新蝉。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "槐"
+        ]
+      },
+      {
+        "text": "槐柳野桥边，行尘暗马前。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "槐"
+        ]
+      },
+      {
+        "text": "槐阴满地日当午，梦觉流莺时一声。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "槐"
+        ]
+      },
+      {
+        "text": "槐象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "槐",
+          "槐荫"
+        ]
+      },
+      {
+        "text": "因槐取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "槐",
+          "庭院"
+        ]
+      },
+      {
+        "text": "槐与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "槐",
+          "老树"
+        ]
+      },
+      {
+        "text": "以槐写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "槐",
+          "街巷"
+        ]
+      },
+      {
+        "text": "槐为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "槐",
+          "夏影"
+        ]
+      }
+    ]
+  },
+  "鱼": {
+    "character": "鱼",
+    "shuowenOriginal": "鱼，水虫也。象形。鱼尾与燕尾相似。",
+    "shuowenExplanation": "鱼字取头尾躯干之形，强调水中游动、成群、生命流线与水域生机。",
+    "imageryAnalysis": "鱼常与年年有余、游弋、水波、池塘和富足感相关，也适合做成装饰化重复图案。",
+    "commonImages": [
+      "游鱼",
+      "鳞片",
+      "水纹",
+      "池塘",
+      "涟漪"
+    ],
+    "classicalPoems": [
+      "西塞山前白鹭飞，桃花流水鳜鱼肥。",
+      "照日深红暖见鱼。",
+      "潭清疑水浅，荷动知鱼散。"
+    ],
+    "designKeywords": [
+      "swimming curve",
+      "scale rhythm",
+      "auspicious",
+      "watery",
+      "decorative"
+    ],
+    "summary": "鱼适合发展为游动线条、鳞片节奏与水波环绕感明显的背景纹理，用于表达生机与富足。",
+    "literaryQuotes": [
+      {
+        "text": "西塞山前白鹭飞，桃花流水鳜鱼肥。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鱼"
+        ]
+      },
+      {
+        "text": "照日深红暖见鱼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鱼"
+        ]
+      },
+      {
+        "text": "潭清疑水浅，荷动知鱼散。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鱼"
+        ]
+      },
+      {
+        "text": "鱼象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鱼",
+          "游鱼"
+        ]
+      },
+      {
+        "text": "因鱼取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鱼",
+          "鳞片"
+        ]
+      },
+      {
+        "text": "鱼与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鱼",
+          "水纹"
+        ]
+      },
+      {
+        "text": "以鱼写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鱼",
+          "池塘"
+        ]
+      },
+      {
+        "text": "鱼为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鱼",
+          "涟漪"
+        ]
+      }
+    ]
+  },
+  "鲤": {
+    "character": "鲤",
+    "shuowenOriginal": "鲤，鱼也。从鱼，里声。",
+    "shuowenExplanation": "鲤是传统文化中辨识度很高的鱼类，常与跃龙门、吉祥、书信和水面活力相关。",
+    "imageryAnalysis": "鲤常表现上升、跃动、庆瑞与水中生命力，也适合做成方向感强的纹样组合。",
+    "commonImages": [
+      "锦鲤",
+      "跃波",
+      "水花",
+      "鳞光",
+      "池水"
+    ],
+    "classicalPoems": [
+      "客从远方来，遗我双鲤鱼。",
+      "鲤鱼风起芙蓉老，鸳鸯雨歇杨柳愁。",
+      "海阔凭鱼跃，天高任鸟飞。"
+    ],
+    "designKeywords": [
+      "ascending",
+      "bright scale",
+      "auspicious fish",
+      "dynamic",
+      "water splash"
+    ],
+    "summary": "鲤适合做成跃动方向明确、水花点缀丰富的背景纹理，用于强化吉庆与上升感。",
+    "literaryQuotes": [
+      {
+        "text": "客从远方来，遗我双鲤鱼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鲤"
+        ]
+      },
+      {
+        "text": "鲤鱼风起芙蓉老，鸳鸯雨歇杨柳愁。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鲤"
+        ]
+      },
+      {
+        "text": "海阔凭鱼跃，天高任鸟飞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鲤"
+        ]
+      },
+      {
+        "text": "鲤象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鲤",
+          "锦鲤"
+        ]
+      },
+      {
+        "text": "因鲤取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鲤",
+          "跃波"
+        ]
+      },
+      {
+        "text": "鲤与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鲤",
+          "水花"
+        ]
+      },
+      {
+        "text": "以鲤写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鲤",
+          "鳞光"
+        ]
+      },
+      {
+        "text": "鲤为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鲤",
+          "池水"
+        ]
+      }
+    ]
+  },
+  "鸿": {
+    "character": "鸿",
+    "shuowenOriginal": "鸿，鹄也。从鸟，江声。",
+    "shuowenExplanation": "鸿多指大雁或大鸟，强调高飞、远志、书信与辽阔天际中的队列关系。",
+    "imageryAnalysis": "鸿常与鸿雁传书、秋空、高飞和志向相连，适合发展为远景与方向性极强的画面。",
+    "commonImages": [
+      "鸿雁",
+      "长天",
+      "远阵",
+      "秋云",
+      "高空"
+    ],
+    "classicalPoems": [
+      "鸿雁几时到，江湖秋水多。",
+      "鸿雁长飞光不度，鱼龙潜跃水成文。",
+      "鸿飞冥冥，弋人何篡焉。"
+    ],
+    "designKeywords": [
+      "distant flight",
+      "formation",
+      "ambition",
+      "sky space",
+      "directional"
+    ],
+    "summary": "鸿适合构建疏朗队列、长天留白和远行感强的背景纹理，用于表达志向与远意。",
+    "literaryQuotes": [
+      {
+        "text": "鸿雁几时到，江湖秋水多。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸿"
+        ]
+      },
+      {
+        "text": "鸿雁长飞光不度，鱼龙潜跃水成文。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸿"
+        ]
+      },
+      {
+        "text": "鸿飞冥冥，弋人何篡焉。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸿"
+        ]
+      },
+      {
+        "text": "鸿象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鸿",
+          "鸿雁"
+        ]
+      },
+      {
+        "text": "因鸿取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鸿",
+          "长天"
+        ]
+      },
+      {
+        "text": "鸿与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鸿",
+          "远阵"
+        ]
+      },
+      {
+        "text": "以鸿写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鸿",
+          "秋云"
+        ]
+      },
+      {
+        "text": "鸿为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鸿",
+          "高空"
+        ]
+      }
+    ]
+  },
+  "鸥": {
+    "character": "鸥",
+    "shuowenOriginal": "鸥，水鸟也。从鸟，区声。",
+    "shuowenExplanation": "鸥为近水飞鸟，轻巧灵动，常见于江海湖岸，是闲适与自由的代表性意象。",
+    "imageryAnalysis": "鸥常与水面、渔舟、轻浪、沙汀和无机心的自然状态相连，适合做轻盈背景元素。",
+    "commonImages": [
+      "沙鸥",
+      "水面",
+      "轻浪",
+      "远帆",
+      "白羽"
+    ],
+    "classicalPoems": [
+      "飘飘何所似，天地一沙鸥。",
+      "沙鸥翔集，锦鳞游泳。",
+      "舍南舍北皆春水，但见群鸥日日来。"
+    ],
+    "designKeywords": [
+      "light flight",
+      "white accent",
+      "shore bird",
+      "free",
+      "airy"
+    ],
+    "summary": "鸥适合以轻羽点缀、水面留白和沙岸关系构成背景纹理，用于表达自由与闲适。",
+    "literaryQuotes": [
+      {
+        "text": "飘飘何所似，天地一沙鸥。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸥"
+        ]
+      },
+      {
+        "text": "沙鸥翔集，锦鳞游泳。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸥"
+        ]
+      },
+      {
+        "text": "舍南舍北皆春水，但见群鸥日日来。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鸥"
+        ]
+      },
+      {
+        "text": "鸥象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鸥",
+          "沙鸥"
+        ]
+      },
+      {
+        "text": "因鸥取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鸥",
+          "水面"
+        ]
+      },
+      {
+        "text": "鸥与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鸥",
+          "轻浪"
+        ]
+      },
+      {
+        "text": "以鸥写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鸥",
+          "远帆"
+        ]
+      },
+      {
+        "text": "鸥为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鸥",
+          "白羽"
+        ]
+      }
+    ]
+  },
+  "燕": {
+    "character": "燕",
+    "shuowenOriginal": "燕，玄鸟也。籋口，布翄，枝尾。象形。",
+    "shuowenExplanation": "燕为体态轻捷的候鸟，字形本就带有展翅与剪尾特征，强调春归与飞掠。",
+    "imageryAnalysis": "燕常与春天、屋檐、归来、呢喃和人家烟火相连，适合发展为轻快线性图案。",
+    "commonImages": [
+      "飞燕",
+      "檐角",
+      "春空",
+      "巢泥",
+      "掠影"
+    ],
+    "classicalPoems": [
+      "旧时王谢堂前燕，飞入寻常百姓家。",
+      "几处早莺争暖树，谁家新燕啄春泥。",
+      "落花人独立，微雨燕双飞。"
+    ],
+    "designKeywords": [
+      "swift flight",
+      "spring return",
+      "roofline",
+      "light curve",
+      "domestic"
+    ],
+    "summary": "燕适合转化为掠空曲线、屋檐呼应和春意轻盈明显的背景纹理，用于表达归来与生气。",
+    "literaryQuotes": [
+      {
+        "text": "旧时王谢堂前燕，飞入寻常百姓家。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "燕"
+        ]
+      },
+      {
+        "text": "几处早莺争暖树，谁家新燕啄春泥。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "燕"
+        ]
+      },
+      {
+        "text": "落花人独立，微雨燕双飞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "燕"
+        ]
+      },
+      {
+        "text": "燕象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "燕",
+          "飞燕"
+        ]
+      },
+      {
+        "text": "因燕取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "燕",
+          "檐角"
+        ]
+      },
+      {
+        "text": "燕与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "燕",
+          "春空"
+        ]
+      },
+      {
+        "text": "以燕写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "燕",
+          "巢泥"
+        ]
+      },
+      {
+        "text": "燕为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "燕",
+          "掠影"
+        ]
+      }
+    ]
+  },
+  "蝉": {
+    "character": "蝉",
+    "shuowenOriginal": "蝉，以旁鸣者。从虫，单声。",
+    "shuowenExplanation": "蝉字强调鸣声与夏日生命律动，也常在传统中引申为高洁、蜕变与清响。",
+    "imageryAnalysis": "蝉常与树阴、暑气、夏声、蜕壳和高枝静鸣相联，适合发展为节奏性声音意象。",
+    "commonImages": [
+      "蝉翼",
+      "树梢",
+      "夏荫",
+      "鸣声",
+      "高枝"
+    ],
+    "classicalPoems": [
+      "垂緌饮清露，流响出疏桐。",
+      "意欲捕鸣蝉，忽然闭口立。",
+      "高蝉多远韵，茂树有余音。"
+    ],
+    "designKeywords": [
+      "summer resonance",
+      "thin wing",
+      "high branch",
+      "rhythmic",
+      "clear"
+    ],
+    "summary": "蝉适合构建轻薄翼纹、树影节奏和声感暗示明显的背景纹理，用于表现夏意与清响。",
+    "literaryQuotes": [
+      {
+        "text": "垂緌饮清露，流响出疏桐。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝉"
+        ]
+      },
+      {
+        "text": "意欲捕鸣蝉，忽然闭口立。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝉"
+        ]
+      },
+      {
+        "text": "高蝉多远韵，茂树有余音。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝉"
+        ]
+      },
+      {
+        "text": "蝉象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "蝉",
+          "蝉翼"
+        ]
+      },
+      {
+        "text": "因蝉取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "蝉",
+          "树梢"
+        ]
+      },
+      {
+        "text": "蝉与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "蝉",
+          "夏荫"
+        ]
+      },
+      {
+        "text": "以蝉写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "蝉",
+          "鸣声"
+        ]
+      },
+      {
+        "text": "蝉为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "蝉",
+          "高枝"
+        ]
+      }
+    ]
+  },
+  "蝶": {
+    "character": "蝶",
+    "shuowenOriginal": "蝶，蛱蝶也。从虫，葉声。",
+    "shuowenExplanation": "蝶字强调轻薄双翼与花间飞舞状态，具有灵动、梦幻和繁花相伴的视觉特征。",
+    "imageryAnalysis": "蝶常与花丛、春光、梦境和庄周典故相关，也适合形成对称而柔美的装饰图样。",
+    "commonImages": [
+      "蝶翼",
+      "花间",
+      "轻舞",
+      "春风",
+      "彩斑"
+    ],
+    "classicalPoems": [
+      "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+      "留连戏蝶时时舞，自在娇莺恰恰啼。",
+      "儿童急走追黄蝶，飞入菜花无处寻。"
+    ],
+    "designKeywords": [
+      "wing symmetry",
+      "floral",
+      "light movement",
+      "dreamlike",
+      "ornamental"
+    ],
+    "summary": "蝶适合以双翼对称、花间穿行和柔和彩斑构成背景纹理，用于表达轻灵与春意。",
+    "literaryQuotes": [
+      {
+        "text": "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝶"
+        ]
+      },
+      {
+        "text": "留连戏蝶时时舞，自在娇莺恰恰啼。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝶"
+        ]
+      },
+      {
+        "text": "儿童急走追黄蝶，飞入菜花无处寻。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "蝶"
+        ]
+      },
+      {
+        "text": "蝶象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "蝶",
+          "蝶翼"
+        ]
+      },
+      {
+        "text": "因蝶取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "蝶",
+          "花间"
+        ]
+      },
+      {
+        "text": "蝶与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "蝶",
+          "轻舞"
+        ]
+      },
+      {
+        "text": "以蝶写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "蝶",
+          "春风"
+        ]
+      },
+      {
+        "text": "蝶为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "蝶",
+          "彩斑"
+        ]
+      }
+    ]
+  },
+  "鹿": {
+    "character": "鹿",
+    "shuowenOriginal": "鹿，守备也。象头角四足之形。",
+    "shuowenExplanation": "鹿字为象形，取其角、身、足之态，传统上常与祥瑞、山林和长寿观念相关。",
+    "imageryAnalysis": "鹿常表现温顺、灵性、林间栖居与吉庆寓意，也常与松、鹤、灵芝相配。",
+    "commonImages": [
+      "鹿角",
+      "林地",
+      "苔痕",
+      "松影",
+      "溪岸"
+    ],
+    "classicalPoems": [
+      "树深时见鹿，溪午不闻钟。",
+      "且放白鹿青崖间，须行即骑访名山。",
+      "呦呦鹿鸣，食野之苹。"
+    ],
+    "designKeywords": [
+      "gentle silhouette",
+      "antler",
+      "forest spirit",
+      "auspicious",
+      "quiet"
+    ],
+    "summary": "鹿适合做成林地留白、鹿角轮廓和柔和棕绿调交织的背景纹理，用于表达祥和与灵性。",
+    "literaryQuotes": [
+      {
+        "text": "树深时见鹿，溪午不闻钟。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹿"
+        ]
+      },
+      {
+        "text": "且放白鹿青崖间，须行即骑访名山。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹿"
+        ]
+      },
+      {
+        "text": "呦呦鹿鸣，食野之苹。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鹿"
+        ]
+      },
+      {
+        "text": "鹿象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鹿",
+          "鹿角"
+        ]
+      },
+      {
+        "text": "因鹿取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鹿",
+          "林地"
+        ]
+      },
+      {
+        "text": "鹿与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鹿",
+          "苔痕"
+        ]
+      },
+      {
+        "text": "以鹿写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鹿",
+          "松影"
+        ]
+      },
+      {
+        "text": "鹿为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鹿",
+          "溪岸"
+        ]
+      }
+    ]
+  },
+  "马": {
+    "character": "马",
+    "shuowenOriginal": "马，怒也。武也。象马头髦尾四足之形。",
+    "shuowenExplanation": "马字为象形，强调奔跑、力量、速度和远行，是极具动势的传统动物意象。",
+    "imageryAnalysis": "马常与征途、边塞、英雄、驰骋和广阔天地相关，适合形成方向强烈的动态构图。",
+    "commonImages": [
+      "骏马",
+      "鬃毛",
+      "平原",
+      "尘土",
+      "长风"
+    ],
+    "classicalPoems": [
+      "乱花渐欲迷人眼，浅草才能没马蹄。",
+      "竹杖芒鞋轻胜马，谁怕？",
+      "马作的卢飞快，弓如霹雳弦惊。"
+    ],
+    "designKeywords": [
+      "gallop",
+      "muscular",
+      "speed",
+      "heroic",
+      "directional"
+    ],
+    "summary": "马适合发展为奔行轨迹、鬃毛线条和尘土飞扬感明显的背景纹理，用于强化速度与豪情。",
+    "literaryQuotes": [
+      {
+        "text": "乱花渐欲迷人眼，浅草才能没马蹄。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "马"
+        ]
+      },
+      {
+        "text": "竹杖芒鞋轻胜马，谁怕？",
+        "source": "古典诗文选句",
+        "keywords": [
+          "马"
+        ]
+      },
+      {
+        "text": "马作的卢飞快，弓如霹雳弦惊。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "马"
+        ]
+      },
+      {
+        "text": "马象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "马",
+          "骏马"
+        ]
+      },
+      {
+        "text": "因马取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "马",
+          "鬃毛"
+        ]
+      },
+      {
+        "text": "马与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "马",
+          "平原"
+        ]
+      },
+      {
+        "text": "以马写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "马",
+          "尘土"
+        ]
+      },
+      {
+        "text": "马为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "马",
+          "长风"
+        ]
+      }
+    ]
+  },
+  "虎": {
+    "character": "虎",
+    "shuowenOriginal": "虎，山兽之君。从虍，象形。",
+    "shuowenExplanation": "虎字取猛兽形态与纹理特征，强调威猛、镇守、山林权威与力量感。",
+    "imageryAnalysis": "虎常与山林、纹斑、震慑、守护和猛势相连，也适合发展为高识别的图腾型语言。",
+    "commonImages": [
+      "虎纹",
+      "山林",
+      "利爪",
+      "目光",
+      "风势"
+    ],
+    "classicalPoems": [
+      "虎踞龙盘今胜昔，天翻地覆慨而慷。",
+      "风虎云龙，变化有时。",
+      "射人先射马，擒贼先擒王。"
+    ],
+    "designKeywords": [
+      "stripe pattern",
+      "power",
+      "wild",
+      "guarding",
+      "fierce"
+    ],
+    "summary": "虎适合做成斑纹强烈、力量集中和山林气压明显的背景纹理，用于表达威势与震慑。",
+    "literaryQuotes": [
+      {
+        "text": "虎踞龙盘今胜昔，天翻地覆慨而慷。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虎"
+        ]
+      },
+      {
+        "text": "风虎云龙，变化有时。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虎"
+        ]
+      },
+      {
+        "text": "射人先射马，擒贼先擒王。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "虎"
+        ]
+      },
+      {
+        "text": "虎象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "虎",
+          "虎纹"
+        ]
+      },
+      {
+        "text": "因虎取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "虎",
+          "山林"
+        ]
+      },
+      {
+        "text": "虎与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "虎",
+          "利爪"
+        ]
+      },
+      {
+        "text": "以虎写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "虎",
+          "目光"
+        ]
+      },
+      {
+        "text": "虎为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "虎",
+          "风势"
+        ]
+      }
+    ]
+  },
+  "猿": {
+    "character": "猿",
+    "shuowenOriginal": "猿，善援，禺属。从犬，爰声。",
+    "shuowenExplanation": "猿字强调攀援与高处活动能力，也常与山峡、秋声和幽深自然空间相关。",
+    "imageryAnalysis": "猿常与江峡、古木、山月、啼声和远旅情绪相连，适于构建高低落差与空谷回响感。",
+    "commonImages": [
+      "古木",
+      "山峡",
+      "月夜",
+      "长藤",
+      "啼声"
+    ],
+    "classicalPoems": [
+      "两岸猿声啼不住，轻舟已过万重山。",
+      "风急天高猿啸哀，渚清沙白鸟飞回。",
+      "巴东三峡巫峡长，猿鸣三声泪沾裳。"
+    ],
+    "designKeywords": [
+      "echoing",
+      "cliff forest",
+      "wild call",
+      "vertical space",
+      "ancient"
+    ],
+    "summary": "猿适合发展为峡谷纵深、古木线条和空谷回响感明显的背景纹理，用于表达山林与旅愁。",
+    "literaryQuotes": [
+      {
+        "text": "两岸猿声啼不住，轻舟已过万重山。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "猿"
+        ]
+      },
+      {
+        "text": "风急天高猿啸哀，渚清沙白鸟飞回。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "猿"
+        ]
+      },
+      {
+        "text": "巴东三峡巫峡长，猿鸣三声泪沾裳。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "猿"
+        ]
+      },
+      {
+        "text": "猿象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "猿",
+          "古木"
+        ]
+      },
+      {
+        "text": "因猿取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "猿",
+          "山峡"
+        ]
+      },
+      {
+        "text": "猿与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "猿",
+          "月夜"
+        ]
+      },
+      {
+        "text": "以猿写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "猿",
+          "长藤"
+        ]
+      },
+      {
+        "text": "猿为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "猿",
+          "啼声"
+        ]
+      }
+    ]
+  },
+  "门": {
+    "character": "门",
+    "shuowenOriginal": "门，闻也。从二户。象形。",
+    "shuowenExplanation": "门字取双扇门户之形，强调出入、界限、礼序与空间开启。",
+    "imageryAnalysis": "门常与庭院、家宅、仪式、迎送和阈限感相关，是极具空间象征性的器物/建筑意象。",
+    "commonImages": [
+      "门扉",
+      "门环",
+      "门槛",
+      "庭院",
+      "光隙"
+    ],
+    "classicalPoems": [
+      "柴门闻犬吠，风雪夜归人。",
+      "侯门一入深如海，从此萧郎是路人。",
+      "门前流水尚能西。"
+    ],
+    "designKeywords": [
+      "threshold",
+      "symmetry",
+      "opening",
+      "ritual",
+      "boundary"
+    ],
+    "summary": "门适合构建中轴对称、开合关系清晰和阈限感强的背景纹理，用于表达进入与分界。",
+    "literaryQuotes": [
+      {
+        "text": "柴门闻犬吠，风雪夜归人。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "门"
+        ]
+      },
+      {
+        "text": "侯门一入深如海，从此萧郎是路人。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "门"
+        ]
+      },
+      {
+        "text": "门前流水尚能西。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "门"
+        ]
+      },
+      {
+        "text": "门象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "门",
+          "门扉"
+        ]
+      },
+      {
+        "text": "因门取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "门",
+          "门环"
+        ]
+      },
+      {
+        "text": "门与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "门",
+          "门槛"
+        ]
+      },
+      {
+        "text": "以门写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "门",
+          "庭院"
+        ]
+      },
+      {
+        "text": "门为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "门",
+          "光隙"
+        ]
+      }
+    ]
+  },
+  "窗": {
+    "character": "窗",
+    "shuowenOriginal": "窗，开闭户也。从穴，囱声。",
+    "shuowenExplanation": "窗字强调通光、通风和内外相望，是居住空间里最具观看意味的构件之一。",
+    "imageryAnalysis": "窗常与月影、烛光、雨声、帘幕和静夜相关，适合形成框景与内外层次。",
+    "commonImages": [
+      "窗棂",
+      "月影",
+      "纱影",
+      "烛光",
+      "雨痕"
+    ],
+    "classicalPoems": [
+      "何当共剪西窗烛，却话巴山夜雨时。",
+      "窗含西岭千秋雪，门泊东吴万里船。",
+      "银烛秋光冷画屏，轻罗小扇扑流萤。"
+    ],
+    "designKeywords": [
+      "frame",
+      "grid pattern",
+      "inside-outside",
+      "shadow",
+      "quiet room"
+    ],
+    "summary": "窗适合以格栅结构、投影关系和内外光感对比构成背景纹理，用于表达静室与观照。",
+    "literaryQuotes": [
+      {
+        "text": "何当共剪西窗烛，却话巴山夜雨时。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "窗"
+        ]
+      },
+      {
+        "text": "窗含西岭千秋雪，门泊东吴万里船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "窗"
+        ]
+      },
+      {
+        "text": "银烛秋光冷画屏，轻罗小扇扑流萤。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "窗"
+        ]
+      },
+      {
+        "text": "窗象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "窗",
+          "窗棂"
+        ]
+      },
+      {
+        "text": "因窗取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "窗",
+          "月影"
+        ]
+      },
+      {
+        "text": "窗与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "窗",
+          "纱影"
+        ]
+      },
+      {
+        "text": "以窗写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "窗",
+          "烛光"
+        ]
+      },
+      {
+        "text": "窗为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "窗",
+          "雨痕"
+        ]
+      }
+    ]
+  },
+  "扇": {
+    "character": "扇",
+    "shuowenOriginal": "扇，箑也。从户，从羽。",
+    "shuowenExplanation": "扇本为引风之具，强调展开、折合、弧面与轻巧移动，是极适合图形化的器物意象。",
+    "imageryAnalysis": "扇常与宫廷、闺阁、夏日、文人题画和手持礼仪相关，兼具柔美与秩序感。",
+    "commonImages": [
+      "团扇",
+      "折扇",
+      "扇面",
+      "题字",
+      "轻风"
+    ],
+    "classicalPoems": [
+      "银烛秋光冷画屏，轻罗小扇扑流萤。",
+      "裁为合欢扇，团团似明月。",
+      "奉帚平明金殿开，且将团扇共徘徊。"
+    ],
+    "designKeywords": [
+      "fan arc",
+      "fold rhythm",
+      "lightweight",
+      "elegant object",
+      "decorative"
+    ],
+    "summary": "扇适合发展为弧形展开、折线节奏和器物留白明显的背景纹理，用于表达轻雅与秩序。",
+    "literaryQuotes": [
+      {
+        "text": "银烛秋光冷画屏，轻罗小扇扑流萤。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "扇"
+        ]
+      },
+      {
+        "text": "裁为合欢扇，团团似明月。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "扇"
+        ]
+      },
+      {
+        "text": "奉帚平明金殿开，且将团扇共徘徊。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "扇"
+        ]
+      },
+      {
+        "text": "扇象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "扇",
+          "团扇"
+        ]
+      },
+      {
+        "text": "因扇取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "扇",
+          "折扇"
+        ]
+      },
+      {
+        "text": "扇与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "扇",
+          "扇面"
+        ]
+      },
+      {
+        "text": "以扇写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "扇",
+          "题字"
+        ]
+      },
+      {
+        "text": "扇为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "扇",
+          "轻风"
+        ]
+      }
+    ]
+  },
+  "鼓": {
+    "character": "鼓",
+    "shuowenOriginal": "鼓，郭也。春分之音，万物郭皮甲而出。象形。",
+    "shuowenExplanation": "鼓字兼具器物与声音双重意义，强调节拍、振动、召集与仪式性。",
+    "imageryAnalysis": "鼓常与军旅、祭礼、节庆、舞蹈和声势呼应，是极强的节奏意象。",
+    "commonImages": [
+      "鼓面",
+      "鼓槌",
+      "节拍",
+      "回响",
+      "仪式"
+    ],
+    "classicalPoems": [
+      "角声满天秋色里，塞上燕脂凝夜紫。",
+      "击鼓其镗，踊跃用兵。",
+      "渔阳鼙鼓动地来，惊破霓裳羽衣曲。"
+    ],
+    "designKeywords": [
+      "rhythm",
+      "circular tension",
+      "ceremonial",
+      "beat",
+      "resonant"
+    ],
+    "summary": "鼓适合构建中心张力强、重复节拍感明确的背景纹理，用于表达仪式、振动与节奏。",
+    "literaryQuotes": [
+      {
+        "text": "角声满天秋色里，塞上燕脂凝夜紫。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼓"
+        ]
+      },
+      {
+        "text": "击鼓其镗，踊跃用兵。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼓"
+        ]
+      },
+      {
+        "text": "渔阳鼙鼓动地来，惊破霓裳羽衣曲。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼓"
+        ]
+      },
+      {
+        "text": "鼓象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鼓",
+          "鼓面"
+        ]
+      },
+      {
+        "text": "因鼓取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鼓",
+          "鼓槌"
+        ]
+      },
+      {
+        "text": "鼓与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鼓",
+          "节拍"
+        ]
+      },
+      {
+        "text": "以鼓写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鼓",
+          "回响"
+        ]
+      },
+      {
+        "text": "鼓为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鼓",
+          "仪式"
+        ]
+      }
+    ]
+  },
+  "钟": {
+    "character": "钟",
+    "shuowenOriginal": "钟，酒器也。后为金声之器。从金，童声。",
+    "shuowenExplanation": "钟在古义中也有器物意义，后主要指发声金属器，强调回响、沉稳与时间秩序。",
+    "imageryAnalysis": "钟常与寺院、晨昏、回音、礼制和安定感相关，适合发展为圆形与扩散并存的结构。",
+    "commonImages": [
+      "古钟",
+      "钟声",
+      "山寺",
+      "回响",
+      "铜色"
+    ],
+    "classicalPoems": [
+      "姑苏城外寒山寺，夜半钟声到客船。",
+      "万籁此都寂，但余钟磬音。",
+      "不知钟鼓报天明。"
+    ],
+    "designKeywords": [
+      "resonance",
+      "bronze tone",
+      "circular mass",
+      "solemn",
+      "time rhythm"
+    ],
+    "summary": "钟适合做成圆形扩散、金属肌理和回响层次明显的背景纹理，用于表达静穆与时序。",
+    "literaryQuotes": [
+      {
+        "text": "姑苏城外寒山寺，夜半钟声到客船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "钟"
+        ]
+      },
+      {
+        "text": "万籁此都寂，但余钟磬音。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "钟"
+        ]
+      },
+      {
+        "text": "不知钟鼓报天明。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "钟"
+        ]
+      },
+      {
+        "text": "钟象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "钟",
+          "古钟"
+        ]
+      },
+      {
+        "text": "因钟取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "钟",
+          "钟声"
+        ]
+      },
+      {
+        "text": "钟与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "钟",
+          "山寺"
+        ]
+      },
+      {
+        "text": "以钟写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "钟",
+          "回响"
+        ]
+      },
+      {
+        "text": "钟为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "钟",
+          "铜色"
+        ]
+      }
+    ]
+  },
+  "塔": {
+    "character": "塔",
+    "shuowenOriginal": "塔，浮图也。从土，荅声。",
+    "shuowenExplanation": "塔为高耸叠层建筑，强调垂直序列、宗教空间与远眺标识性。",
+    "imageryAnalysis": "塔常与佛寺、山城、夜色、江岸和轮廓天际线相关，适合表现竖向秩序。",
+    "commonImages": [
+      "佛塔",
+      "层檐",
+      "暮色",
+      "江岸",
+      "高影"
+    ],
+    "classicalPoems": [
+      "夕阳无限好，只是近黄昏。",
+      "塔势如涌出，孤高耸天宫。",
+      "山寺钟鸣昼已昏，渔梁渡头争渡喧。"
+    ],
+    "designKeywords": [
+      "vertical stack",
+      "silhouette",
+      "sacred",
+      "landmark",
+      "ascending"
+    ],
+    "summary": "塔适合发展为层层上收、轮廓清晰和高空留白明显的背景纹理，用于表达垂直秩序与静定感。",
+    "literaryQuotes": [
+      {
+        "text": "夕阳无限好，只是近黄昏。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "塔"
+        ]
+      },
+      {
+        "text": "塔势如涌出，孤高耸天宫。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "塔"
+        ]
+      },
+      {
+        "text": "山寺钟鸣昼已昏，渔梁渡头争渡喧。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "塔"
+        ]
+      },
+      {
+        "text": "塔象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "塔",
+          "佛塔"
+        ]
+      },
+      {
+        "text": "因塔取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "塔",
+          "层檐"
+        ]
+      },
+      {
+        "text": "塔与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "塔",
+          "暮色"
+        ]
+      },
+      {
+        "text": "以塔写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "塔",
+          "江岸"
+        ]
+      },
+      {
+        "text": "塔为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "塔",
+          "高影"
+        ]
+      }
+    ]
+  },
+  "亭": {
+    "character": "亭",
+    "shuowenOriginal": "亭，民所安定也。亭有楼。从高省，丁声。",
+    "shuowenExplanation": "亭字兼具停驻与小型建筑空间之意，强调临水、观景、歇息与小尺度秩序。",
+    "imageryAnalysis": "亭常与山水、送别、凭栏、月色和园林空间相连，是非常典型的东方景观节点。",
+    "commonImages": [
+      "亭子",
+      "栏杆",
+      "湖岸",
+      "月色",
+      "树影"
+    ],
+    "classicalPoems": [
+      "常记溪亭日暮，沉醉不知归路。",
+      "山外青山楼外楼，西湖歌舞几时休。",
+      "长亭外，古道边，芳草碧连天。"
+    ],
+    "designKeywords": [
+      "small pavilion",
+      "resting",
+      "landscape node",
+      "balanced",
+      "garden"
+    ],
+    "summary": "亭适合构建小尺度中心节点、栏杆线条和周边留白呼吸感明显的背景纹理，用于表达停驻与园林感。",
+    "literaryQuotes": [
+      {
+        "text": "常记溪亭日暮，沉醉不知归路。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "亭"
+        ]
+      },
+      {
+        "text": "山外青山楼外楼，西湖歌舞几时休。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "亭"
+        ]
+      },
+      {
+        "text": "长亭外，古道边，芳草碧连天。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "亭"
+        ]
+      },
+      {
+        "text": "亭象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "亭",
+          "亭子"
+        ]
+      },
+      {
+        "text": "因亭取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "亭",
+          "栏杆"
+        ]
+      },
+      {
+        "text": "亭与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "亭",
+          "湖岸"
+        ]
+      },
+      {
+        "text": "以亭写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "亭",
+          "月色"
+        ]
+      },
+      {
+        "text": "亭为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "亭",
+          "树影"
+        ]
+      }
+    ]
+  },
+  "台": {
+    "character": "台",
+    "shuowenOriginal": "台，观四方而高者。从至，从厶。",
+    "shuowenExplanation": "台强调高起平台与观望功能，具有视野、仪式与层级结构的空间特征。",
+    "imageryAnalysis": "台常与登临、宫阙、祭祀和楼观相关，适合转化为层层抬升和横向展开的结构。",
+    "commonImages": [
+      "高台",
+      "栏台",
+      "宫观",
+      "远眺",
+      "台阶"
+    ],
+    "classicalPoems": [
+      "凤凰台上凤凰游，凤去台空江自流。",
+      "舞榭歌台，风流总被，雨打风吹去。",
+      "台城六代竞豪华，结绮临春事最奢。"
+    ],
+    "designKeywords": [
+      "raised platform",
+      "elevated view",
+      "tiered",
+      "ceremonial",
+      "broad"
+    ],
+    "summary": "台适合做成层级抬升、横向展开和视野感较强的背景纹理，用于表现登临与仪式空间。",
+    "literaryQuotes": [
+      {
+        "text": "凤凰台上凤凰游，凤去台空江自流。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "台"
+        ]
+      },
+      {
+        "text": "舞榭歌台，风流总被，雨打风吹去。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "台"
+        ]
+      },
+      {
+        "text": "台城六代竞豪华，结绮临春事最奢。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "台"
+        ]
+      },
+      {
+        "text": "台象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "台",
+          "高台"
+        ]
+      },
+      {
+        "text": "因台取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "台",
+          "栏台"
+        ]
+      },
+      {
+        "text": "台与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "台",
+          "宫观"
+        ]
+      },
+      {
+        "text": "以台写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "台",
+          "远眺"
+        ]
+      },
+      {
+        "text": "台为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "台",
+          "台阶"
+        ]
+      }
+    ]
+  },
+  "阁": {
+    "character": "阁",
+    "shuowenOriginal": "阁，所以止扉也。从门，各声。",
+    "shuowenExplanation": "阁在古义中与门止相关，后多指架空或高置的楼阁式建筑，强调层级、藏纳与观望。",
+    "imageryAnalysis": "阁常与藏书、深院、楼影、夜灯和高处空间感相联，适合发展为格栅与建筑轮廓并存的纹理。",
+    "commonImages": [
+      "楼阁",
+      "檐角",
+      "书架",
+      "窗格",
+      "灯影"
+    ],
+    "classicalPoems": [
+      "滕王高阁临江渚，佩玉鸣鸾罢歌舞。",
+      "画阁朱楼尽相望，红桃绿柳垂檐向。",
+      "朱雀桥边野草花，乌衣巷口夕阳斜。"
+    ],
+    "designKeywords": [
+      "lofted",
+      "architectural grid",
+      "eaves",
+      "refined",
+      "layered"
+    ],
+    "summary": "阁适合构建格栅、层檐和深院灯影交叠的背景纹理，用于表达高处与藏纳感。",
+    "literaryQuotes": [
+      {
+        "text": "滕王高阁临江渚，佩玉鸣鸾罢歌舞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "阁"
+        ]
+      },
+      {
+        "text": "画阁朱楼尽相望，红桃绿柳垂檐向。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "阁"
+        ]
+      },
+      {
+        "text": "朱雀桥边野草花，乌衣巷口夕阳斜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "阁"
+        ]
+      },
+      {
+        "text": "阁象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "阁",
+          "楼阁"
+        ]
+      },
+      {
+        "text": "因阁取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "阁",
+          "檐角"
+        ]
+      },
+      {
+        "text": "阁与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "阁",
+          "书架"
+        ]
+      },
+      {
+        "text": "以阁写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "阁",
+          "窗格"
+        ]
+      },
+      {
+        "text": "阁为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "阁",
+          "灯影"
+        ]
+      }
+    ]
+  },
+  "笛": {
+    "character": "笛",
+    "shuowenOriginal": "笛，七孔龠也。从竹，由声。",
+    "shuowenExplanation": "笛为竹制吹奏乐器，强调细长管身、孔位节律与清亮音色。",
+    "imageryAnalysis": "笛常与江月、边城、牧歌和离情相关，适合形成轻细线性与远音感。",
+    "commonImages": [
+      "竹笛",
+      "月夜",
+      "江风",
+      "吹奏",
+      "长音"
+    ],
+    "classicalPoems": [
+      "谁家玉笛暗飞声，散入春风满洛城。",
+      "羌笛何须怨杨柳，春风不度玉门关。",
+      "二十四桥明月夜，玉人何处教吹箫。"
+    ],
+    "designKeywords": [
+      "linear",
+      "airy sound",
+      "bamboo",
+      "slender",
+      "melodic"
+    ],
+    "summary": "笛适合做成细长线性、节奏孔位和轻风流向明显的背景纹理，用于表达清亮与远音。",
+    "literaryQuotes": [
+      {
+        "text": "谁家玉笛暗飞声，散入春风满洛城。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笛"
+        ]
+      },
+      {
+        "text": "羌笛何须怨杨柳，春风不度玉门关。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笛"
+        ]
+      },
+      {
+        "text": "二十四桥明月夜，玉人何处教吹箫。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笛"
+        ]
+      },
+      {
+        "text": "笛象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "笛",
+          "竹笛"
+        ]
+      },
+      {
+        "text": "因笛取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "笛",
+          "月夜"
+        ]
+      },
+      {
+        "text": "笛与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "笛",
+          "江风"
+        ]
+      },
+      {
+        "text": "以笛写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "笛",
+          "吹奏"
+        ]
+      },
+      {
+        "text": "笛为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "笛",
+          "长音"
+        ]
+      }
+    ]
+  },
+  "箫": {
+    "character": "箫",
+    "shuowenOriginal": "箫，参差管乐也。从竹，肃声。",
+    "shuowenExplanation": "箫强调纵吹与参差管列之形，音色更幽、更远，具深夜与秋声感。",
+    "imageryAnalysis": "箫常与明月、古桥、秋风、清夜和幽人相连，适合表达幽长、内敛与留白感。",
+    "commonImages": [
+      "洞箫",
+      "月夜",
+      "长音",
+      "桥边",
+      "寒色"
+    ],
+    "classicalPoems": [
+      "二十四桥明月夜，玉人何处教吹箫。",
+      "凤箫声动，玉壶光转，一夜鱼龙舞。",
+      "不知乘月几人归，落月摇情满江树。"
+    ],
+    "designKeywords": [
+      "vertical tube",
+      "low resonance",
+      "moonlit",
+      "hollow",
+      "restrained"
+    ],
+    "summary": "箫适合构建纵向细管、空灵留白和夜色寒意明显的背景纹理，用于表达幽远与清寂。",
+    "literaryQuotes": [
+      {
+        "text": "二十四桥明月夜，玉人何处教吹箫。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "箫"
+        ]
+      },
+      {
+        "text": "凤箫声动，玉壶光转，一夜鱼龙舞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "箫"
+        ]
+      },
+      {
+        "text": "不知乘月几人归，落月摇情满江树。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "箫"
+        ]
+      },
+      {
+        "text": "箫象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "箫",
+          "洞箫"
+        ]
+      },
+      {
+        "text": "因箫取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "箫",
+          "月夜"
+        ]
+      },
+      {
+        "text": "箫与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "箫",
+          "长音"
+        ]
+      },
+      {
+        "text": "以箫写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "箫",
+          "桥边"
+        ]
+      },
+      {
+        "text": "箫为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "箫",
+          "寒色"
+        ]
+      }
+    ]
+  },
+  "砚": {
+    "character": "砚",
+    "shuowenOriginal": "砚，石滑也。从石，见声。",
+    "shuowenExplanation": "砚为研墨之器，强调石质、平面、水墨与书写准备状态，是文房核心器物。",
+    "imageryAnalysis": "砚常与墨池、案头、书卷、文人清供和沉静气息相关，适合发展为细腻石理与水痕结合的纹理。",
+    "commonImages": [
+      "砚台",
+      "墨池",
+      "水痕",
+      "案几",
+      "纸卷"
+    ],
+    "classicalPoems": [
+      "晴窗细乳戏分茶。",
+      "小窗风雨碎人肠，更在孤舟枕上。",
+      "墨池飞出北溟鱼，笔锋杀尽中山兔。"
+    ],
+    "designKeywords": [
+      "ink stone",
+      "polished rock",
+      "wet trace",
+      "scholarly desk",
+      "quiet"
+    ],
+    "summary": "砚适合做成细腻石纹、水痕晕散和深浅墨色交融的背景纹理，用于表达文房气息。",
+    "literaryQuotes": [
+      {
+        "text": "晴窗细乳戏分茶。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "砚"
+        ]
+      },
+      {
+        "text": "小窗风雨碎人肠，更在孤舟枕上。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "砚"
+        ]
+      },
+      {
+        "text": "墨池飞出北溟鱼，笔锋杀尽中山兔。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "砚"
+        ]
+      },
+      {
+        "text": "砚象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "砚",
+          "砚台"
+        ]
+      },
+      {
+        "text": "因砚取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "砚",
+          "墨池"
+        ]
+      },
+      {
+        "text": "砚与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "砚",
+          "水痕"
+        ]
+      },
+      {
+        "text": "以砚写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "砚",
+          "案几"
+        ]
+      },
+      {
+        "text": "砚为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "砚",
+          "纸卷"
+        ]
+      }
+    ]
+  },
+  "印": {
+    "character": "印",
+    "shuowenOriginal": "印，执政所持信也。从爪，从卩。",
+    "shuowenExplanation": "印强调凭信、钤记、权威与图形边界，是极适合转化为平面印痕结构的器物意象。",
+    "imageryAnalysis": "印常与官印、篆刻、边框、朱文白文和身份记号相关，适合发展为高对比结构。",
+    "commonImages": [
+      "印章",
+      "印泥",
+      "边框",
+      "篆文",
+      "压痕"
+    ],
+    "classicalPoems": [
+      "男儿何不带吴钩，收取关山五十州。",
+      "封侯非我意，但愿海波平。",
+      "欲寄彩笺兼尺素，山长水阔知何处。"
+    ],
+    "designKeywords": [
+      "seal mark",
+      "stamp border",
+      "contrast",
+      "square form",
+      "authority"
+    ],
+    "summary": "印适合做成边界清晰、朱白对比强和压痕感明显的背景纹理，用于表达记号与秩序。",
+    "literaryQuotes": [
+      {
+        "text": "男儿何不带吴钩，收取关山五十州。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "印"
+        ]
+      },
+      {
+        "text": "封侯非我意，但愿海波平。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "印"
+        ]
+      },
+      {
+        "text": "欲寄彩笺兼尺素，山长水阔知何处。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "印"
+        ]
+      },
+      {
+        "text": "印象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "印",
+          "印章"
+        ]
+      },
+      {
+        "text": "因印取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "印",
+          "印泥"
+        ]
+      },
+      {
+        "text": "印与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "印",
+          "边框"
+        ]
+      },
+      {
+        "text": "以印写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "印",
+          "篆文"
+        ]
+      },
+      {
+        "text": "印为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "印",
+          "压痕"
+        ]
+      }
+    ]
+  },
+  "瓶": {
+    "character": "瓶",
+    "shuowenOriginal": "瓶，汲水器也。从瓦，并声。",
+    "shuowenExplanation": "瓶本指盛水或汲水之器，强调中空、曲腹、器形比例与静置美感。",
+    "imageryAnalysis": "瓶常与插花、供器、案头和器物审美相关，适合转化为柔和器形与圆弧结构。",
+    "commonImages": [
+      "瓷瓶",
+      "花枝",
+      "案头",
+      "器影",
+      "弧面"
+    ],
+    "classicalPoems": [
+      "花径不曾缘客扫，蓬门今始为君开。",
+      "闲插梅花醉不知。",
+      "玉瓶沽美酒，数里送君还。"
+    ],
+    "designKeywords": [
+      "vessel curve",
+      "balanced form",
+      "ceramic silhouette",
+      "still life",
+      "gentle"
+    ],
+    "summary": "瓶适合发展为弧面柔和、器形比例明确和静物感明显的背景纹理，用于表达器物之美。",
+    "literaryQuotes": [
+      {
+        "text": "花径不曾缘客扫，蓬门今始为君开。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓶"
+        ]
+      },
+      {
+        "text": "闲插梅花醉不知。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓶"
+        ]
+      },
+      {
+        "text": "玉瓶沽美酒，数里送君还。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓶"
+        ]
+      },
+      {
+        "text": "瓶象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "瓶",
+          "瓷瓶"
+        ]
+      },
+      {
+        "text": "因瓶取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "瓶",
+          "花枝"
+        ]
+      },
+      {
+        "text": "瓶与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "瓶",
+          "案头"
+        ]
+      },
+      {
+        "text": "以瓶写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "瓶",
+          "器影"
+        ]
+      },
+      {
+        "text": "瓶为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "瓶",
+          "弧面"
+        ]
+      }
+    ]
+  },
+  "瓷": {
+    "character": "瓷",
+    "shuowenOriginal": "瓷，瓦坚致者。从瓦，次声。",
+    "shuowenExplanation": "瓷强调烧制后的光洁、坚致、薄润与表面装饰秩序，是中国器物文明的代表性材质。",
+    "imageryAnalysis": "瓷常与青白釉色、开片、器形、花纹和温润光泽相关，适合做成细腻材质类纹理。",
+    "commonImages": [
+      "瓷面",
+      "釉色",
+      "开片",
+      "青花",
+      "器影"
+    ],
+    "classicalPoems": [
+      "素瓷传静夜，芳气满闲轩。",
+      "越瓯秋水澄，越席秋烟起。",
+      "薄雾浓云愁永昼，瑞脑消金兽。"
+    ],
+    "designKeywords": [
+      "glaze",
+      "crackle",
+      "smooth shine",
+      "refined",
+      "cool tone"
+    ],
+    "summary": "瓷适合构建釉面微光、裂纹细理和冷雅色阶并存的背景纹理，用于表达器物材质感。",
+    "literaryQuotes": [
+      {
+        "text": "素瓷传静夜，芳气满闲轩。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓷"
+        ]
+      },
+      {
+        "text": "越瓯秋水澄，越席秋烟起。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓷"
+        ]
+      },
+      {
+        "text": "薄雾浓云愁永昼，瑞脑消金兽。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "瓷"
+        ]
+      },
+      {
+        "text": "瓷象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "瓷",
+          "瓷面"
+        ]
+      },
+      {
+        "text": "因瓷取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "瓷",
+          "釉色"
+        ]
+      },
+      {
+        "text": "瓷与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "瓷",
+          "开片"
+        ]
+      },
+      {
+        "text": "以瓷写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "瓷",
+          "青花"
+        ]
+      },
+      {
+        "text": "瓷为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "瓷",
+          "器影"
+        ]
+      }
+    ]
+  },
+  "炉": {
+    "character": "炉",
+    "shuowenOriginal": "炉，火所居也。从火，卢声。",
+    "shuowenExplanation": "炉指承火之器，兼具火焰、温度、香气和器物形态，是空间氛围的重要节点。",
+    "imageryAnalysis": "炉常与焚香、煮茶、冬室、文房清供和静夜独坐相连，适合发展为暖点与烟气纹理。",
+    "commonImages": [
+      "香炉",
+      "炉火",
+      "烟气",
+      "案头",
+      "微暖"
+    ],
+    "classicalPoems": [
+      "寒夜客来茶当酒，竹炉汤沸火初红。",
+      "博山炉中沉香火，双烟一气凌紫霞。",
+      "日照香炉生紫烟，遥看瀑布挂前川。"
+    ],
+    "designKeywords": [
+      "warm ember",
+      "smoke trail",
+      "vessel",
+      "ritual",
+      "quiet room"
+    ],
+    "summary": "炉适合做成暖点中心、烟线轻扬和器物静置感明显的背景纹理，用于表达室内温度与清供感。",
+    "literaryQuotes": [
+      {
+        "text": "寒夜客来茶当酒，竹炉汤沸火初红。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "炉"
+        ]
+      },
+      {
+        "text": "博山炉中沉香火，双烟一气凌紫霞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "炉"
+        ]
+      },
+      {
+        "text": "日照香炉生紫烟，遥看瀑布挂前川。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "炉"
+        ]
+      },
+      {
+        "text": "炉象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "炉",
+          "香炉"
+        ]
+      },
+      {
+        "text": "因炉取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "炉",
+          "炉火"
+        ]
+      },
+      {
+        "text": "炉与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "炉",
+          "烟气"
+        ]
+      },
+      {
+        "text": "以炉写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "炉",
+          "案头"
+        ]
+      },
+      {
+        "text": "炉为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "炉",
+          "微暖"
+        ]
+      }
+    ]
+  },
+  "鼎": {
+    "character": "鼎",
+    "shuowenOriginal": "鼎，三足两耳，和五味之宝器也。象形。",
+    "shuowenExplanation": "鼎是最具礼制象征意义的重器，强调承载、中心、权威与稳定结构。",
+    "imageryAnalysis": "鼎常与宗庙、礼器、国家象征和古典秩序相关，也适合发展为重量感极强的图形语言。",
+    "commonImages": [
+      "鼎耳",
+      "三足",
+      "青铜纹",
+      "礼器",
+      "铭文"
+    ],
+    "classicalPoems": [
+      "问鼎中原。",
+      "钟鸣鼎食之家。",
+      "三代鼎彝传古意，百年文物寄幽情。"
+    ],
+    "designKeywords": [
+      "bronze vessel",
+      "weight",
+      "ritual",
+      "central mass",
+      "solemn"
+    ],
+    "summary": "鼎适合构建厚重中心、青铜肌理与礼制秩序明显的背景纹理，用于表达权威与古典感。",
+    "literaryQuotes": [
+      {
+        "text": "问鼎中原。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼎"
+        ]
+      },
+      {
+        "text": "钟鸣鼎食之家。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼎"
+        ]
+      },
+      {
+        "text": "三代鼎彝传古意，百年文物寄幽情。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "鼎"
+        ]
+      },
+      {
+        "text": "鼎象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "鼎",
+          "鼎耳"
+        ]
+      },
+      {
+        "text": "因鼎取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "鼎",
+          "三足"
+        ]
+      },
+      {
+        "text": "鼎与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "鼎",
+          "青铜纹"
+        ]
+      },
+      {
+        "text": "以鼎写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "鼎",
+          "礼器"
+        ]
+      },
+      {
+        "text": "鼎为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "鼎",
+          "铭文"
+        ]
+      }
+    ]
+  },
+  "帘": {
+    "character": "帘",
+    "shuowenOriginal": "帘，堂帷也。从巾，廉声。",
+    "shuowenExplanation": "帘指悬垂遮蔽物，强调垂直、半遮、内外分隔与风动轻晃。",
+    "imageryAnalysis": "帘常与闺阁、月夜、灯影、细雨和窥见关系相关，适合发展为柔性垂线纹理。",
+    "commonImages": [
+      "珠帘",
+      "纱帘",
+      "灯影",
+      "窗前",
+      "夜雨"
+    ],
+    "classicalPoems": [
+      "帘卷西风，人比黄花瘦。",
+      "金井梧桐秋叶黄，珠帘不卷夜来霜。",
+      "雾失楼台，月迷津渡。"
+    ],
+    "designKeywords": [
+      "vertical veil",
+      "semi-transparent",
+      "soft hanging",
+      "interior",
+      "subtle"
+    ],
+    "summary": "帘适合做成垂线重复、半透明层叠和光影若隐若现的背景纹理，用于表达内外边界与柔美。",
+    "literaryQuotes": [
+      {
+        "text": "帘卷西风，人比黄花瘦。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帘"
+        ]
+      },
+      {
+        "text": "金井梧桐秋叶黄，珠帘不卷夜来霜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帘"
+        ]
+      },
+      {
+        "text": "雾失楼台，月迷津渡。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "帘"
+        ]
+      },
+      {
+        "text": "帘象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "帘",
+          "珠帘"
+        ]
+      },
+      {
+        "text": "因帘取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "帘",
+          "纱帘"
+        ]
+      },
+      {
+        "text": "帘与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "帘",
+          "灯影"
+        ]
+      },
+      {
+        "text": "以帘写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "帘",
+          "窗前"
+        ]
+      },
+      {
+        "text": "帘为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "帘",
+          "夜雨"
+        ]
+      }
+    ]
+  },
+  "伞": {
+    "character": "伞",
+    "shuowenOriginal": "伞，盖也。从人，从爻。",
+    "shuowenExplanation": "伞强调遮覆、收合与张开时的放射结构，具有明确的中心和骨架关系。",
+    "imageryAnalysis": "伞常与雨巷、江南、市井、轻雨和行路相关，适合发展为辐射状与弧面结构。",
+    "commonImages": [
+      "油纸伞",
+      "伞骨",
+      "雨丝",
+      "巷道",
+      "倒影"
+    ],
+    "classicalPoems": [
+      "小楼一夜听春雨，深巷明朝卖杏花。",
+      "青箬笠，绿蓑衣，斜风细雨不须归。",
+      "南朝四百八十寺，多少楼台烟雨中。"
+    ],
+    "designKeywords": [
+      "radial structure",
+      "umbrella arc",
+      "rainy",
+      "jiangnan",
+      "protective"
+    ],
+    "summary": "伞适合做成中心放射、弧面展开与雨线交织明显的背景纹理，用于表达江南与轻雨氛围。",
+    "literaryQuotes": [
+      {
+        "text": "小楼一夜听春雨，深巷明朝卖杏花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "伞"
+        ]
+      },
+      {
+        "text": "青箬笠，绿蓑衣，斜风细雨不须归。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "伞"
+        ]
+      },
+      {
+        "text": "南朝四百八十寺，多少楼台烟雨中。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "伞"
+        ]
+      },
+      {
+        "text": "伞象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "伞",
+          "油纸伞"
+        ]
+      },
+      {
+        "text": "因伞取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "伞",
+          "伞骨"
+        ]
+      },
+      {
+        "text": "伞与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "伞",
+          "雨丝"
+        ]
+      },
+      {
+        "text": "以伞写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "伞",
+          "巷道"
+        ]
+      },
+      {
+        "text": "伞为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "伞",
+          "倒影"
+        ]
+      }
+    ]
+  },
+  "船": {
+    "character": "船",
+    "shuowenOriginal": "船，舟也。从舟，㕣声。",
+    "shuowenExplanation": "船是比舟更常用的载行器物名称，强调承载、航行、江海往来和空间移动。",
+    "imageryAnalysis": "船常与渔火、商旅、江湖、港汊和夜泊场景相关，适合发展为横向移动构图。",
+    "commonImages": [
+      "渔船",
+      "帆影",
+      "水线",
+      "岸灯",
+      "夜泊"
+    ],
+    "classicalPoems": [
+      "姑苏城外寒山寺，夜半钟声到客船。",
+      "野径云俱黑，江船火独明。",
+      "移船相近邀相见，添酒回灯重开宴。"
+    ],
+    "designKeywords": [
+      "carrier",
+      "waterline",
+      "journey",
+      "harbor light",
+      "horizontal"
+    ],
+    "summary": "船适合构建水线承托、横向漂移和灯火点缀并存的背景纹理，用于表现行旅与停泊。",
+    "literaryQuotes": [
+      {
+        "text": "姑苏城外寒山寺，夜半钟声到客船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "船"
+        ]
+      },
+      {
+        "text": "野径云俱黑，江船火独明。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "船"
+        ]
+      },
+      {
+        "text": "移船相近邀相见，添酒回灯重开宴。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "船"
+        ]
+      },
+      {
+        "text": "船象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "船",
+          "渔船"
+        ]
+      },
+      {
+        "text": "因船取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "船",
+          "帆影"
+        ]
+      },
+      {
+        "text": "船与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "船",
+          "水线"
+        ]
+      },
+      {
+        "text": "以船写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "船",
+          "岸灯"
+        ]
+      },
+      {
+        "text": "船为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "船",
+          "夜泊"
+        ]
+      }
+    ]
+  },
+  "城": {
+    "character": "城",
+    "shuowenOriginal": "城，以盛民也。从土，成声。",
+    "shuowenExplanation": "城指围护聚民之地，强调边界、秩序、防御与人居规模。",
+    "imageryAnalysis": "城常与城墙、门阙、灯火、街巷和历史记忆相关，适合发展为整体结构明确的建筑纹理。",
+    "commonImages": [
+      "城墙",
+      "城门",
+      "灯火",
+      "街巷",
+      "夜色"
+    ],
+    "classicalPoems": [
+      "黑云压城城欲摧，甲光向日金鳞开。",
+      "春风得意马蹄疾，一日看尽长安花。",
+      "烟笼寒水月笼沙，夜泊秦淮近酒家。"
+    ],
+    "designKeywords": [
+      "wall structure",
+      "urban classic",
+      "boundary",
+      "night lights",
+      "historical"
+    ],
+    "summary": "城适合做成边界清晰、格局稳定和灯火点状分布明显的背景纹理，用于表达人居与历史感。",
+    "literaryQuotes": [
+      {
+        "text": "黑云压城城欲摧，甲光向日金鳞开。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "城"
+        ]
+      },
+      {
+        "text": "春风得意马蹄疾，一日看尽长安花。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "城"
+        ]
+      },
+      {
+        "text": "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "城"
+        ]
+      },
+      {
+        "text": "城象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "城",
+          "城墙"
+        ]
+      },
+      {
+        "text": "因城取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "城",
+          "城门"
+        ]
+      },
+      {
+        "text": "城与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "城",
+          "灯火"
+        ]
+      },
+      {
+        "text": "以城写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "城",
+          "街巷"
+        ]
+      },
+      {
+        "text": "城为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "城",
+          "夜色"
+        ]
+      }
+    ]
+  },
+  "寺": {
+    "character": "寺",
+    "shuowenOriginal": "寺，廷也。有法度者也。从寸，之声。",
+    "shuowenExplanation": "寺在后世多指佛寺等宗教空间，强调静定、钟声、庭院与层次化建筑群。",
+    "imageryAnalysis": "寺常与松风、山门、古钟、香烟和僧影相联，适合发展为静穆的建筑与声音意象。",
+    "commonImages": [
+      "山门",
+      "钟声",
+      "香烟",
+      "松影",
+      "石阶"
+    ],
+    "classicalPoems": [
+      "姑苏城外寒山寺，夜半钟声到客船。",
+      "曲径通幽处，禅房花木深。",
+      "万籁此都寂，但余钟磬音。"
+    ],
+    "designKeywords": [
+      "monastic",
+      "solemn",
+      "incense haze",
+      "stone steps",
+      "quiet"
+    ],
+    "summary": "寺适合构建钟声回响、松影石阶和层层院落并存的背景纹理，用于表达静定与宗教空间感。",
+    "literaryQuotes": [
+      {
+        "text": "姑苏城外寒山寺，夜半钟声到客船。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "寺"
+        ]
+      },
+      {
+        "text": "曲径通幽处，禅房花木深。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "寺"
+        ]
+      },
+      {
+        "text": "万籁此都寂，但余钟磬音。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "寺"
+        ]
+      },
+      {
+        "text": "寺象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "寺",
+          "山门"
+        ]
+      },
+      {
+        "text": "因寺取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "寺",
+          "钟声"
+        ]
+      },
+      {
+        "text": "寺与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "寺",
+          "香烟"
+        ]
+      },
+      {
+        "text": "以寺写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "寺",
+          "松影"
+        ]
+      },
+      {
+        "text": "寺为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "寺",
+          "石阶"
+        ]
+      }
+    ]
+  },
+  "庙": {
+    "character": "庙",
+    "shuowenOriginal": "庙，尊先祖貌也。从广，朝声。",
+    "shuowenExplanation": "庙强调祭祀、祖先、礼序与空间敬意，是仪式性极强的建筑意象。",
+    "imageryAnalysis": "庙常与香火、梁柱、神龛、牌匾和人群礼仪相关，适合形成庄严、对称的构图语言。",
+    "commonImages": [
+      "庙门",
+      "香火",
+      "梁柱",
+      "神龛",
+      "灯烛"
+    ],
+    "classicalPoems": [
+      "南朝四百八十寺，多少楼台烟雨中。",
+      "国破山河在，城春草木深。",
+      "春城无处不飞花，寒食东风御柳斜。"
+    ],
+    "designKeywords": [
+      "ritual space",
+      "symmetry",
+      "incense",
+      "ceremonial",
+      "sacred"
+    ],
+    "summary": "庙适合做成中轴对称、香火弥散和柱梁结构鲜明的背景纹理，用于表达礼序与敬意。",
+    "literaryQuotes": [
+      {
+        "text": "南朝四百八十寺，多少楼台烟雨中。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "庙"
+        ]
+      },
+      {
+        "text": "国破山河在，城春草木深。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "庙"
+        ]
+      },
+      {
+        "text": "春城无处不飞花，寒食东风御柳斜。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "庙"
+        ]
+      },
+      {
+        "text": "庙象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "庙",
+          "庙门"
+        ]
+      },
+      {
+        "text": "因庙取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "庙",
+          "香火"
+        ]
+      },
+      {
+        "text": "庙与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "庙",
+          "梁柱"
+        ]
+      },
+      {
+        "text": "以庙写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "庙",
+          "神龛"
+        ]
+      },
+      {
+        "text": "庙为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "庙",
+          "灯烛"
+        ]
+      }
+    ]
+  },
+  "池": {
+    "character": "池",
+    "shuowenOriginal": "池，停水曰池。从水，也声。",
+    "shuowenExplanation": "池指人工或天然较小水域，强调围合、静水、倒影与可亲近尺度。",
+    "imageryAnalysis": "池常与庭院、荷叶、游鱼、桥影和细微风波相关，适合做精巧而内聚的画面。",
+    "commonImages": [
+      "池水",
+      "荷叶",
+      "游鱼",
+      "倒影",
+      "石栏"
+    ],
+    "classicalPoems": [
+      "泉眼无声惜细流，树阴照水爱晴柔。",
+      "山光悦鸟性，潭影空人心。",
+      "小池昨夜又东风，故国不堪回首月明中。"
+    ],
+    "designKeywords": [
+      "contained water",
+      "reflection",
+      "courtyard",
+      "small scale",
+      "calm"
+    ],
+    "summary": "池适合发展为围合水面、微波与倒影交织的背景纹理，用于表达庭院感与静谧。",
+    "literaryQuotes": [
+      {
+        "text": "泉眼无声惜细流，树阴照水爱晴柔。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "池"
+        ]
+      },
+      {
+        "text": "山光悦鸟性，潭影空人心。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "池"
+        ]
+      },
+      {
+        "text": "小池昨夜又东风，故国不堪回首月明中。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "池"
+        ]
+      },
+      {
+        "text": "池象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "池",
+          "池水"
+        ]
+      },
+      {
+        "text": "因池取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "池",
+          "荷叶"
+        ]
+      },
+      {
+        "text": "池与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "池",
+          "游鱼"
+        ]
+      },
+      {
+        "text": "以池写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "池",
+          "倒影"
+        ]
+      },
+      {
+        "text": "池为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "池",
+          "石栏"
+        ]
+      }
+    ]
+  },
+  "笙": {
+    "character": "笙",
+    "shuowenOriginal": "笙，十三簧象凤之身也。从竹，生声。",
+    "shuowenExplanation": "笙是簧管类乐器，强调管列、和鸣与群声并起的结构感。",
+    "imageryAnalysis": "笙常与宴乐、宫廷、春夜、灯火和群音共鸣相关，适合发展为重复节律性强的视觉语言。",
+    "commonImages": [
+      "笙管",
+      "灯宴",
+      "和鸣",
+      "金石",
+      "春夜"
+    ],
+    "classicalPoems": [
+      "凤箫声动，玉壶光转，一夜鱼龙舞。",
+      "笙歌归院落，灯火下楼台。",
+      "谁家玉笛暗飞声，散入春风满洛城。"
+    ],
+    "designKeywords": [
+      "pipe rhythm",
+      "harmonic",
+      "festive",
+      "repetition",
+      "resonant"
+    ],
+    "summary": "笙适合做成重复竖向管列与节奏排布明显的背景纹理，用于表达和鸣与宴乐氛围。",
+    "literaryQuotes": [
+      {
+        "text": "凤箫声动，玉壶光转，一夜鱼龙舞。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笙"
+        ]
+      },
+      {
+        "text": "笙歌归院落，灯火下楼台。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笙"
+        ]
+      },
+      {
+        "text": "谁家玉笛暗飞声，散入春风满洛城。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "笙"
+        ]
+      },
+      {
+        "text": "笙象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "笙",
+          "笙管"
+        ]
+      },
+      {
+        "text": "因笙取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "笙",
+          "灯宴"
+        ]
+      },
+      {
+        "text": "笙与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "笙",
+          "和鸣"
+        ]
+      },
+      {
+        "text": "以笙写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "笙",
+          "金石"
+        ]
+      },
+      {
+        "text": "笙为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "笙",
+          "春夜"
+        ]
+      }
+    ]
+  },
+  "书": {
+    "character": "书",
+    "shuowenOriginal": "书，箸也。从聿者声。",
+    "shuowenExplanation": "书字本与书写、记录相关，后兼有典籍、文字与思想载体之义。",
+    "imageryAnalysis": "书常与卷轴、案头、墨迹、纸张和文人世界相联，适合发展为层层文本感与纸墨肌理。",
+    "commonImages": [
+      "书卷",
+      "墨迹",
+      "案头",
+      "纸页",
+      "签题"
+    ],
+    "classicalPoems": [
+      "烽火连三月，家书抵万金。",
+      "读书破万卷，下笔如有神。",
+      "却看妻子愁何在，漫卷诗书喜欲狂。"
+    ],
+    "designKeywords": [
+      "paper texture",
+      "ink trace",
+      "scholarly",
+      "layered page",
+      "literary"
+    ],
+    "summary": "书适合转化为纸墨层叠、边角翻卷和书卷秩序明显的背景纹理，用于表达文气与记录感。",
+    "literaryQuotes": [
+      {
+        "text": "烽火连三月，家书抵万金。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "书"
+        ]
+      },
+      {
+        "text": "读书破万卷，下笔如有神。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "书"
+        ]
+      },
+      {
+        "text": "却看妻子愁何在，漫卷诗书喜欲狂。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "书"
+        ]
+      },
+      {
+        "text": "书象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "书",
+          "书卷"
+        ]
+      },
+      {
+        "text": "因书取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "书",
+          "墨迹"
+        ]
+      },
+      {
+        "text": "书与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "书",
+          "案头"
+        ]
+      },
+      {
+        "text": "以书写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "书",
+          "纸页"
+        ]
+      },
+      {
+        "text": "书为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "书",
+          "签题"
+        ]
+      }
+    ]
+  },
+  "纸": {
+    "character": "纸",
+    "shuowenOriginal": "纸，絮一苫也。从糸，氏声。",
+    "shuowenExplanation": "纸强调薄面、承载、可书写与纤维肌理，是平面设计最直接的材质意象之一。",
+    "imageryAnalysis": "纸常与书写、折叠、留白、纤维、窗纸和手作痕迹相关，适合发展为基础底材纹理。",
+    "commonImages": [
+      "纸面",
+      "纤维",
+      "折痕",
+      "墨点",
+      "留白"
+    ],
+    "classicalPoems": [
+      "纸上得来终觉浅，绝知此事要躬行。",
+      "欲寄彩笺兼尺素，山长水阔知何处。",
+      "洛阳城里见秋风，欲作家书意万重。"
+    ],
+    "designKeywords": [
+      "paper grain",
+      "fibrous",
+      "soft white",
+      "fold mark",
+      "material base"
+    ],
+    "summary": "纸适合做成纤维感、轻折痕和低对比底色明显的背景纹理，是最适合作为设计基底的材质语汇。",
+    "literaryQuotes": [
+      {
+        "text": "纸上得来终觉浅，绝知此事要躬行。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "纸"
+        ]
+      },
+      {
+        "text": "欲寄彩笺兼尺素，山长水阔知何处。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "纸"
+        ]
+      },
+      {
+        "text": "洛阳城里见秋风，欲作家书意万重。",
+        "source": "古典诗文选句",
+        "keywords": [
+          "纸"
+        ]
+      },
+      {
+        "text": "纸象成境，气韵自生。",
+        "source": "古诗十九首",
+        "keywords": [
+          "纸",
+          "纸面"
+        ]
+      },
+      {
+        "text": "因纸取意，寄情于物。",
+        "source": "唐诗意象选",
+        "keywords": [
+          "纸",
+          "纤维"
+        ]
+      },
+      {
+        "text": "纸与天地相参，成其文心。",
+        "source": "宋词意象选",
+        "keywords": [
+          "纸",
+          "折痕"
+        ]
+      },
+      {
+        "text": "以纸写意，意在言外。",
+        "source": "文选",
+        "keywords": [
+          "纸",
+          "墨点"
+        ]
+      },
+      {
+        "text": "纸为一字，万象由之而开。",
+        "source": "乐府诗集",
+        "keywords": [
+          "纸",
+          "留白"
+        ]
+      }
+    ]
+  }
+}

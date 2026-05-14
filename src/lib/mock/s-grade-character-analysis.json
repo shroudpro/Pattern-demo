@@ -1,0 +1,1431 @@
+{
+  "山": {
+    "character": "山",
+    "subtitle": "高峻、静穆、归隐与精神高度",
+    "shuowenOriginal": "山，宣也。宣气散，生万物，有石而高。",
+    "shuowenExplanation": "《说文解字》将山解释为天地之气宣散、生发万物之处，强调其高起、有石、聚气的特征。",
+    "modernMeaning": "山指地面上由岩石、土壤构成的高大隆起，也常象征稳定、崇高、阻隔、归隐与精神高度。",
+    "imageryAnalysis": "山的意象具有多层结构。作为自然物，它代表高峻、厚重、稳定与空间纵深；作为人格象征，它常被用来表达坚毅、沉静、不可动摇的精神品质；作为审美对象，它与云、水、松、月共同构成中国山水画中的核心视觉秩序；作为文化符号，它连接隐逸传统、宗教修行、文人理想和家国疆域。",
+    "poems": [
+      {
+        "line": "会当凌绝顶，一览众山小。",
+        "author": "杜甫",
+        "title": "望岳",
+        "explanation": "写出登临高处后的胸襟与气势。"
+      },
+      {
+        "line": "空山新雨后，天气晚来秋。",
+        "author": "王维",
+        "title": "山居秋暝",
+        "explanation": "呈现山中清寂、雨后澄明的审美境界。"
+      },
+      {
+        "line": "相看两不厌，只有敬亭山。",
+        "author": "李白",
+        "title": "独坐敬亭山",
+        "explanation": "将山转化为可对望、可寄情的精神对象。"
+      }
+    ],
+    "visualMotifs": [
+      "层峦",
+      "云气",
+      "石脉",
+      "松树",
+      "远山",
+      "留白"
+    ],
+    "colorPalette": [
+      "墨黑",
+      "石青",
+      "云白",
+      "黛绿"
+    ],
+    "atmosphereTags": [
+      "高远",
+      "静穆",
+      "厚重",
+      "空灵"
+    ],
+    "forbiddenElements": [
+      "现代城市高楼",
+      "卡通山峰",
+      "英文大字"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "shuowen": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "layered mountains",
+      "mist",
+      "stone texture",
+      "pine",
+      "rice paper",
+      "no text"
+    ],
+    "summary": "山适合转译为层峦、石脉、云气与留白共同构成的文化解析图，重点呈现高远空间感和沉静精神性。",
+    "literaryQuotes": [
+      {
+        "text": "高山仰止，景行行止。",
+        "source": "诗经·小雅·车舝",
+        "keywords": [
+          "山",
+          "高山"
+        ]
+      },
+      {
+        "text": "会当凌绝顶，一览众山小。",
+        "source": "杜甫《望岳》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "空山新雨后，天气晚来秋。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "相看两不厌，只有敬亭山。",
+        "source": "李白《独坐敬亭山》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "采菊东篱下，悠然见南山。",
+        "source": "陶渊明《饮酒》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "千山鸟飞绝，万径人踪灭。",
+        "source": "柳宗元《江雪》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "不识庐山真面目，只缘身在此山中。",
+        "source": "苏轼《题西林壁》",
+        "keywords": [
+          "山"
+        ]
+      },
+      {
+        "text": "山重水复疑无路，柳暗花明又一村。",
+        "source": "陆游《游山西村》",
+        "keywords": [
+          "山"
+        ]
+      }
+    ]
+  },
+  "水": {
+    "character": "水",
+    "subtitle": "流动、滋养、包容与时间之势",
+    "shuowenOriginal": "水，准也。北方之行。象众水并流，中有微阳之气也。",
+    "shuowenExplanation": "《说文解字》以并流之形解释水，强调其顺势、汇聚、润泽和运行不息。",
+    "modernMeaning": "水是自然界流动的液体，也象征柔韧、包容、滋养、变化和时间的连续。",
+    "imageryAnalysis": "水既是生命来源，也是东方审美中最具变化性的意象。它可以表现江河奔流、湖面澄明、细雨润物与泉脉生发，也常被用来说明柔能胜刚、顺势而行的处世智慧。视觉转译应突出波纹、流线、倒影、留白和层层扩散的节奏。",
+    "poems": [
+      {
+        "line": "君不见黄河之水天上来，奔流到海不复回。",
+        "author": "李白",
+        "title": "将进酒",
+        "explanation": "以大水奔流表现时间与生命的不可逆。"
+      },
+      {
+        "line": "问君能有几多愁，恰似一江春水向东流。",
+        "author": "李煜",
+        "title": "虞美人",
+        "explanation": "将水的绵延流动转化为情绪的持续。"
+      }
+    ],
+    "visualMotifs": [
+      "江河",
+      "涟漪",
+      "水纹",
+      "倒影",
+      "舟影",
+      "泉脉"
+    ],
+    "colorPalette": [
+      "水青",
+      "月白",
+      "黛蓝",
+      "浅灰"
+    ],
+    "atmosphereTags": [
+      "流动",
+      "清润",
+      "包容",
+      "悠远"
+    ],
+    "forbiddenElements": [
+      "现代泳池",
+      "水龙头",
+      "卡通水滴"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "poems": "medium",
+      "modernMeaning": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "flowing water",
+      "ripples",
+      "reflection",
+      "mist",
+      "ink wash",
+      "no text"
+    ],
+    "summary": "水适合构建以流线、涟漪和倒影为核心的解析图，让文化内容与流动版式形成呼应。",
+    "literaryQuotes": [
+      {
+        "text": "所谓伊人，在水一方。",
+        "source": "诗经·秦风·蒹葭",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "君不见黄河之水天上来，奔流到海不复回。",
+        "source": "李白《将进酒》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "问君能有几多愁，恰似一江春水向东流。",
+        "source": "李煜《虞美人》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "日出江花红胜火，春来江水绿如蓝。",
+        "source": "白居易《忆江南》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "一道残阳铺水中，半江瑟瑟半江红。",
+        "source": "白居易《暮江吟》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "泉眼无声惜细流，树阴照水爱晴柔。",
+        "source": "杨万里《小池》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "桃花潭水深千尺，不及汪伦送我情。",
+        "source": "李白《赠汪伦》",
+        "keywords": [
+          "水"
+        ]
+      },
+      {
+        "text": "水光潋滟晴方好，山色空蒙雨亦奇。",
+        "source": "苏轼《饮湖上初晴后雨》",
+        "keywords": [
+          "水"
+        ]
+      }
+    ]
+  },
+  "月": {
+    "character": "月",
+    "subtitle": "清辉、思念、圆缺与时间节律",
+    "shuowenOriginal": "月，阙也。大阴之精。象形。",
+    "shuowenExplanation": "月字以弧形轮廓呈现月体盈亏，古义强调阴柔、周期和夜空秩序。",
+    "modernMeaning": "月指地球的天然卫星，也常象征团圆、思念、清辉、静夜和时间循环。",
+    "imageryAnalysis": "月在汉字文化中连接天体秩序与人间情感。它既是夜色中的光源，也承载故乡、亲友、团圆和孤独等情绪。视觉转译应突出弧线、圆轮、银辉、云影与夜色留白，避免把月做成单纯装饰符号。",
+    "poems": [
+      {
+        "line": "举头望明月，低头思故乡。",
+        "author": "李白",
+        "title": "静夜思",
+        "explanation": "以望月触发乡愁，是月意象最典型的情感表达。"
+      },
+      {
+        "line": "海上生明月，天涯共此时。",
+        "author": "张九龄",
+        "title": "望月怀远",
+        "explanation": "以同一轮明月连接远方之人。"
+      }
+    ],
+    "visualMotifs": [
+      "满月",
+      "弯月",
+      "月华",
+      "云影",
+      "松间",
+      "夜色"
+    ],
+    "colorPalette": [
+      "银白",
+      "玄青",
+      "雾蓝",
+      "淡金"
+    ],
+    "atmosphereTags": [
+      "清寂",
+      "思念",
+      "澄明",
+      "柔和"
+    ],
+    "forbiddenElements": [
+      "科幻星球",
+      "卡通月亮",
+      "英文星座"
+    ],
+    "layoutPriority": {
+      "poems": "high",
+      "imagery": "medium",
+      "shuowen": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "moonlight",
+      "silver glow",
+      "night sky",
+      "cloud veil",
+      "pine shadow",
+      "no text"
+    ],
+    "summary": "月适合生成清辉环绕、圆缺呼应的解析图，以诗词和情绪层为视觉重点。",
+    "literaryQuotes": [
+      {
+        "text": "举头望明月，低头思故乡。",
+        "source": "李白《静夜思》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "海上生明月，天涯共此时。",
+        "source": "张九龄《望月怀远》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "春江潮水连海平，海上明月共潮生。",
+        "source": "张若虚《春江花月夜》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "露从今夜白，月是故乡明。",
+        "source": "杜甫《月夜忆舍弟》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "月出惊山鸟，时鸣春涧中。",
+        "source": "王维《鸟鸣涧》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "人有悲欢离合，月有阴晴圆缺。",
+        "source": "苏轼《水调歌头》",
+        "keywords": [
+          "月"
+        ]
+      },
+      {
+        "text": "秦时明月汉时关，万里长征人未还。",
+        "source": "王昌龄《出塞》",
+        "keywords": [
+          "月"
+        ]
+      }
+    ]
+  },
+  "风": {
+    "character": "风",
+    "subtitle": "流动、气韵、消息与无形之力",
+    "shuowenOriginal": "风，八风也。东方曰明庶风，象形。",
+    "shuowenExplanation": "风表示气流运行及四时方位之气，古义中兼具自然变化和感知传播。",
+    "modernMeaning": "风是空气流动形成的自然现象，也引申为气度、风骨、风俗、消息和时代气息。",
+    "imageryAnalysis": "风不可见，却能通过云、水、树、衣袂和波痕显形。文化上它连接季节更替、情绪传递和人格风骨。视觉转译应通过方向性线条、飘带、云气和疏密节奏表现无形之力。",
+    "poems": [
+      {
+        "line": "春风又绿江南岸，明月何时照我还。",
+        "author": "王安石",
+        "title": "泊船瓜洲",
+        "explanation": "写春风带来生机，也牵出归乡之思。"
+      },
+      {
+        "line": "夜来风雨声，花落知多少。",
+        "author": "孟浩然",
+        "title": "春晓",
+        "explanation": "以风雨声表现季节和时间的细微变化。"
+      }
+    ],
+    "visualMotifs": [
+      "流线",
+      "云卷",
+      "衣袂",
+      "林梢",
+      "波痕",
+      "飘带"
+    ],
+    "colorPalette": [
+      "青灰",
+      "云白",
+      "浅绿",
+      "淡金"
+    ],
+    "atmosphereTags": [
+      "轻盈",
+      "流动",
+      "气韵",
+      "变化"
+    ],
+    "forbiddenElements": [
+      "电风扇",
+      "龙卷风灾害",
+      "速度赛车"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "modernMeaning": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "flowing lines",
+      "wind motion",
+      "cloud trails",
+      "soft fabric",
+      "no text"
+    ],
+    "summary": "风适合以方向性线条和云气节奏组织解析图，体现看不见但可感知的东方气韵。",
+    "literaryQuotes": [
+      {
+        "text": "春风又绿江南岸，明月何时照我还。",
+        "source": "王安石《泊船瓜洲》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "夜来风雨声，花落知多少。",
+        "source": "孟浩然《春晓》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "大风起兮云飞扬。",
+        "source": "刘邦《大风歌》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "八月秋高风怒号，卷我屋上三重茅。",
+        "source": "杜甫《茅屋为秋风所破歌》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "沾衣欲湿杏花雨，吹面不寒杨柳风。",
+        "source": "志南《绝句》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "随风潜入夜，润物细无声。",
+        "source": "杜甫《春夜喜雨》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "等闲识得东风面，万紫千红总是春。",
+        "source": "朱熹《春日》",
+        "keywords": [
+          "风"
+        ]
+      },
+      {
+        "text": "北风卷地白草折，胡天八月即飞雪。",
+        "source": "岑参《白雪歌送武判官归京》",
+        "keywords": [
+          "风"
+        ]
+      }
+    ]
+  },
+  "云": {
+    "character": "云",
+    "subtitle": "升腾、聚散、祥瑞与空灵之境",
+    "shuowenOriginal": "云，山川气也。从雨，云象回转形。",
+    "shuowenExplanation": "云被理解为山川之气升腾回旋，强调聚散、流动和天地之间的气化过程。",
+    "modernMeaning": "云是水汽凝结于空中的可见形态，也象征变化、自由、祥瑞、远方和空灵。",
+    "imageryAnalysis": "云在传统视觉中既是自然景象，也是连接山水、仙境、宫阙和祥瑞纹样的核心母题。它能柔化空间边界，制造远近层次，也能通过回卷形态形成装饰秩序。解析图应突出云气的层叠、回旋和虚实变化。",
+    "poems": [
+      {
+        "line": "行到水穷处，坐看云起时。",
+        "author": "王维",
+        "title": "终南别业",
+        "explanation": "以云起表现闲适、超然和空间转换。"
+      },
+      {
+        "line": "白云回望合，青霭入看无。",
+        "author": "王维",
+        "title": "终南山",
+        "explanation": "写云气随视角变化而聚散。"
+      }
+    ],
+    "visualMotifs": [
+      "祥云",
+      "流云",
+      "云海",
+      "霞气",
+      "远山",
+      "卷纹"
+    ],
+    "colorPalette": [
+      "云白",
+      "深青",
+      "淡金",
+      "雾灰"
+    ],
+    "atmosphereTags": [
+      "空灵",
+      "升腾",
+      "祥瑞",
+      "缥缈"
+    ],
+    "forbiddenElements": [
+      "卡通云朵",
+      "天气图标",
+      "现代服务器云图标"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "shuowen": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "auspicious clouds",
+      "mist layers",
+      "swirling cloud",
+      "ink atmosphere",
+      "no text"
+    ],
+    "summary": "云适合生成层层聚散、虚实相生的解析图背景，用空间雾化承托文化模块。",
+    "literaryQuotes": [
+      {
+        "text": "行到水穷处，坐看云起时。",
+        "source": "王维《终南别业》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "白云回望合，青霭入看无。",
+        "source": "王维《终南山》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "黄鹤一去不复返，白云千载空悠悠。",
+        "source": "崔颢《黄鹤楼》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "黑云压城城欲摧，甲光向日金鳞开。",
+        "source": "李贺《雁门太守行》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "云想衣裳花想容，春风拂槛露华浓。",
+        "source": "李白《清平调》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "野径云俱黑，江船火独明。",
+        "source": "杜甫《春夜喜雨》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "众鸟高飞尽，孤云独去闲。",
+        "source": "李白《独坐敬亭山》",
+        "keywords": [
+          "云"
+        ]
+      },
+      {
+        "text": "只在此山中，云深不知处。",
+        "source": "贾岛《寻隐者不遇》",
+        "keywords": [
+          "云"
+        ]
+      }
+    ]
+  },
+  "竹": {
+    "character": "竹",
+    "subtitle": "清节、虚心、挺拔与文人气质",
+    "shuowenOriginal": "竹，冬生艸也。象形，下垂者，箁箬也。",
+    "shuowenExplanation": "竹字取竿节、叶片和下垂形态，体现挺拔生长与节理结构。",
+    "modernMeaning": "竹是常绿禾本科植物，也象征节操、虚心、韧性、清雅和文人理想。",
+    "imageryAnalysis": "竹以节理成形，以中空见性，常被赋予君子人格。它能表现竖向秩序、疏影横斜、清风穿林和简淡生活。解析图中应让竹节、竹叶、墨色竖线和留白构成清朗结构。",
+    "poems": [
+      {
+        "line": "咬定青山不放松，立根原在破岩中。",
+        "author": "郑燮",
+        "title": "竹石",
+        "explanation": "表现竹的坚韧和守定。"
+      },
+      {
+        "line": "独坐幽篁里，弹琴复长啸。",
+        "author": "王维",
+        "title": "竹里馆",
+        "explanation": "写竹林中的清幽与文人自处。"
+      }
+    ],
+    "visualMotifs": [
+      "竹节",
+      "竹叶",
+      "疏影",
+      "清风",
+      "石隙",
+      "墨线"
+    ],
+    "colorPalette": [
+      "竹青",
+      "墨黑",
+      "纸白",
+      "浅灰"
+    ],
+    "atmosphereTags": [
+      "清雅",
+      "挺拔",
+      "克制",
+      "坚韧"
+    ],
+    "forbiddenElements": [
+      "熊猫卡通",
+      "现代竹制家具广告",
+      "热带棕榈"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "poems": "medium",
+      "modernMeaning": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "bamboo joints",
+      "slender leaves",
+      "ink lines",
+      "scholarly",
+      "rice paper",
+      "no text"
+    ],
+    "summary": "竹适合生成竖向节律鲜明、留白清朗的解析图，突出君子人格和文人气质。",
+    "literaryQuotes": [
+      {
+        "text": "咬定青山不放松，立根原在破岩中。",
+        "source": "郑燮《竹石》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "独坐幽篁里，弹琴复长啸。",
+        "source": "王维《竹里馆》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "竹外桃花三两枝，春江水暖鸭先知。",
+        "source": "苏轼《惠崇春江晚景》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "新竹高于旧竹枝，全凭老干为扶持。",
+        "source": "郑燮《新竹》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "衙斋卧听萧萧竹，疑是民间疾苦声。",
+        "source": "郑燮《潍县署中画竹呈年伯包大丞括》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "苍苍竹林寺，杳杳钟声晚。",
+        "source": "刘长卿《送灵澈上人》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "竹喧归浣女，莲动下渔舟。",
+        "source": "王维《山居秋暝》",
+        "keywords": [
+          "竹"
+        ]
+      },
+      {
+        "text": "过江千尺浪，入竹万竿斜。",
+        "source": "李峤《风》",
+        "keywords": [
+          "竹"
+        ]
+      }
+    ]
+  },
+  "茶": {
+    "character": "茶",
+    "subtitle": "清苦、回甘、器物与日常雅趣",
+    "shuowenOriginal": "茶，苦荼也。从艸，余声。",
+    "shuowenExplanation": "茶源于荼类植物之称，后专指茶树与茶饮，包含植物、器物和饮用礼序。",
+    "modernMeaning": "茶是以茶叶冲泡而成的饮品，也象征清雅、待客、日常仪式和文人生活。",
+    "imageryAnalysis": "茶的文化意象不只在植物本身，也在茶盏、蒸汽、案几、山居和人际往来之中。它具有清苦回甘的味觉结构，也有慢、静、雅的时间感。解析图应突出茶汤圆形、叶脉、蒸汽和器物留白。",
+    "poems": [
+      {
+        "line": "寒夜客来茶当酒，竹炉汤沸火初红。",
+        "author": "杜耒",
+        "title": "寒夜",
+        "explanation": "写茶在日常交往中的温度与雅趣。"
+      },
+      {
+        "line": "矮纸斜行闲作草，晴窗细乳戏分茶。",
+        "author": "陆游",
+        "title": "临安春雨初霁",
+        "explanation": "把茶事和书写并置，呈现文人日常。"
+      }
+    ],
+    "visualMotifs": [
+      "茶盏",
+      "茶汤",
+      "蒸汽",
+      "叶片",
+      "竹炉",
+      "案几"
+    ],
+    "colorPalette": [
+      "茶褐",
+      "米白",
+      "竹青",
+      "暖灰"
+    ],
+    "atmosphereTags": [
+      "清雅",
+      "温润",
+      "日常",
+      "静慢"
+    ],
+    "forbiddenElements": [
+      "奶茶杯",
+      "现代咖啡馆招牌",
+      "商业包装大字"
+    ],
+    "layoutPriority": {
+      "modernMeaning": "high",
+      "imagery": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "tea cup",
+      "steam",
+      "tea leaves",
+      "warm neutral",
+      "scholarly desk",
+      "no text"
+    ],
+    "summary": "茶适合生成器物与蒸汽层次结合的解析图，强调清雅日常和文化仪式感。",
+    "literaryQuotes": [
+      {
+        "text": "寒夜客来茶当酒，竹炉汤沸火初红。",
+        "source": "杜耒《寒夜》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "矮纸斜行闲作草，晴窗细乳戏分茶。",
+        "source": "陆游《临安春雨初霁》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "酒困路长惟欲睡，日高人渴漫思茶。",
+        "source": "苏轼《浣溪沙》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "被酒莫惊春睡重，赌书消得泼茶香。",
+        "source": "纳兰性德《浣溪沙》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "休对故人思故国，且将新火试新茶。",
+        "source": "苏轼《望江南·超然台作》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "无由持一碗，寄与爱茶人。",
+        "source": "白居易《山泉煎茶有怀》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "坐酌泠泠水，看煎瑟瑟尘。",
+        "source": "白居易《山泉煎茶有怀》",
+        "keywords": [
+          "茶"
+        ]
+      },
+      {
+        "text": "琴里知闻唯渌水，茶中故旧是蒙山。",
+        "source": "白居易《琴茶》",
+        "keywords": [
+          "茶"
+        ]
+      }
+    ]
+  },
+  "龙": {
+    "character": "龙",
+    "subtitle": "变化、威仪、云雨与文明想象",
+    "shuowenOriginal": "龙，鳞虫之长。能幽能明，能细能巨，能短能长。",
+    "shuowenExplanation": "龙被视为鳞虫之长，具有变化、升降、兴云布雨和统摄力量的神异属性。",
+    "modernMeaning": "龙是中华文化中极具代表性的神话形象，象征力量、祥瑞、权威、变化和民族文化记忆。",
+    "imageryAnalysis": "龙不是单一动物形象，而是由角、鳞、爪、身、云水等多重母题组合成的文化符号。它连接礼制、神话、风雨和王权，也能表现动态盘旋与强烈视觉张力。解析图应控制威仪与精致度，避免廉价国潮化。",
+    "poems": [
+      {
+        "line": "斯须九重真龙出，一洗万古凡马空。",
+        "author": "杜甫",
+        "title": "丹青引赠曹将军霸",
+        "explanation": "以真龙比喻非凡气象与精神高度。"
+      },
+      {
+        "line": "龙衔宝盖承朝日，凤吐流苏带晚霞。",
+        "author": "卢照邻",
+        "title": "长安古意",
+        "explanation": "展现龙凤纹饰在盛大场景中的华美秩序。"
+      }
+    ],
+    "visualMotifs": [
+      "龙鳞",
+      "龙角",
+      "云气",
+      "水纹",
+      "盘旋",
+      "雷光"
+    ],
+    "colorPalette": [
+      "玄黑",
+      "暗金",
+      "朱砂",
+      "云白"
+    ],
+    "atmosphereTags": [
+      "威仪",
+      "腾跃",
+      "祥瑞",
+      "力量"
+    ],
+    "forbiddenElements": [
+      "西方喷火龙",
+      "卡通龙",
+      "游戏怪物"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "shuowen": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "chinese dragon motifs",
+      "scales",
+      "cloud and water",
+      "dark gold",
+      "ceremonial",
+      "no text"
+    ],
+    "summary": "龙适合生成具有云水盘旋和鳞纹秩序的解析图，突出变化、威仪与文化象征。",
+    "literaryQuotes": [
+      {
+        "text": "水不在深，有龙则灵。",
+        "source": "刘禹锡《陋室铭》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "积水成渊，蛟龙生焉。",
+        "source": "荀子《劝学》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "云龙风虎尽交回，太白入月敌可摧。",
+        "source": "李白《司马将军歌》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "斯须九重真龙出，一洗万古凡马空。",
+        "source": "杜甫《丹青引赠曹将军霸》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "龙衔宝盖承朝日，凤吐流苏带晚霞。",
+        "source": "卢照邻《长安古意》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "还似旧时游上苑，车如流水马如龙。",
+        "source": "李煜《望江南》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "黑潭水深黑如墨，传有神龙人不识。",
+        "source": "白居易《黑潭龙》",
+        "keywords": [
+          "龙"
+        ]
+      },
+      {
+        "text": "山不在高，有仙则名。水不在深，有龙则灵。",
+        "source": "刘禹锡《陋室铭》",
+        "keywords": [
+          "龙"
+        ]
+      }
+    ]
+  },
+  "礼": {
+    "character": "礼",
+    "subtitle": "秩序、敬意、仪式与人伦尺度",
+    "shuowenOriginal": "礼，履也。所以事神致福也。从示，从豊。",
+    "shuowenExplanation": "礼与祭祀、器物和行为规范相关，强调敬神、敬人和社会秩序的建立。",
+    "modernMeaning": "礼指礼节、礼仪、礼貌和制度规范，也象征尊重、分寸、秩序和文化教养。",
+    "imageryAnalysis": "礼的文化意象并非装饰性的喜庆，而是人与人、人与天地之间的秩序安排。它通过器物、跪拜、钟鼎、玉帛、宫室中轴和仪式流程显形。解析图应突出对称、轴线、器物和庄重色彩。",
+    "poems": [
+      {
+        "line": "不学礼，无以立。",
+        "author": "孔子弟子及再传弟子",
+        "title": "论语",
+        "explanation": "说明礼是人成立于社会关系中的基础。"
+      },
+      {
+        "line": "礼乐刑政，其极一也。",
+        "author": "戴圣编",
+        "title": "礼记",
+        "explanation": "体现礼与制度、乐教和秩序的关联。"
+      }
+    ],
+    "visualMotifs": [
+      "礼器",
+      "中轴",
+      "玉帛",
+      "钟鼎",
+      "台阶",
+      "拱门"
+    ],
+    "colorPalette": [
+      "玄黑",
+      "朱砂",
+      "暗金",
+      "玉白"
+    ],
+    "atmosphereTags": [
+      "庄重",
+      "秩序",
+      "敬意",
+      "典雅"
+    ],
+    "forbiddenElements": [
+      "婚庆俗套",
+      "卡通鞠躬",
+      "现代礼品盒"
+    ],
+    "layoutPriority": {
+      "modernMeaning": "high",
+      "shuowen": "high",
+      "imagery": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "ritual vessels",
+      "symmetry",
+      "bronze",
+      "ceremonial axis",
+      "no text"
+    ],
+    "summary": "礼适合生成以中轴、礼器和对称秩序为核心的解析图，突出文化制度和敬意。",
+    "literaryQuotes": [
+      {
+        "text": "人而不仁，如礼何。",
+        "source": "论语·八佾",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "克己复礼为仁。",
+        "source": "论语·颜渊",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "不学礼，无以立。",
+        "source": "论语·季氏",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "礼之用，和为贵。",
+        "source": "论语·学而",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "非礼勿视，非礼勿听，非礼勿言，非礼勿动。",
+        "source": "论语·颜渊",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "礼者，人道之极也。",
+        "source": "荀子·礼论",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "礼义廉耻，国之四维。",
+        "source": "管子·牧民",
+        "keywords": [
+          "礼"
+        ]
+      },
+      {
+        "text": "道之以德，齐之以礼。",
+        "source": "论语·为政",
+        "keywords": [
+          "礼"
+        ]
+      }
+    ]
+  },
+  "和": {
+    "character": "和",
+    "subtitle": "协调、共生、中和与关系之美",
+    "shuowenOriginal": "和，相应也。从口，禾声。",
+    "shuowenExplanation": "和强调声音、关系与状态之间的相应协调，既有口声之和，也有万物相处之和。",
+    "modernMeaning": "和表示和谐、温和、调和、和平与共同相处，是东方文化中重要的关系价值。",
+    "imageryAnalysis": "和不是没有差异，而是在差异中形成适当关系。它可通过音律、谷物、圆形、桥梁、水波和围合空间表现共生秩序。解析图应避免空泛口号，重点展示多元素之间的均衡关系。",
+    "poems": [
+      {
+        "line": "礼之用，和为贵。",
+        "author": "孔子弟子及再传弟子",
+        "title": "论语",
+        "explanation": "指出礼的实践以达到和谐为贵。"
+      },
+      {
+        "line": "中和位育，万物并育而不相害。",
+        "author": "子思及后学",
+        "title": "中庸",
+        "explanation": "呈现中和状态下万物共生的文化理想。"
+      }
+    ],
+    "visualMotifs": [
+      "圆环",
+      "水波",
+      "禾穗",
+      "桥梁",
+      "合奏",
+      "围合"
+    ],
+    "colorPalette": [
+      "米白",
+      "黛绿",
+      "暖金",
+      "浅青"
+    ],
+    "atmosphereTags": [
+      "协调",
+      "温润",
+      "共生",
+      "平衡"
+    ],
+    "forbiddenElements": [
+      "和平鸽图标",
+      "商业握手",
+      "口号横幅"
+    ],
+    "layoutPriority": {
+      "modernMeaning": "high",
+      "imagery": "high",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "harmony",
+      "balanced circles",
+      "grain motif",
+      "gentle ripples",
+      "no text"
+    ],
+    "summary": "和适合生成结构均衡、节点相连的解析图，表现差异共处和东方关系美学。",
+    "literaryQuotes": [
+      {
+        "text": "礼之用，和为贵。",
+        "source": "论语·学而",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "君子和而不同，小人同而不和。",
+        "source": "论语·子路",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "和也者，天下之达道也。",
+        "source": "中庸",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "致中和，天地位焉，万物育焉。",
+        "source": "中庸",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "天时不如地利，地利不如人和。",
+        "source": "孟子·公孙丑下",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "和气生财，乖气致戾。",
+        "source": "增广贤文",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "二人同心，其利断金；同心之言，其臭如兰。",
+        "source": "周易·系辞上",
+        "keywords": [
+          "和"
+        ]
+      },
+      {
+        "text": "万物各得其和以生。",
+        "source": "荀子·天论",
+        "keywords": [
+          "和"
+        ]
+      }
+    ]
+  },
+  "梦": {
+    "character": "梦",
+    "subtitle": "想象、夜境、愿景与虚实之间",
+    "shuowenOriginal": "梦，寐而有觉也。从夕，瞢省声。",
+    "shuowenExplanation": "梦与夜晚、睡眠和朦胧感知相关，强调人在寐中所见所感。",
+    "modernMeaning": "梦指睡眠中的意象，也引申为理想、愿景、想象和未竟之事。",
+    "imageryAnalysis": "梦处在真实与虚构之间，常表现夜色、月影、帘幕、花影和记忆碎片。文化上它连接人生无常、愿望投射和诗性想象。解析图应突出朦胧、重叠、半透明和时间漂移感。",
+    "poems": [
+      {
+        "line": "夜来幽梦忽还乡。",
+        "author": "苏轼",
+        "title": "江城子·乙卯正月二十日夜记梦",
+        "explanation": "以梦连接生死、思念和故乡。"
+      },
+      {
+        "line": "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+        "author": "李商隐",
+        "title": "锦瑟",
+        "explanation": "以梦蝶典故表现虚实难辨和情感迷离。"
+      }
+    ],
+    "visualMotifs": [
+      "月影",
+      "帘幕",
+      "花影",
+      "蝴蝶",
+      "雾气",
+      "星点"
+    ],
+    "colorPalette": [
+      "靛蓝",
+      "月白",
+      "淡紫",
+      "雾灰"
+    ],
+    "atmosphereTags": [
+      "朦胧",
+      "想象",
+      "幽微",
+      "虚实"
+    ],
+    "forbiddenElements": [
+      "卡通睡眠图标",
+      "现代闹钟",
+      "糖果梦幻风"
+    ],
+    "layoutPriority": {
+      "poems": "high",
+      "imagery": "high",
+      "modernMeaning": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "dreamlike mist",
+      "moon shadow",
+      "veil",
+      "butterfly silhouette",
+      "no text"
+    ],
+    "summary": "梦适合生成半透明叠影与夜色空间构成的解析图，表现虚实之间的诗性想象。",
+    "literaryQuotes": [
+      {
+        "text": "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+        "source": "李商隐《锦瑟》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "夜来幽梦忽还乡，小轩窗，正梳妆。",
+        "source": "苏轼《江城子》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "醉后不知天在水，满船清梦压星河。",
+        "source": "唐温如《题龙阳县青草湖》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "梦入神山教神妪，老鱼跳波瘦蛟舞。",
+        "source": "李贺《李凭箜篌引》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "十年一觉扬州梦，赢得青楼薄幸名。",
+        "source": "杜牧《遣怀》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "人生如梦，一尊还酹江月。",
+        "source": "苏轼《念奴娇·赤壁怀古》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "梦里不知身是客，一晌贪欢。",
+        "source": "李煜《浪淘沙令》",
+        "keywords": [
+          "梦"
+        ]
+      },
+      {
+        "text": "夜阑卧听风吹雨，铁马冰河入梦来。",
+        "source": "陆游《十一月四日风雨大作》",
+        "keywords": [
+          "梦"
+        ]
+      }
+    ]
+  },
+  "光": {
+    "character": "光",
+    "subtitle": "照见、启明、希望与精神亮度",
+    "shuowenOriginal": "光，明也。从火在人上，光明意也。",
+    "shuowenExplanation": "光与火、明亮和照见相关，强调由暗转明、由隐而显的视觉和精神意义。",
+    "modernMeaning": "光是能引起视觉的电磁辐射，也象征希望、启发、荣耀、照见和生命能量。",
+    "imageryAnalysis": "光既是自然现象，也是价值隐喻。它可以表现日轮、灯火、晨曦、月辉和金线，也能引申为认知、启蒙和精神方向。解析图应控制明暗对比，让光成为组织信息层级的力量。",
+    "poems": [
+      {
+        "line": "日出江花红胜火，春来江水绿如蓝。",
+        "author": "白居易",
+        "title": "忆江南",
+        "explanation": "以晨光和色彩表现江南生机。"
+      },
+      {
+        "line": "一道残阳铺水中，半江瑟瑟半江红。",
+        "author": "白居易",
+        "title": "暮江吟",
+        "explanation": "写夕光铺展于水面的层次和色彩。"
+      }
+    ],
+    "visualMotifs": [
+      "日轮",
+      "金线",
+      "晨曦",
+      "灯火",
+      "水面反光",
+      "光束"
+    ],
+    "colorPalette": [
+      "暗金",
+      "朱砂",
+      "米白",
+      "深青"
+    ],
+    "atmosphereTags": [
+      "明亮",
+      "启发",
+      "希望",
+      "温暖"
+    ],
+    "forbiddenElements": [
+      "霓虹灯牌",
+      "科幻激光",
+      "舞台聚光灯"
+    ],
+    "layoutPriority": {
+      "imagery": "high",
+      "modernMeaning": "medium",
+      "poems": "medium"
+    },
+    "backgroundPromptKeywords": [
+      "golden light",
+      "sun disk",
+      "soft beams",
+      "water reflection",
+      "no text"
+    ],
+    "summary": "光适合生成以明暗层次和金线引导信息的解析图，突出照见、启明和希望感。",
+    "literaryQuotes": [
+      {
+        "text": "床前明月光，疑是地上霜。",
+        "source": "李白《静夜思》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "山光悦鸟性，潭影空人心。",
+        "source": "常建《题破山寺后禅院》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "湖光秋月两相和，潭面无风镜未磨。",
+        "source": "刘禹锡《望洞庭》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "日光斜照集灵台，红树花迎晓露开。",
+        "source": "张祜《集灵台》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "光阴者，百代之过客也。",
+        "source": "李白《春夜宴从弟桃花园序》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "浮光跃金，静影沉璧。",
+        "source": "范仲淹《岳阳楼记》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "东边日出西边雨，道是无晴却有晴。",
+        "source": "刘禹锡《竹枝词》",
+        "keywords": [
+          "光"
+        ]
+      },
+      {
+        "text": "返景入深林，复照青苔上。",
+        "source": "王维《鹿柴》",
+        "keywords": [
+          "光"
+        ]
+      }
+    ]
+  }
+}

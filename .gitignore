@@ -1,0 +1,12 @@
+.next
+node_modules
+out
+coverage
+dist
+*.log
+.env
+# Local Netlify folder
+.netlify
+.codex
+.agents/
+.claude/

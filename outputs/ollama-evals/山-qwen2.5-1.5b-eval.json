@@ -1,0 +1,156 @@
+{
+  "character": "山",
+  "model": "qwen2.5:1.5b",
+  "baseUrl": "http://127.0.0.1:11434",
+  "timestamp": "2026-04-20T11:40:04.172758+00:00",
+  "prompt": "你是“纹生万象”项目第一阶段汉字文化分析模块。\n请针对单字“山”输出一个严格合法的 JSON 对象。\n不要输出 Markdown，不要输出代码块，不要输出解释，不要输出前后缀文字。\n输出语言为简体中文，designKeywords 可中英混合，但整体内容必须适合产品展示。\n要求：\n1. commonImages、classicalPoems、designKeywords 必须是 JSON 数组。\n2. classicalPoems 至少 2 条。\n3. designKeywords 至少 3 条。\n4. summary 必须明确体现面向设计转译、纹理背景或视觉应用的结论。\n5. 不得出现示例、占位、待补充、TODO 等占位词。\n请严格使用以下字段结构：\n{\"character\": \"山\", \"shuowenOriginal\": \"string\", \"shuowenExplanation\": \"string\", \"imageryAnalysis\": \"string\", \"commonImages\": [\"string\", \"string\", \"string\"], \"classicalPoems\": [\"string\", \"string\"], \"designKeywords\": [\"string\", \"string\", \"string\"], \"summary\": \"string\"}",
+  "rawResponse": "```json\n{\n  \"character\": \"山\",\n  \"shuowenOriginal\": \"山\",\n  \"shuowenExplanation\": \"汉字，形声字，从山、从土，本义为山之大者。\",\n  \"imageryAnalysis\": \"纹理背景：山脉的起伏形态，视觉应用：建筑立面设计中的山体元素。\",\n  \"commonImages\": [\"山脉景观\", \"山地地形图\", \"山峰轮廓\"],\n  \"classicalPoems\": [\"山高水长\", \"山河壮丽\"],\n  \"designKeywords\": [\"山之大者\", \"山脉起伏\", \"山地风光\"],\n  \"summary\": \"汉字‘山’具有丰富的纹理背景和视觉应用，不仅代表自然景观中的山体形态，还常用于建筑设计中表达宏伟与壮丽。\"\n}\n```",
+  "parsedResponse": {
+    "character": "山",
+    "shuowenOriginal": "山",
+    "shuowenExplanation": "汉字，形声字，从山、从土，本义为山之大者。",
+    "imageryAnalysis": "纹理背景：山脉的起伏形态，视觉应用：建筑立面设计中的山体元素。",
+    "commonImages": [
+      "山脉景观",
+      "山地地形图",
+      "山峰轮廓"
+    ],
+    "classicalPoems": [
+      "山高水长",
+      "山河壮丽"
+    ],
+    "designKeywords": [
+      "山之大者",
+      "山脉起伏",
+      "山地风光"
+    ],
+    "summary": "汉字‘山’具有丰富的纹理背景和视觉应用，不仅代表自然景观中的山体形态，还常用于建筑设计中表达宏伟与壮丽。"
+  },
+  "baseline": {
+    "character": "山",
+    "shuowenOriginal": "山，宣也。宣气散生万物，有石而高，象形。",
+    "shuowenExplanation": "山字以峰峦起伏的轮廓成形，强调高起、稳固、可依凭的自然形态，常被视为地势、骨架与秩序的象征。",
+    "imageryAnalysis": "在传统文化里，山既代表高峻与沉稳，也代表修行、隐逸、守望与时间沉积。它既是自然地理对象，也是人格与精神气度的外化形象。",
+    "commonImages": [
+      "峰峦",
+      "山石",
+      "层云",
+      "松林",
+      "古寺"
+    ],
+    "classicalPoems": [
+      "会当凌绝顶，一览众山小。",
+      "空山新雨后，天气晚来秋。",
+      "千山鸟飞绝，万径人踪灭。"
+    ],
+    "designKeywords": [
+      "layered",
+      "stone texture",
+      "ridge contour",
+      "majestic",
+      "calm"
+    ],
+    "summary": "山适合转化为具有层峦、石理、留白和纵深感的纹理背景，适合强调厚重、秩序与静观气质。"
+  },
+  "checks": {
+    "json_parseable": {
+      "passed": true,
+      "detail": "模型输出可解析为 JSON。"
+    },
+    "required_fields_complete": {
+      "passed": true,
+      "detail": "缺失字段：无"
+    },
+    "field_types_valid": {
+      "passed": true,
+      "detail": "文本字段为字符串，列表字段为数组。"
+    },
+    "character_match": {
+      "passed": true,
+      "detail": "模型字符='山'"
+    },
+    "shuowenOriginal_min_length": {
+      "passed": false,
+      "detail": "模型长度=1，阈值=8"
+    },
+    "shuowenExplanation_min_length": {
+      "passed": false,
+      "detail": "模型长度=21，阈值=30"
+    },
+    "imageryAnalysis_min_length": {
+      "passed": false,
+      "detail": "模型长度=31，阈值=40"
+    },
+    "summary_min_length": {
+      "passed": true,
+      "detail": "模型长度=52，阈值=30"
+    },
+    "commonImages_count": {
+      "passed": true,
+      "detail": "模型数量=3，阈值=3"
+    },
+    "classicalPoems_count": {
+      "passed": true,
+      "detail": "模型数量=2，阈值=2"
+    },
+    "designKeywords_count": {
+      "passed": true,
+      "detail": "模型数量=3，阈值=3"
+    },
+    "no_placeholder_language": {
+      "passed": true,
+      "detail": "检查是否包含示例、占位、待补充、TODO。"
+    },
+    "imagery_mentions_mountain_semantics": {
+      "passed": true,
+      "detail": "检查 imageryAnalysis 是否命中山相关语义词。"
+    },
+    "summary_mentions_design_translation": {
+      "passed": true,
+      "detail": "检查 summary 是否提到设计、纹理、背景、视觉或转化。"
+    },
+    "poems_look_like_poems": {
+      "passed": false,
+      "detail": "检查古诗词数组项是否为非空中文句子。"
+    }
+  },
+  "metrics": {
+    "shuowenOriginal": {
+      "baselineLength": 20,
+      "modelLength": 1,
+      "baselineLengthRatio": 0.05
+    },
+    "shuowenExplanation": {
+      "baselineLength": 46,
+      "modelLength": 21,
+      "baselineLengthRatio": 0.457
+    },
+    "imageryAnalysis": {
+      "baselineLength": 59,
+      "modelLength": 31,
+      "baselineLengthRatio": 0.525
+    },
+    "summary": {
+      "baselineLength": 41,
+      "modelLength": 52,
+      "baselineLengthRatio": 1.268
+    },
+    "commonImages": {
+      "baselineCount": 5,
+      "modelCount": 3,
+      "baselineCountRatio": 0.6
+    },
+    "classicalPoems": {
+      "baselineCount": 3,
+      "modelCount": 2,
+      "baselineCountRatio": 0.667
+    },
+    "designKeywords": {
+      "baselineCount": 5,
+      "modelCount": 3,
+      "baselineCountRatio": 0.6
+    }
+  },
+  "verdict": "fail",
+  "summary": "模型输出未满足第一阶段要求，关键失败项：shuowenOriginal_min_length, shuowenExplanation_min_length, imageryAnalysis_min_length, poems_look_like_poems。"
+}

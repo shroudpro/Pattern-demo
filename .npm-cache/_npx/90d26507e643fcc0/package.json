@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "netlify": "^26.0.0"
+  },
+  "_npx": {
+    "packages": [
+      "netlify"
+    ]
+  }
+}
