@@ -7,10 +7,11 @@ import { RadialLoading } from "@/components/motion/RadialLoading";
 import { TextureButton } from "@/components/shared/TextureButton";
 import { DESIGN_ASSETS, shouldShowRadialLoading } from "@/lib/design/content";
 import { getGenerationStatusLabel } from "@/lib/formatters/display";
-import type { DemoGenerationStatus, StaticDemoCharacter } from "@/lib/demo/static-demo-data";
+import type { DemoGenerationStatus, DemoSlug, StaticDemoCharacter } from "@/lib/demo/static-demo-data";
 
 interface GenerateWorkbenchProps {
   demo: StaticDemoCharacter;
+  slug: DemoSlug;
 }
 
 const GENERATION_STEPS = [
@@ -27,7 +28,7 @@ const DEMO_TIMELINE = [
   { delay: 4000, status: "succeeded", stepIndex: 3 },
 ] as const;
 
-export function GenerateWorkbench({ demo }: GenerateWorkbenchProps) {
+export function GenerateWorkbench({ demo, slug }: GenerateWorkbenchProps) {
   const timersRef = useRef<number[]>([]);
   const [status, setStatus] = useState<DemoGenerationStatus>("idle");
   const [activeStepIndex, setActiveStepIndex] = useState<number | null>(null);
@@ -58,7 +59,7 @@ export function GenerateWorkbench({ demo }: GenerateWorkbenchProps) {
   }
 
   const showRadialLoading = shouldShowRadialLoading(status, false);
-  const nextEditorLink = hasGenerated ? `/editor/${demo.character}` : null;
+  const nextEditorLink = hasGenerated ? `/editor/${slug}` : null;
 
   return (
     <div className="grid gap-6 lg:grid-cols-[minmax(0,0.8fr)_minmax(0,1.2fr)]">

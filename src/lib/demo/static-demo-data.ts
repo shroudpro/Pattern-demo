@@ -2,6 +2,31 @@ import type { CharacterAnalysis } from "@/types/analysis";
 
 export type DemoCharacterKey = "山" | "月";
 
+/** 用于路由路径的英文 slug，避免中文 URL 编码兼容问题 */
+export type DemoSlug = "shan" | "yue";
+
+export const DEMO_SLUG_TO_CHARACTER: Record<DemoSlug, DemoCharacterKey> = {
+  shan: "山",
+  yue: "月",
+};
+
+export const DEMO_CHARACTER_TO_SLUG: Record<DemoCharacterKey, DemoSlug> = {
+  山: "shan",
+  月: "yue",
+};
+
+export function isDemoSlug(value: string): value is DemoSlug {
+  return value === "shan" || value === "yue";
+}
+
+export function getCharacterBySlug(slug: DemoSlug): DemoCharacterKey {
+  return DEMO_SLUG_TO_CHARACTER[slug];
+}
+
+export function getSlugByCharacter(character: DemoCharacterKey): DemoSlug {
+  return DEMO_CHARACTER_TO_SLUG[character];
+}
+
 export type DemoGenerationStatus = "idle" | "submitting" | "queued" | "generating" | "succeeded" | "failed";
 
 export interface StaticDemoCharacter {

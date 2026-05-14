@@ -4,20 +4,26 @@ import { PageHeader } from "@/components/shared/PageHeader";
 import { AnalysisResultView } from "@/features/analyze/AnalysisResultView";
 import { FINAL_ASSETS } from "@/lib/design/content";
 import { AnalyzeIntroWrapper } from "@/features/analyze/AnalyzeIntroWrapper";
-import { DEMO_CHARACTER_KEYS, getStaticDemoCharacter } from "@/lib/demo/static-demo-data";
+import { getStaticDemoCharacter, isDemoSlug, getCharacterBySlug } from "@/lib/demo/static-demo-data";
 
 interface AnalyzePageProps {
-  params: Promise<{ sessionId: string }>;
+  params: Promise<{ slug: string }>;
 }
 
 export function generateStaticParams() {
-  return DEMO_CHARACTER_KEYS.map((sessionId) => ({ sessionId: encodeURIComponent(sessionId) }));
+  return [{ slug: "shan" }, { slug: "yue" }];
 }
 
 export default async function AnalyzePage({ params }: AnalyzePageProps) {
   try {
-    const { sessionId } = await params;
-    const demo = getStaticDemoCharacter(decodeURIComponent(sessionId));
+    const { slug } = await params;
+
+    if (!isDemoSlug(slug)) {
+      return <ErrorState detail="当前静态演示版仅支持：山、月。" title="分析页加载失败" />;
+    }
+
+    const character = getCharacterBySlug(slug);
+    const demo = getStaticDemoCharacter(character);
 
     if (!demo) {
       return <ErrorState detail="当前静态演示版仅支持：山、月。" title="分析页加载失败" />;
@@ -35,7 +41,7 @@ export default async function AnalyzePage({ params }: AnalyzePageProps) {
               title={`${demo.character} · 汉字文化星图`}
               titleClassName="font-[var(--font-display)] text-[#fff3dd]"
             />
-            <AnalysisResultView demo={demo} />
+            <AnalysisResultView demo={demo} slug={slug} />
           </div>
         </AppStageShell>
       </>

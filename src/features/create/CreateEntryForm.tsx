@@ -4,7 +4,7 @@ import { useState } from "react";
 
 import { useRouteTransition } from "@/components/motion/RouteTransitionProvider";
 import { TextureButton } from "@/components/shared/TextureButton";
-import { isSupportedDemoCharacter } from "@/lib/demo/static-demo-data";
+import { isSupportedDemoCharacter, getSlugByCharacter } from "@/lib/demo/static-demo-data";
 import { DESIGN_ASSETS } from "@/lib/design/content";
 import { isSingleCharacter, RECOMMENDED_CHARACTERS, S_GRADE_CHARACTERS } from "@/lib/constants/characters";
 
@@ -33,7 +33,8 @@ export function CreateEntryForm() {
         return;
       }
 
-      startRollTransition(`/analyze/${normalizedCharacter}`);
+      const slug = getSlugByCharacter(normalizedCharacter);
+      startRollTransition(`/analyze/${slug}`);
     } catch {
       setErrorMessage("演示页跳转失败，请重新选择山或月。");
       setSubmitting(false);

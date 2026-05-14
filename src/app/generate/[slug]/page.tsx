@@ -2,21 +2,27 @@ import { ErrorState } from "@/components/shared/ErrorState";
 import { AppStageShell } from "@/components/layout/AppStageShell";
 import { PageHeader } from "@/components/shared/PageHeader";
 import { GenerateWorkbench } from "@/features/generate/GenerateWorkbench";
-import { DEMO_CHARACTER_KEYS, getStaticDemoCharacter } from "@/lib/demo/static-demo-data";
+import { getStaticDemoCharacter, isDemoSlug, getCharacterBySlug } from "@/lib/demo/static-demo-data";
 import { FINAL_ASSETS } from "@/lib/design/content";
 
 interface GeneratePageProps {
-  params: Promise<{ sessionId: string }>;
+  params: Promise<{ slug: string }>;
 }
 
 export function generateStaticParams() {
-  return DEMO_CHARACTER_KEYS.map((sessionId) => ({ sessionId: encodeURIComponent(sessionId) }));
+  return [{ slug: "shan" }, { slug: "yue" }];
 }
 
 export default async function GeneratePage({ params }: GeneratePageProps) {
   try {
-    const { sessionId } = await params;
-    const demo = getStaticDemoCharacter(decodeURIComponent(sessionId));
+    const { slug } = await params;
+
+    if (!isDemoSlug(slug)) {
+      return <ErrorState detail="当前静态演示版仅支持：山、月。" title="生成页加载失败" />;
+    }
+
+    const character = getCharacterBySlug(slug);
+    const demo = getStaticDemoCharacter(character);
 
     if (!demo) {
       return <ErrorState detail="当前静态演示版仅支持：山、月。" title="生成页加载失败" />;
@@ -26,13 +32,13 @@ export default async function GeneratePage({ params }: GeneratePageProps) {
       <AppStageShell backgroundImage={FINAL_ASSETS.globalDarkBackground}>
         <div className="space-y-8">
           <PageHeader
-            backHref={`/analyze/${demo.character}`}
+            backHref={`/analyze/${slug}`}
             description="选择解析图风格与比例，系统将直接生成接近成品展示的汉字文化阐释效果图。"
             descriptionClassName="text-[#eadfc7]"
             title={`${demo.character} · 生成配置`}
             titleClassName="font-[var(--font-display)] text-[#fff4df]"
           />
-          <GenerateWorkbench demo={demo} />
+          <GenerateWorkbench demo={demo} slug={slug} />
         </div>
       </AppStageShell>
     );

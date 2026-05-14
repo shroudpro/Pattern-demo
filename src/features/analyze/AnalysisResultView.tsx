@@ -3,15 +3,16 @@
 import { useRouteTransition } from "@/components/motion/RouteTransitionProvider";
 import { TextureButton } from "@/components/shared/TextureButton";
 import { DESIGN_ASSETS } from "@/lib/design/content";
-import type { StaticDemoCharacter } from "@/lib/demo/static-demo-data";
+import type { DemoSlug, StaticDemoCharacter } from "@/lib/demo/static-demo-data";
 
 import { HanziOceanStage } from "./HanziOceanStage";
 
 interface AnalysisResultViewProps {
   demo: StaticDemoCharacter;
+  slug: DemoSlug;
 }
 
-export function AnalysisResultView({ demo }: AnalysisResultViewProps) {
+export function AnalysisResultView({ demo, slug }: AnalysisResultViewProps) {
   const { startRollTransition } = useRouteTransition();
 
   return (
@@ -35,7 +36,7 @@ export function AnalysisResultView({ demo }: AnalysisResultViewProps) {
           <TextureButton
             backgroundImage={DESIGN_ASSETS.buttonBackground}
             className="justify-self-start lg:justify-self-end"
-            onClick={() => startRollTransition(`/generate/${demo.character}`)}
+            onClick={() => startRollTransition(`/generate/${slug}`)}
           >
             进入生成阶段
           </TextureButton>
