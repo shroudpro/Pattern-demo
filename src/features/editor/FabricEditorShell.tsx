@@ -5,7 +5,7 @@ import { useEffect, useRef, useState, type ChangeEvent } from "react";
 import { TextureButton } from "@/components/shared/TextureButton";
 import { DESIGN_ASSETS, FINAL_ASSETS } from "@/lib/design/content";
 import { getFontFamilyLabel } from "@/lib/formatters/display";
-import type { StaticDemoCharacter } from "@/lib/demo/static-demo-data";
+import type { EditableTextLayer, StaticDemoCharacter } from "@/lib/demo/static-demo-data";
 
 interface FabricEditorShellProps {
   demo: StaticDemoCharacter;
@@ -20,7 +20,9 @@ interface EditorLayerItem {
   type: string;
 }
 
-const SYSTEM_FONT_FAMILIES = ["Microsoft YaHei", "SimSun", "SimHei", "KaiTi", "FangSong", "serif", "sans-serif"] as const;
+const EDITOR_DEFAULT_FONT_FAMILY = "KaiTi, STKaiti, serif";
+const EDITOR_DEFAULT_TEXT_FILL = "#2e241a";
+const SYSTEM_FONT_FAMILIES = [EDITOR_DEFAULT_FONT_FAMILY, "Microsoft YaHei", "SimSun", "SimHei", "KaiTi", "FangSong", "serif", "sans-serif"] as const;
 
 export function FabricEditorShell({ demo }: FabricEditorShellProps) {
   const canvasElementRef = useRef<HTMLCanvasElement | null>(null);
@@ -30,9 +32,9 @@ export function FabricEditorShell({ demo }: FabricEditorShellProps) {
   const fabricModuleRef = useRef<FabricModule | null>(null);
   const [ready, setReady] = useState(false);
   const [errorMessage, setErrorMessage] = useState("");
-  const [selectedTextColor, setSelectedTextColor] = useState("#111827");
+  const [selectedTextColor, setSelectedTextColor] = useState(EDITOR_DEFAULT_TEXT_FILL);
   const [selectedFontSize, setSelectedFontSize] = useState(48);
-  const [selectedFontFamily, setSelectedFontFamily] = useState<(typeof SYSTEM_FONT_FAMILIES)[number]>("Microsoft YaHei");
+  const [selectedFontFamily, setSelectedFontFamily] = useState<(typeof SYSTEM_FONT_FAMILIES)[number]>(EDITOR_DEFAULT_FONT_FAMILY);
   const [selectedFontWeight, setSelectedFontWeight] = useState<"normal" | "bold">("normal");
   const [layers, setLayers] = useState<EditorLayerItem[]>([]);
   const [selectedLayerId, setSelectedLayerId] = useState<string | null>(null);
@@ -62,7 +64,8 @@ export function FabricEditorShell({ demo }: FabricEditorShellProps) {
         });
         canvasRef.current = canvas;
 
-        await applyBackgroundImage(canvas, fabricModule, demo.outputImageUrl, demo.canvasWidth, demo.canvasHeight);
+        await applyBackgroundImage(canvas, fabricModule, demo.editorBackgroundImageUrl, demo.canvasWidth, demo.canvasHeight);
+        addEditableTextLayers(canvas, fabricModule, demo.editableTextLayers);
         bindCanvasEvents(canvas);
         refreshLayers(canvas);
         fitCanvasToShell(canvas);
@@ -86,7 +89,7 @@ export function FabricEditorShell({ demo }: FabricEditorShellProps) {
       canvasRef.current?.dispose();
       canvasRef.current = null;
     };
-  }, [demo.canvasHeight, demo.canvasWidth, demo.outputImageUrl]);
+  }, [demo.canvasHeight, demo.canvasWidth, demo.editorBackgroundImageUrl, demo.editableTextLayers]);
 
   function bindCanvasEvents(canvas: import("fabric").Canvas) {
     const events = ["object:added", "object:modified", "object:removed"] as const;
@@ -129,20 +132,60 @@ export function FabricEditorShell({ demo }: FabricEditorShellProps) {
     const activeObject = canvas.getActiveObject();
     if (!activeObject || !isTextObject(activeObject)) {
       setSelectedFontSize(48);
-      setSelectedTextColor("#111827");
+      setSelectedTextColor(EDITOR_DEFAULT_TEXT_FILL);
       setSelectedLayerId(activeObject ? getObjectId(activeObject) : null);
       return;
     }
 
     const fontSize = typeof activeObject.get("fontSize") === "number" ? Number(activeObject.get("fontSize")) : 48;
-    const fill = typeof activeObject.get("fill") === "string" ? String(activeObject.get("fill")) : "#111827";
-    const fontFamily = typeof activeObject.get("fontFamily") === "string" ? String(activeObject.get("fontFamily")) : "Microsoft YaHei";
+    const fill = typeof activeObject.get("fill") === "string" ? String(activeObject.get("fill")) : EDITOR_DEFAULT_TEXT_FILL;
+    const fontFamily = typeof activeObject.get("fontFamily") === "string" ? String(activeObject.get("fontFamily")) : EDITOR_DEFAULT_FONT_FAMILY;
     const fontWeight = activeObject.get("fontWeight") === "bold" ? "bold" : "normal";
     setSelectedFontSize(fontSize);
     setSelectedTextColor(fill);
-    setSelectedFontFamily(SYSTEM_FONT_FAMILIES.includes(fontFamily as (typeof SYSTEM_FONT_FAMILIES)[number]) ? (fontFamily as (typeof SYSTEM_FONT_FAMILIES)[number]) : "Microsoft YaHei");
+    setSelectedFontFamily(SYSTEM_FONT_FAMILIES.includes(fontFamily as (typeof SYSTEM_FONT_FAMILIES)[number]) ? (fontFamily as (typeof SYSTEM_FONT_FAMILIES)[number]) : EDITOR_DEFAULT_FONT_FAMILY);
     setSelectedFontWeight(fontWeight);
     setSelectedLayerId(getObjectId(activeObject));
+  }
+
+  function addEditableTextLayers(
+    canvas: import("fabric").Canvas,
+    fabricModule: FabricModule,
+    editableTextLayers: EditableTextLayer[],
+  ) {
+    editableTextLayers.forEach((layer) => {
+      canvas.add(createTextboxFromLayer(fabricModule, layer, demo.canvasWidth, demo.canvasHeight));
+    });
+    canvas.requestRenderAll();
+  }
+
+  function createTextboxFromLayer(
+    fabricModule: FabricModule,
+    layer: EditableTextLayer,
+    canvasWidth: number,
+    canvasHeight: number,
+  ) {
+    const [x, y, width, height] = layer.boxNorm;
+    const textbox = new fabricModule.Textbox(layer.text, {
+      left: x * canvasWidth,
+      top: (1 - y - height) * canvasHeight,
+      width: width * canvasWidth,
+      height: height * canvasHeight,
+      fill: layer.fill ?? EDITOR_DEFAULT_TEXT_FILL,
+      fontSize: layer.fontSize9 * canvasHeight / 9,
+      fontFamily: EDITOR_DEFAULT_FONT_FAMILY,
+      fontWeight: layer.fontWeight ?? "normal",
+      textAlign: layer.textAlign,
+      lineHeight: layer.lineHeight,
+      editable: true,
+      selectable: true,
+      evented: true,
+      splitByGrapheme: true,
+      transparentCorners: false,
+    });
+    textbox.set("id", layer.id);
+    textbox.set("data", { role: "editable-text", label: layer.label });
+    return textbox;
   }
 
   async function applyBackgroundImage(

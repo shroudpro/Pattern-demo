@@ -29,22 +29,113 @@ export function getSlugByCharacter(character: DemoCharacterKey): DemoSlug {
 
 export type DemoGenerationStatus = "idle" | "submitting" | "queued" | "generating" | "succeeded" | "failed";
 
+export interface EditableTextLayer {
+  id: string;
+  label: string;
+  text: string;
+  boxNorm: [number, number, number, number];
+  fontSize9: number;
+  lineHeight: number;
+  textAlign: "left" | "center" | "right";
+  fontWeight?: "normal" | "bold";
+  fill?: string;
+}
+
 export interface StaticDemoCharacter {
   character: DemoCharacterKey;
   analysis: CharacterAnalysis;
   outputImageUrl: string;
+  editorBackgroundImageUrl: string;
   canvasWidth: number;
   canvasHeight: number;
+  editableTextLayers: EditableTextLayer[];
 }
 
 export const DEMO_CHARACTER_KEYS: DemoCharacterKey[] = ["山", "月"];
+
+const EDITOR_TEXT_FILL = "#2e241a";
+
+function textLayer(
+  id: string,
+  label: string,
+  text: string,
+  boxNorm: [number, number, number, number],
+  fontSize9: number,
+  lineHeight: number,
+  textAlign: "left" | "center" | "right" = "left",
+  fontWeight: "normal" | "bold" = "normal",
+): EditableTextLayer {
+  return {
+    id,
+    label,
+    text,
+    boxNorm,
+    fontSize9,
+    lineHeight,
+    textAlign,
+    fontWeight,
+    fill: EDITOR_TEXT_FILL,
+  };
+}
+
+const SHAN_EDITABLE_TEXT_LAYERS: EditableTextLayer[] = [
+  textLayer("title", "顶部主标题", "山：高峻、静穆与精神高度", [0.135, 0.852, 0.46, 0.08], 0.56, 1.25),
+  textLayer("shuowen-body", "说文解字正文", "山，宣也。\n宣气散，生万物，\n有石而高。", [0.567, 0.696, 0.2, 0.13], 0.32, 1.4),
+  textLayer(
+    "modern-body",
+    "现代释义正文",
+    "山是地面上高耸隆起的自然地形，\n由岩石、土壤构成。\n在现代语境中，山常象征着稳定、\n坚毅、依靠与精神高度。",
+    [0.565, 0.507, 0.24, 0.14],
+    0.24,
+    1.45,
+  ),
+  textLayer("imagery-1-title", "意象分析一标题", "高远", [0.588, 0.338, 0.06, 0.035], 0.23, 1.25, "center"),
+  textLayer("imagery-1-body", "意象分析一正文", "志向远大\n境界高远", [0.588, 0.293, 0.06, 0.045], 0.17, 1.3, "center"),
+  textLayer("imagery-2-title", "意象分析二标题", "稳定", [0.684, 0.338, 0.06, 0.035], 0.23, 1.25, "center"),
+  textLayer("imagery-2-body", "意象分析二正文", "坚实可靠\n安定如山", [0.684, 0.293, 0.06, 0.045], 0.17, 1.3, "center"),
+  textLayer("imagery-3-title", "意象分析三标题", "归隐", [0.782, 0.338, 0.06, 0.035], 0.23, 1.25, "center"),
+  textLayer("imagery-3-body", "意象分析三正文", "隐逸山林\n淡泊明志", [0.782, 0.293, 0.06, 0.045], 0.17, 1.3, "center"),
+  textLayer("imagery-4-title", "意象分析四标题", "人格象征", [0.882, 0.338, 0.075, 0.035], 0.21, 1.25, "center"),
+  textLayer("imagery-4-body", "意象分析四正文", "坚毅不屈\n正直崇高", [0.882, 0.293, 0.075, 0.045], 0.17, 1.3, "center"),
+  textLayer("poem-1-line", "常见诗词一句", "会当凌绝顶，一览众山小。", [0.57, 0.177, 0.22, 0.04], 0.24, 1.25),
+  textLayer("poem-1-source", "常见诗词一作者", "——杜甫《望岳》", [0.79, 0.177, 0.145, 0.04], 0.18, 1.25),
+  textLayer("poem-2-line", "常见诗词二句", "空山新雨后，天气晚来秋。", [0.57, 0.113, 0.235, 0.04], 0.24, 1.25),
+  textLayer("poem-2-source", "常见诗词二作者", "——王维《山居秋暝》", [0.805, 0.113, 0.15, 0.04], 0.18, 1.25),
+];
+
+const YUE_EDITABLE_TEXT_LAYERS: EditableTextLayer[] = [
+  textLayer("title", "顶部主标题", "月：清辉、圆缺与时间诗意", [0.134, 0.852, 0.49, 0.08], 0.56, 1.25),
+  textLayer("shuowen-body", "说文解字正文", "月，阙也。\n太阴之精。\n象形。", [0.57, 0.693, 0.16, 0.13], 0.32, 1.4),
+  textLayer(
+    "modern-body",
+    "现代释义正文",
+    "月指地球的天然卫星，\n也是古人观时、记月、抒情的重要对象。\n在现代语境中，月常象征柔和、静美、团圆、思念，以及时间流转中的诗意感受。",
+    [0.565, 0.49, 0.29, 0.15],
+    0.24,
+    1.45,
+  ),
+  textLayer("imagery-1-title", "意象分析一标题", "清辉", [0.59, 0.323, 0.06, 0.045], 0.23, 1.25, "center"),
+  textLayer("imagery-1-body", "意象分析一正文", "澄澈柔和\n静照万物", [0.59, 0.283, 0.06, 0.04], 0.17, 1.3, "center"),
+  textLayer("imagery-2-title", "意象分析二标题", "团圆", [0.685, 0.323, 0.06, 0.045], 0.23, 1.25, "center"),
+  textLayer("imagery-2-body", "意象分析二正文", "中秋望月\n家人相思", [0.685, 0.283, 0.06, 0.04], 0.17, 1.3, "center"),
+  textLayer("imagery-3-title", "意象分析三标题", "思念", [0.781, 0.323, 0.06, 0.045], 0.23, 1.25, "center"),
+  textLayer("imagery-3-body", "意象分析三正文", "望月怀远\n寄情千里", [0.781, 0.283, 0.06, 0.04], 0.17, 1.3, "center"),
+  textLayer("imagery-4-title", "意象分析四标题", "时序", [0.879, 0.323, 0.06, 0.045], 0.23, 1.25, "center"),
+  textLayer("imagery-4-body", "意象分析四正文", "阴晴圆缺\n岁月流转", [0.879, 0.283, 0.06, 0.04], 0.17, 1.3, "center"),
+  textLayer("poem-1-line", "常见诗词一句", "举头望明月，低头思故乡。", [0.57, 0.177, 0.215, 0.04], 0.24, 1.25),
+  textLayer("poem-1-source", "常见诗词一作者", "——李白《静夜思》", [0.785, 0.177, 0.145, 0.04], 0.18, 1.25),
+  textLayer("poem-2-line", "常见诗词二句", "海上生明月，天涯共此时。", [0.57, 0.112, 0.215, 0.04], 0.24, 1.25),
+  textLayer("poem-2-source", "常见诗词二作者", "——张九龄《望月怀远》", [0.785, 0.112, 0.165, 0.04], 0.18, 1.25),
+];
 
 export const STATIC_DEMO_CHARACTERS: Record<DemoCharacterKey, StaticDemoCharacter> = {
   山: {
     character: "山",
     outputImageUrl: "/img/山.png",
+    editorBackgroundImageUrl: "/img/山-noword.png",
     canvasWidth: 1672,
     canvasHeight: 941,
+    editableTextLayers: SHAN_EDITABLE_TEXT_LAYERS,
     analysis: {
       character: "山",
       validated: true,
@@ -99,8 +190,10 @@ export const STATIC_DEMO_CHARACTERS: Record<DemoCharacterKey, StaticDemoCharacte
   月: {
     character: "月",
     outputImageUrl: "/img/月.png",
+    editorBackgroundImageUrl: "/img/月-noword.png",
     canvasWidth: 1672,
     canvasHeight: 941,
+    editableTextLayers: YUE_EDITABLE_TEXT_LAYERS,
     analysis: {
       character: "月",
       validated: true,

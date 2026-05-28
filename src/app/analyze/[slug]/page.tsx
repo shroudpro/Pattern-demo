@@ -38,6 +38,13 @@ export default async function AnalyzePage({ params }: AnalyzePageProps) {
               backHref="/create"
               description="字海聚焦目标汉字，展开字源、现代释义、文化意象和诗词关联的结构化星图。"
               descriptionClassName="text-[#e8d8b8]"
+              aside={
+                <img
+                  alt={`${demo.character} 的字形演变图`}
+                  className="h-auto w-[min(42vw,360px)] max-w-full object-contain opacity-95 drop-shadow-[0_8px_24px_rgba(0,0,0,0.24)]"
+                  src={`/img/${demo.character}的演变-nobg.png`}
+                />
+              }
               title={`${demo.character} · 汉字文化星图`}
               titleClassName="font-[var(--font-display)] text-[#fff3dd]"
             />
